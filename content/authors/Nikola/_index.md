@@ -65,4 +65,4 @@ user_groups:
   - Researchers
 ---
 
-Here is a link to my [personal website](https://www.nikolasekulovski.com).
+[Here](https://www.nikolasekulovski.com) is a link to my personal website.
