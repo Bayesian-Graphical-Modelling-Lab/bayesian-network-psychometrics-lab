@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'n.sekulovski@uva.nl'
+    link: 'mailto:n.sekulovski@uva.nl'
  # - icon: google-scholar
    # icon_pack: ai
    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,4 +65,4 @@ user_groups:
   - Researchers
 ---
 
-[Personal website](https://www.nikolasekulovski.com)
+Here is a link to my [personal website](https://www.nikolasekulovski.com).
