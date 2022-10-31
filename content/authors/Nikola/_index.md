@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate.
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -24,15 +24,18 @@ interests:
   - 
   - 
   - 
-
+  
 education:
   courses:
-    - course: PhD in 
-      year: 20
-    - course: MSc in 
-      year: 20
-    - course: BSc in
-      year: 20
+  - course: PhD - Bayesian Network Psychometrics
+    institution: University of Amsterdam, The Netherlands
+    year: 2022 - present
+  - course: MSc in Methodology and Statistics
+    institution: Utrecht University, The Netherlands
+    year: 2020 - 2022
+  - course: BSc in Psychology
+    institution: Ss. Cyril and Methodius University, North Macedonia
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,16 +44,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-   # link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-   # link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
+    link: 'n.sekulovski@uva.nl'
+ # - icon: google-scholar
+   # icon_pack: ai
    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-   # link: https://github.com/gcushen
+    link: https://github.com/sekulovskin
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Small biography (maybe)
+[Personal website](https://www.nikolasekulovski.com)
