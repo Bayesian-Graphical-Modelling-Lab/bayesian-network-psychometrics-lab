@@ -23,9 +23,9 @@ organizations:
 education:
   courses:
   - course: PhD - Network psychometrics and its applications on addiction and depression
-    institution: Centre for Urban Mental Health, University of Amsterdam; Amsterdam UMC, The Netherlands;
+    institution: Centre for Urban Mental Health, University of Amsterdam
     year: 2020 - present
-  - course: MSc Psychology
+  - course: MSc in Psychology
     institution: University of Amsterdam, The Netherlands
     year: 2018 - 2020
   - course: BSc in Psychology
