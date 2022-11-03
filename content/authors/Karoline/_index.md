@@ -20,19 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - 
-  - 
-  - 
-
 education:
   courses:
-    - course: PhD in 
-      year: 20
-    - course: MSc in 
-      year: 20
-    - course: BSc in
-      year: 20
+  - course: PhD - Bayesian Network Psychometrics
+    institution: Centre for Urban Mental Health, University of Amsterdam, The Netherlands; Amsterdam UMC, The Netherlands;
+    year: 2020 - present
+  - course: MSc - Research Master Psychology
+    institution: University of Amsterdam, The Netherlands
+    year: 2018 - 2020
+  - course: BSc in Psychology
+    institution: University of Mannheim, Germany
+    year: 2014 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,22 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-   # link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-   # link: https://twitter.com/GeorgeCushen
+    link: 'mailto:k.huth@uva.nl'
   - icon: google-scholar
     icon_pack: ai
-   # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.nl/citations?user=_0707qYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-   # link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
+    link: https://github.com/KarolineHuth
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
