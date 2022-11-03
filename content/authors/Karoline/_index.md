@@ -22,7 +22,7 @@ organizations:
 
 education:
   courses:
-  - course: PhD - Bayesian Network Psychometrics
+  - course: PhD - Network psychometrics and its applications on addiction and depression
     institution: Centre for Urban Mental Health, University of Amsterdam, The Netherlands; Amsterdam UMC, The Netherlands;
     year: 2020 - present
   - course: MSc - Research Master Psychology
