@@ -40,9 +40,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:k.huth@uva.nl'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/karoline_huth
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.nl/citations?user=_0707qYAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.nl/citations?user=0707qYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/KarolineHuth
@@ -58,4 +61,4 @@ user_groups:
   - Researchers
 ---
 
-Small biography (maybe)
+#Small biography (maybe)
