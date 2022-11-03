@@ -42,13 +42,13 @@ social:
     link: 'mailto:k.huth@uva.nl'
   - icon: twitter
     icon_pack: fab
-    link: [https://twitter.com/GeorgeCushen](https://twitter.com/karoline_huth)
+    link: https://twitter.com/karoline_huth
   - icon: google-scholar
     icon_pack: ai
-    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.nl/citations?user=0707qYAAAAJ&hl=en&oi=ao)
+    link: https://scholar.google.nl/citations?user=0707qYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: [https://github.com/gcushen](https://github.com/KarolineHuth)
+    link: https://github.com/KarolineHuth
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
