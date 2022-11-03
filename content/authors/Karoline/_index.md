@@ -43,8 +43,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/karoline_huth
-  - icon: google-scholar
-    icon_pack: ai
+  - icon = "google-scholar"
+    icon_pack = "ai"
     link: https://scholar.google.nl/citations?user=0707qYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
