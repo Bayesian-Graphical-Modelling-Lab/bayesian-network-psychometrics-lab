@@ -14,7 +14,7 @@ role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Psychological Methods programme, University of Amsterdam
+  - name: University of Amsterdam & Amsterdam UMC
     url: 'https://psyres.uva.nl/content/research-groups/programme-group-psychological-methods/programme-group-psychological-methods.html'
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,9 +23,9 @@ organizations:
 education:
   courses:
   - course: PhD - Network psychometrics and its applications on addiction and depression
-    institution: Centre for Urban Mental Health, University of Amsterdam, The Netherlands; Amsterdam UMC, The Netherlands;
+    institution: Centre for Urban Mental Health, University of Amsterdam; Amsterdam UMC, The Netherlands;
     year: 2020 - present
-  - course: MSc - Research Master Psychology
+  - course: MSc Psychology
     institution: University of Amsterdam, The Netherlands
     year: 2018 - 2020
   - course: BSc in Psychology
@@ -61,4 +61,4 @@ user_groups:
   - Researchers
 ---
 
-# Small biography (maybe)
+
