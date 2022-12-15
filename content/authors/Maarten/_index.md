@@ -37,7 +37,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/MarsmanMaarten
   - icon: google-scholar
-    icon_pack: academicons#ai
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=WgN2S4sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
