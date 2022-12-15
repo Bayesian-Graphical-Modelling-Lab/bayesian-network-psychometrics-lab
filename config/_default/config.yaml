@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bayesian Graphical Modelling Lab # Website name
-baseURL: 'https://relaxed-manatee-d79faf.netlify.app/ ' # Website URL
+baseURL: 'http://bayesiangraphicalmodeling.com/' # Website URL
 
 ############################
 ## LANGUAGE
