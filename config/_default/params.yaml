@@ -95,7 +95,9 @@ features:
     api_key: ''
     zoom: 15
 
-# Extensions
+extensions:
+  academicons:
+    enable: true
 
 
 
