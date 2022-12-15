@@ -23,10 +23,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in 
-      year: 2014
-    - course: MSc in 
-      year: 2009
+    - course: PhD - Plausible Values in Statistical Inference 
+      institution: University of Twente, Cito
+      year: 2009 - 2014
+    - course: MSc in Psychology
+      institution: University of Twente
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,7 +42,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/MarsmanMaarten
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: academicons#ai
     link: https://scholar.google.com/citations?user=WgN2S4sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
