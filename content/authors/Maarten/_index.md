@@ -6,7 +6,7 @@ title: Maarten Marsman
 superuser: false 
 
 # Role/position
-role: Assistant Professor & Project Leader
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
