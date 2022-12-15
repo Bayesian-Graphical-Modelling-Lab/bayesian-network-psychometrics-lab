@@ -16,15 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-education:
-  courses:
-    - course: PhD - Plausible Values in Statistical Inference 
-      institution: University of Twente, Cito
-      year: 2009 - 2014
-    - course: MSc in Psychology
-      institution: University of Twente
-      year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -59,4 +50,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-[Here](https://www.maartenmarsman.com) is a link to my personal website.
+[Maarten Marsman](https://www.maartenmarsman.com) is an assistant professor of psychological methods at the University of Amsterdam. He combines psychometric theory, often bridging the domains of latent variable and network modeling, with developing statistical models and techniques to analyze and understand psychological phenomena. In the past decade, Marsman has focused on developing Bayesian methods to analyze psychological data with statistical models, in particular, psychometric models and the open-source statistical software [JASP](https://jasp-stats.org/). His current focus on the Bayesian analysis of graphical models extends his focus on psychometric modeling and analysis into the realm of network analysis. 
