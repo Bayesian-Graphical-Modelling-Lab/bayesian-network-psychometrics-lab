@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Bayesian Graphical Modelling Lab # Website name
+title: Bayesian Graphical Modeling Lab # Website name
 baseURL: 'http://bayesiangraphicalmodeling.com/' # Website URL
 
 ############################
