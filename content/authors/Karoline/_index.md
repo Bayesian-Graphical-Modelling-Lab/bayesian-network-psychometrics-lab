@@ -45,7 +45,7 @@ social:
     link: https://twitter.com/karoline_huth
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.nl/citations?user=0707qYAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=_0707qYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/KarolineHuth
