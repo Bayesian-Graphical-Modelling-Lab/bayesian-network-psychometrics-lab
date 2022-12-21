@@ -7,12 +7,12 @@ main:
   - name: Team
     url: people
     weight: 10
-  - name: Tutorials
-    url: post
-    weight: 20
+#  - name: Tutorials
+#    url: post
+#    weight: 20
   - name: Publications
     url: publication
-    weight: 30
+    weight: 20
   - name: Rejection Collection
     url: rejections
     weight: 30
