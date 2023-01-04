@@ -14,11 +14,7 @@ bibtex_2academic <- function(bibfile,
   
   mypubs <- mypubs  %>%
     mutate(mainref = journal)
-  
   mypubs$mainref <- mypubs$mainref %>% replace_na('') #otherwise it appears "NA" in post
-  
-  str_replace_all(mypubs$bibtype, c("Misc" = "Presentation"))
-  str_replace_all(mypubs$bibtype, c("PhdThesis" = "Thesis"))
   
   mypubs$abstract <- mypubs$abstract %>% replace_na('(Abstract not available)') #otherwise it appears "NA" in post
   #  mypubs$annotation <- mypubs$annotation %>% replace_na('image_preview = ""') #otherwise
@@ -75,7 +71,6 @@ bibtex_2academic <- function(bibfile,
                                  bibtype == "Proceedings" ~ "1",
                                  bibtype == "Conference" ~ "1",
                                  bibtype == "Conference Paper" ~ "1",
-                                 bibtype == "Thesis" ~ "3",
                                  bibtype == "MastersThesis" ~ "3",
                                  bibtype == "PhdThesis" ~ "3",
                                  bibtype == "Manual" ~ "4",
@@ -128,7 +123,7 @@ bibtex_2academic <- function(bibfile,
       if (!is.na(x[["editor"]])) publication <- paste0(publication,
                                                        " In ", x[["editor"]], ": ")
       if (!is.na(x[["booktitle"]])) publication <- paste0(publication,
-                                                          x[["booktitle"]], "")
+                                                          x[["booktitle"]], ". ")
       if (!is.na(x[["volume"]])) publication <- paste0(publication,
                                                        ", ", x[["volume"]], "")
       if (!is.na(x[["type"]])) publication <- paste0(publication,
@@ -136,9 +131,9 @@ bibtex_2academic <- function(bibfile,
       if (!is.na(x[["number"]])) publication <- paste0(publication,
                                                        "(", x[["number"]], ")")
       if (!is.na(x[["pages"]])) publication <- paste0(publication,
-                                                      " ", x[["pages"]], " ")
+                                                      " ", x[["pages"]], ".")
       if (!is.na(x[["address"]])) publication <- paste0(publication,
-                                                        ". ", x[["address"]], ":")
+                                                        " ", x[["address"]], ":")
       if (!is.na(x[["institution"]])) publication <- paste0(publication,
                                                             " ", x[["institution"]])
       if (!is.na(x[["publisher"]])) publication <- paste0(publication,
@@ -203,19 +198,9 @@ bibtex_2academic <- function(bibfile,
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
 }
 
-# Running the function for publications
+# Running the function
 
-my_bibfile <- "academic-publications-BGM.bib"
-out_fold   <- "content/publication"
-bibtex_2academic(bibfile  = my_bibfile,
-                 outfold   = out_fold,
-                 abstract  = TRUE,
-                 overwrite = TRUE)
-
-
-#this is for including my presentations collection together with my publications in the same page for the sake of simplicity
-
-my_bibfile <- "academic-presentations-BGM.bib"
+my_bibfile <- "content/publication/academic-publications.bib"
 out_fold   <- "content/publication"
 bibtex_2academic(bibfile  = my_bibfile,
                  outfold   = out_fold,
