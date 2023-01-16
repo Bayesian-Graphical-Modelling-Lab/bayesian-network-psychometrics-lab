@@ -4,4 +4,4 @@ date : "2022-03-01"
 authors : ["M. Marsman", "K. Huth", "L. J. Waldorp", "I. Ntzoufras"]
 publication_types : ["2"]
 abstract: "The Ising model is one of the most widely analyzed graphical models in network psychometrics. However, popular approaches to parameter estimation and structure selection for the Ising model cannot naturally express uncertainty about the estimated parameters or selected structures. To address this issue, this paper offers an objective Bayesian approach to parameter estimation and structure selection for the Ising model. Our methods build on a continuous spike-and-slab approach. We show that our methods consistently select the correct structure and provide a new objective method to set the spike-and-slab hyperparameters. To circumvent the exploration of the complete structure space, which is too large in practical situations, we propose a novel approach that first screens for promising edges and then only explore the space instantiated by these edges. We apply our proposed methods to estimate the network of depression and alcohol use disorder symptoms from symptom scores of over 26,000 subjects."
---
+---
