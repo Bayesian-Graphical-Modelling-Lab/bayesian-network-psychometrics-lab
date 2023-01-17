@@ -1,7 +1,7 @@
 ---
 title : "An Introduction to Network Psychometrics: Relating Ising Network Models to Item Response Theory Models"
 date : "2018-01-02"
-authors : ["M. Marsman", "D. Borsboom", "J. Kruis", "S. Epskamp", "R. van Bork" "L. J. Waldorp", "H. L. J. van der Maas", "G. Maris"]
+authors : ["M. Marsman", "D. Borsboom", "J. Kruis", "S. Epskamp", "R. van Bork", "L. J. Waldorp", "H. L. J. van der Maas", "G. Maris"]
 publication_types : ["2"]
 abstract: "In recent years, network models have been proposed as an alternative representation of psychometric constructs such as depression. In such models, the covariance between observables (e.g., symptoms like depressed mood, feelings of worthlessness, and guilt) is explained in terms of a pattern of causal interactions between these observables, which contrasts with classical interpretations in which the observables are conceptualized as the effects of a reflective latent variable. However, few investigations have been directed at the question how these different models relate to each other. To shed light on this issue, the current paper explores the relation between one of the most important network models the Ising model from physics and one of the most important latent variable models the Item Response Theory (IRT) model from psychometrics. The Ising model describes the interaction between states of particles that are connected in a network, whereas the IRT model describes the probability distribution associated with item responses in a psychometric test as a function of a latent variable. Despite the divergent backgrounds of the models, we show a broad equivalence between them and also illustrate several opportunities that arise from this connection."
 ---
