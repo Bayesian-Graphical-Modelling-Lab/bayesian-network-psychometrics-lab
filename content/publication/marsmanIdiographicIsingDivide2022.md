@@ -1,7 +1,7 @@
 ---
-title : "Idiographic Ising and Divide and Color Models: Encompassing Networks for Heterogeneous Binary Data"
 date : "2021-11-26"
-authors : ["M. Marsman", "K. Huth"]
 publication_types : ["2"]
+publication : "Marsman, M., & Huth, K. (2022). Idiographic Ising and Divide and Color Models: Encompassing Networks
+for Heterogeneous Binary Data. Multivariate Behavioral Research. https://doi.org/10.31234/osf.io/h3ka5" 
 abstract: "The Ising model is a graphical model that has played an essential role in network psychometrics. It has been used as a theoretical model to conceptualize psychological concepts and as a statistical model to analyze psychological data. Using graphical models such as the Ising model to analyze psychological data has been heavily critiqued since these data often come from cross-sectional applications. An often voiced concern is the inability of the Ising model to express heterogeneity in the population. The idiographic approach has been posed as an alternative and aims to infer individual network structures. While idiographic networks overcome population heterogeneity, it is unclear how they aggregate into established cross-sectional phenomena. This paper establishes a formal bridge between idiographic and cross-sectional network approaches of the Ising model. We ascertain unique topological structures that characterize individuals and aggregate into an Ising model crosssectionally. This new formulation supports population heterogeneity while being consistent with cross-sectional phenomena. The proposed theory also establishes a new statistical framework for analyzing populations of idiographic networks for binary variables. The Ising model and the divide and color model are special cases of this new framework. We introduce a Gibbs sampling algorithm to estimate models from this new framework."
 ---

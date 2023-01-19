@@ -1,9 +1,7 @@
 ---
 date : "2022-08-01"
-authors : ["D. van den Bergh", "F. Dablander"]
 publication_types : ["2"]
 publication : "van den Bergh, D., & Dablander, F. (2022). Flexible Bayesian Multiple Comparison Adjustment Using
 Dirichlet Process and Beta-Binomial Model Priors. arXiv. https://arxiv.org/abs/2208.07086"
-
 abstract: "Researchers frequently wish to assess the equality or inequality of groups, but this comes with the challenge of adequately adjusting for multiple comparisons. Statistically, all possible configurations of equality and inequality constraints can be uniquely represented as partitions of the groups, where any number of groups are equal if they are in the same partition. In a Bayesian framework, one can adjust for multiple comparisons by constructing a suitable prior distribution over all possible partitions. Inspired by work on variable selection in regression, we propose a class of flexible beta-binomial priors for Bayesian multiple comparison adjustment. We compare this prior setup to the Dirichlet process prior suggested by Gopalan and Berry (1998) and multiple comparison adjustment methods that do not specify a prior over partitions directly. Our approach to multiple comparison adjustment not only allows researchers to assess all pairwise (in)equalities, but in fact all possible (in)equalities among all groups. As a consequence, the space of possible partitions grows quickly - for ten groups, there are already 115,975 possible partitions - and we set up a stochastic search algorithm to efficiently explore the space. Our method is implemented in the Julia package EqualitySampler, and we illustrate it on examples related to the comparison of means, variances, and proportions."
 ---

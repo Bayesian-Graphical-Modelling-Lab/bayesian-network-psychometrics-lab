@@ -1,6 +1,5 @@
 ---
 date : "2018-01-02"
-authors : ["M. Marsman", "D. Borsboom", "J. Kruis", "S. Epskamp", "R. van Bork", "L. J. Waldorp", "H. L. J. van der Maas", "G. Maris"]
 publication_types : ["2"]
 publication : "Marsman, M., Borsboom, D., Kruis, J., Epskamp, S., van Bork, R., Waldorp, L. J., Maas, H. L. J. van der,
 & Maris, G. (2018). An introduction to network psychometrics: Relating Ising network models to item response theory models. Multivariate Behavioral Research, 53, 15–35. https://doi.org/10.1080/00273171.2017.1379379"
