@@ -21,4 +21,4 @@ design:
 
 <br>
 
-![alt text](welcome.png){width: 200px;}
+![alt text-1](erc.png) ![alt-text-2](abc.png)
