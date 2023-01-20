@@ -1,4 +1,5 @@
 ---
+title : "Towards an Encompassing Theory of Network Models"
 date : "2021-02-10"
 publication_types : ["2"]
 publication : "Marsman, M., Waldorp, L., & Borsboom, D. Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, and Wasserman (2019). Psychological Methods. https://doi.org/10.1037/met0000373"

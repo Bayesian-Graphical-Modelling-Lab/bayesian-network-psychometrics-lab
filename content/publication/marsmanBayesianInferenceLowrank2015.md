@@ -1,4 +1,5 @@
 ---
+title : "Bayesian Inference for Low-Rank Ising Networks"
 date : "2015-03-12"
 publication_types : ["2"]
 publication : "Marsman, M., Maris, G., Bechger, T., & Glas, C. Bayesian inference for low-rank Ising networks.

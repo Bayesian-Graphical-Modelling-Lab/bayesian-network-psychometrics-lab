@@ -1,4 +1,5 @@
 ---
+title : "Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors"
 date : "2022-08-01"
 publication_types : ["2"]
 publication : "van den Bergh, D., & Dablander, F. Flexible Bayesian Multiple Comparison Adjustment Using

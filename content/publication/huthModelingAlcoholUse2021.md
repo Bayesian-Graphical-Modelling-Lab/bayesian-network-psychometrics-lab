@@ -1,4 +1,5 @@
 ---
+title : "Modeling Alcohol Use Disorder as a Set of Interconnected Symptoms -Assessing Differences between Clinical and Population Samples and across External Factors"
 date : "2021-09-29"
 publication_types : ["2"]
 publication: "Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. Modeling alcohol

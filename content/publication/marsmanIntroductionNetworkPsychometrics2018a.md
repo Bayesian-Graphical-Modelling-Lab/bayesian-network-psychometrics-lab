@@ -1,4 +1,5 @@
 ---
+title : "An Introduction to Network Psychometrics: Relating Ising Network Models to Item Response Theory Models"
 date : "2018-01-02"
 publication_types : ["2"]
 publication : "Marsman, M., Borsboom, D., Kruis, J., Epskamp, S., van Bork, R., Waldorp, L. J., Maas, H. L. J. van der,

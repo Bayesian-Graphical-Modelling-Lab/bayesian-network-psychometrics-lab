@@ -1,4 +1,5 @@
 ---
+title : "Idiographic Ising and Divide and Color Models: Encompassing Networks for Heterogeneous Binary Data"
 date : "2021-11-26"
 publication_types : ["2"]
 publication : "Marsman, M., & Huth, K. Idiographic Ising and Divide and Color Models: Encompassing Networks

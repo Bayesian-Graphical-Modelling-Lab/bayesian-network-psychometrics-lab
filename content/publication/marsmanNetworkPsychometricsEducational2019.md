@@ -1,4 +1,5 @@
 ---
+title : "Network Psychometrics in Educational Practice. Maximum Likelihood Estimation of the Curie-Weiss Model."
 date : "2019-07-06"
 publication_types : ["6"]
 publication: "Marsman, M., Tanis, C., Bechger, T. M., & Waldorp, L. J. Network psychometrics in educational practice. Maximum likelihood estimation of the Curie-Weiss model. In Theoretical and Practical Advancesbin Computer-Based Educational Measurement (pp. 93–120). Springer Nature"
