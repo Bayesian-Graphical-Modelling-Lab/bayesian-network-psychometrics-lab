@@ -21,4 +21,4 @@ design:
 
 <br>
 
-
+![image](/bayesian-network-psychometrics-lab_/assets/media/welcome.png)
