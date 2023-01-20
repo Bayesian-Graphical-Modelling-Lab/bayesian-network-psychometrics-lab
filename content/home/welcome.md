@@ -21,4 +21,4 @@ design:
 
 <br>
 
-![img](support.png) 
+<img src="support.png" alt="support" width="200"/>
