@@ -21,5 +21,4 @@ design:
 
 <br>
 
-![alt-text](support.png) 
-
+<img src="support.png" width="1000">
