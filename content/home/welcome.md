@@ -21,5 +21,5 @@ design:
 
 <br>
 
-![support](support.png) 
+![alt-text](content/home/support.png) 
 
