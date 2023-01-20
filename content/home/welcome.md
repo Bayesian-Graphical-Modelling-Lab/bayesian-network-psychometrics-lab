@@ -19,6 +19,6 @@ design:
 
 <p style="font-size: medium">The Bayesian Graphical Modeling Lab is dedicated to the development of a Bayesian methodology for the analysis of graphical models. In psychology, graphical models or networks are used to characterize dynamical systems of interacting psychological variables. Since the structure of the network is usually unknown, we must infer it from empirical data. There are many structures that could underlie a network of interest, and we are usually uncertain that we have found the one true model with the data we have. The Bayesian approach provides a principled way to deal with this uncertainty by expressing the plausibility of different network structures for the data at hand, determining the statistical evidence for edge inclusion and exclusion, and providing robust prediction intervals for the network parameters. These are just a few of the concrete benefits of the Bayesian approach that allows us to analyze graphical models with confidence. The Bayesian Graphical Modeling Lab is dedicated to making these advantages available to end users through open access publications, open source statistical software in the form of R packages, and by incorporating them into the free, easy-to-use JASP program.</p>
 
-
+<br>
 
 <img src="support.png" width="1000">
