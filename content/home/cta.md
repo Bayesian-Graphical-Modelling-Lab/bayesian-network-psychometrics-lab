@@ -9,4 +9,8 @@ design:
 ---
 
 
-<div id="welcome.png"></div>
+background-image: url(/bayesian-network-psychometrics-lab_/assets/media);
+background-repeat: no-repeat;
+width: 600px;
+height: 200px;
+}
