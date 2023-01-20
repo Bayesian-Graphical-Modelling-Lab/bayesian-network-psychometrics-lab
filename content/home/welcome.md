@@ -21,5 +21,5 @@ design:
 
 <br>
 
-![title](support.png) 
+![alt text](support.png) 
 
