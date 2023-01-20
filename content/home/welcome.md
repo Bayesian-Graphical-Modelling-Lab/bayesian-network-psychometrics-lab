@@ -21,5 +21,5 @@ design:
 
 <br>
 
-![image info](support.png) 
+[image](support.png) 
 
