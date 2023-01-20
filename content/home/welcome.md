@@ -21,4 +21,4 @@ design:
 
 <br>
 
-<img src="support.png" width="1000">
+<img src="welcome.png" width="1000">
