@@ -21,4 +21,3 @@ design:
 
 <br>
 
-<img src=".png" width="1000">
