@@ -21,4 +21,4 @@ design:
 
 <br>
 
-![alt text](welcome.png) { width: 200px; }
+![alt text](welcome.png){width: 200px;}
