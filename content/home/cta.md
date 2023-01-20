@@ -9,5 +9,5 @@ design:
 ---
 
 
-![image](/bayesian-network-psychometrics-lab_/assets/media)
+![image](welcome.png)
 
