@@ -14,7 +14,7 @@ role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Psychological Methods programme, University of Amsterdam
+  - name: Psychological Methods, University of Amsterdam
     url: 'https://psyres.uva.nl/content/research-groups/programme-group-psychological-methods/programme-group-psychological-methods.html'
 
 # Short bio (displayed in user profile at end of posts)
