@@ -1,5 +1,7 @@
+---
+title: Publications
+---
 
-# Publications 
 
 ## Accepted for publication
 
