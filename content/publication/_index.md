@@ -2,6 +2,15 @@
 title: Publications
 ---
 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
+
+## Submitted for publication
+
+Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). [Bayesian analysis of cross-sectional networks: A tutorial in R and JASP](10.31234/osf.io/ub5tc). PsyArXiv.
+
+van den Bergh, D., & Dablander, F. (2022). 
+[Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors](https://arxiv.org/abs/2208.07086). arXiv.
+
 
 ## Accepted for publication
 
@@ -45,8 +54,5 @@ Marsman, M., Borsboom, D., Kruis, J., Epskamp, S., van Bork, R., Waldorp, L. J.,
 
 Marsman, M., Maris, G., Bechger, T., & Glas, C. (2015). [Bayesian inference for low-rank Ising networks](https://doi.org/10.1038/srep09050).
 *Scientific Reports, 5* (1), 9050.
-
-
-
 
 
