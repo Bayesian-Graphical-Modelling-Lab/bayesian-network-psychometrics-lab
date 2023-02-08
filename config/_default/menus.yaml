@@ -16,3 +16,6 @@ main:
   - name: Rejection Collection
     url: rejections
     weight: 30
+  - name: Re-analysis project
+    url: re-analysis
+    weight: 40
