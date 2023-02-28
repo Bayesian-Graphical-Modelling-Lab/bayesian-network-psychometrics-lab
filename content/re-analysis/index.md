@@ -1,5 +1,5 @@
 ---
-title: How robust are psychological networks? A Bayesian Re-Analysis
+title: How robust are crosssectional psychological networks? A Bayesian Re-Analysis
 ---
 
 Network analysis has become extremely popular across the psychological disciplines, especially in clinical psychology.  Along with the enthusiasm for networks, there has been growing concerns about the stability of their results. In interpreting results and accumulating our understanding across studies, we need to be aware of the potential uncertainty underlying the estimated networks. 
@@ -20,7 +20,7 @@ In case you are looking for more information, feel free to email us: networkrean
 <details>
 <summary>What requirements does the dataset need to meet?</summary>
 <br>
-We are looking for datasets that have been used to publish a **cross-sectional** network in psychology. The network model needs to have either been estimated as a Gaussian graphical model (GGM; continuous data and sometimes also used to analyze ordinal data), Ising model (binary data), or Mixed graphical model (MGM; mixed data). Networks estimated as MGMs should not contain unordered categorical nodes (e.g., type of medication, practised religion), but only a mix of continuous, ordinal and binary data.  The variables in the network should have been obtained through psychometric scales rather than biological measurements. Authors need to have obtained ethics approval for the data collection and written, informed consent by participants.
+We are looking for datasets that have been used to publish a cross-sectional network in psychology. The network model needs to have either been estimated as a Gaussian graphical model (GGM; continuous data and sometimes also used to analyze ordinal data), Ising model (binary data), or Mixed graphical model (MGM; mixed data). Networks estimated as MGMs should not contain unordered categorical nodes (e.g., type of medication, practised religion), but only a mix of continuous, ordinal and binary data.  The variables in the network should have been obtained through psychometric scales rather than biological measurements. Authors need to have obtained ethics approval for the data collection and written, informed consent by participants.
 </details>
 
 <details>
