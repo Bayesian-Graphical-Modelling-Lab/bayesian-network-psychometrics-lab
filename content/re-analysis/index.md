@@ -10,7 +10,7 @@ The project will involve a large-scale search, acquisition of datasets, and re-a
 
 Interested in sharing your data? Please fill out this [form](https://forms.gle/iLmBNNbfSgqt2SXU9). We will contact you.
 
-In case you are looking for more information, feel free to email us: [networkreanalysis@gmail.com]
+In case you are looking for more information, feel free to email us: networkreanalysis@gmail.com
 
 [^1]: Huth, K., de Ron, J., Luigjes, J., Goudriaan, A., Mohammadi, R., van Holst, R., Wagenmakers, E.J., & Marsman, M. (2023). Bayesian Analysis of Cross-sectional Networks: A Tutorial in R and JASP. PsyArxiv https://doi.org/10.31234/osf.io/ub5tc
 
