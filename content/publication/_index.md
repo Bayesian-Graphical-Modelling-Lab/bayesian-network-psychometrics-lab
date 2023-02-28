@@ -6,7 +6,7 @@ title: Publications
 
 ## Submitted for publication
 
-Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). [Bayesian analysis of cross-sectional networks: A tutorial in R and JASP](10.31234/osf.io/ub5tc). PsyArXiv.
+Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). [Bayesian analysis of cross-sectional networks: A tutorial in R and JASP](https://psyarxiv.com/ub5tc/). PsyArXiv.
 
 van den Bergh, D., & Dablander, F. (2022). 
 [Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors](https://arxiv.org/abs/2208.07086). arXiv.
