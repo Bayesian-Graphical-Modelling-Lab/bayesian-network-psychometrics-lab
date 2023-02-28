@@ -4,25 +4,25 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Team
+  - name: team
     url: people
     weight: 10
-  - name: Publications
+  - name: publications
     url: publication
     weight: 20
-#  - name: Re-analysis project
+#  - name: re-analysis project
 #    url: re-analysis
 #    weight: 30
-  - name: Workshops
+  - name: workshops
     url: workshops
     weight: 40
-  - name: Awards and Funding
+  - name: awards and funding
     url: awards-and-funding
     weight: 50
-  - name: Software
+  - name: software
     url: software
     weight: 60
-  - name: Projects
+  - name: projects
     url: projects
     weight: 70
     
