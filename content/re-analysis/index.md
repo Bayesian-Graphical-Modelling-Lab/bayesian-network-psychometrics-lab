@@ -18,13 +18,13 @@ In case you are looking for more information, feel free to email us: networkrean
 ## FAQ
 
 <details>
-<summary>What requirements does the dataset need to meet? </summary>
+<summary>What requirements does the dataset need to meet?</summary>
 <br>
 We are looking for datasets that have been used to publish a **cross-sectional** network in psychology. The network model needs to have either been estimated as a Gaussian graphical model (GGM; continuous data and sometimes also used to analyze ordinal data), Ising model (binary data), or Mixed graphical model (MGM; mixed data). Networks estimated as MGMs should not contain unordered categorical nodes (e.g., type of medication, practised religion), but only a mix of continuous, ordinal and binary data.  The variables in the network should have been obtained through psychometric scales rather than biological measurements. Authors need to have obtained ethics approval for the data collection and written, informed consent by participants.
 </details>
 
 <details>
-<summary>How will the datasets be transferred and stored? </summary>
+<summary>How will the datasets be transferred and stored?</summary>
 <br>
 Once we have approved the dataset, we will send you a link to a secure server (surfdrive), that has been approved by the University of Amsterdam to meet information security measures. The dataset will stay on the server and only be loaded into R to analyse it.
 </details>
