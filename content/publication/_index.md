@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: publications
 ---
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
+[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 ## Submitted for publication
 
