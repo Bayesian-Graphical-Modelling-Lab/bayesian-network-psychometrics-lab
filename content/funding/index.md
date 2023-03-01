@@ -26,11 +26,11 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2egc" width = "25%">A</td>
-    <td class="tg-2egc" width = "15%"></td>
-    <td class="tg-2egc" width = "25%"></td>
-    <td class="tg-2egc" width = "20%"></td>
-    <td class="tg-2egc" width = "15%"></td>
+    <td class="tg-2egc" width = "25%">AAAAAAAAAAAAAAAAAAAAAAAAAA</td>
+    <td class="tg-2egc" width = "15%">AAAAAAAAAAAAAAAAAAAAAAAAAA</td>
+    <td class="tg-2egc" width = "25%">AAAAAAAAAAAAAAAAAAAAAAAAAA</td>
+    <td class="tg-2egc" width = "20%">AAAAAAAAAAAAAAAAAAAAAAAAAA</td>
+    <td class="tg-2egc" width = "15%">AAAAAAAAAAAAAAAAAAAAAAAAAA</td>
   </tr>
   <tr>
     <td class="tg-2egc" width = "25%">A</td>
