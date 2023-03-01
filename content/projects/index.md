@@ -8,7 +8,7 @@
 </br>
 
 **The Brain - Behavior Network Project**</br> 
-<p style="font-size:medium;text-align:justify">Network science has provided many insights into brain and behavioral function, but mostly in parallel. The Brain-Behavior Network Project aims to improve our understanding of brain-behavior interactions by integrating brain and behavioral networks. To achieve this goal, we use a Bayesian hierarchical approach that models the connection between graphical models using random graphs. This allows us to bridge the gap between idiographic (individual) and cross-sectional networks and to integrate brain and behavioral networks. We validate our model in a large ADHD cohort. The project is led by Assistant Professor <a href = "https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>, Assistant Professor Anouk Schrantee, and Postdoctoral Researcher Tessa Blanken.</p>
+<p style="font-size:medium;text-align:justify">Network science has provided many insights into brain and behavioral function, but mostly in parallel. The Brain-Behavior Network Project aims to improve our understanding of brain-behavior interactions by integrating brain and behavioral networks. To achieve this goal, we use a Bayesian hierarchical approach that models the connection between graphical models using random graphs. This allows us to bridge the gap between idiographic (individual) and cross-sectional networks and to integrate brain and behavioral networks. We validate our model in a large ADHD cohort. The project is led by <a href = "https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>, Anouk Schrantee, and <a href ="https://tfblanken.github.io/">Tessa Blanken</a>.</p>
 
 </br>
   
