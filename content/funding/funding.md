@@ -12,6 +12,7 @@
     <th>AMOUNT</th>
   </tr>
 </thead>
+  </br>
 <tbody>
   <tr>
     <td>European Union, ERC Starting Grant</td>
