@@ -10,21 +10,21 @@ main:
   - name: publications
     url: publication
     weight: 20
-#  - name: re-analysis project
-#    url: re-analysis
+#  - name: software
+#    url: software
 #    weight: 30
 #  - name: workshops
 #    url: workshops
 #    weight: 40
-  - name: funding
-    url: funding
+  - name: news
+    url: news
     weight: 50
-#  - name: software
-#    url: software
-#    weight: 60
   - name: projects
     url: projects
-    weight: 70
+    weight: 80
+    - name: funding
+    url: funding
+    weight: 90
     
 #    - name: Team
 #    url: people
