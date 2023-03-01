@@ -14,7 +14,7 @@
 .tg .tg-g6p1{background-color:#656565;border-color:#ffffff;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-sfm4{background-color:#c0c0c0;border-color:#ffffff;color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" width = "300">
 <thead>
   <tr>
     <th class="tg-g6p1" width = "25%">GRANTING BODY</th>
