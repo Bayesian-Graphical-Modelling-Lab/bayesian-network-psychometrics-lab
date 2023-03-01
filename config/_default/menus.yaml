@@ -16,8 +16,8 @@ main:
   - name: workshops
     url: workshops
     weight: 40
-  - name: awards and funding
-    url: awards-and-funding
+  - name: funding
+    url: funding
     weight: 50
   - name: software
     url: software
