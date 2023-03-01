@@ -13,15 +13,15 @@ main:
 #  - name: re-analysis project
 #    url: re-analysis
 #    weight: 30
-  - name: workshops
-    url: workshops
-    weight: 40
-  - name: funding
-    url: funding
-    weight: 50
-  - name: software
-    url: software
-    weight: 60
+#  - name: workshops
+#    url: workshops
+#    weight: 40
+#  - name: funding
+#    url: funding
+#    weight: 50
+#  - name: software
+#    url: software
+#    weight: 60
   - name: projects
     url: projects
     weight: 70
