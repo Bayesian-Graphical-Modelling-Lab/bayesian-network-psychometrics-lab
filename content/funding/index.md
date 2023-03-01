@@ -33,14 +33,14 @@
     <td class="tg-2egc">1,500,000 EUR</td>
   </tr>
   <tr>
-    <td class="tg-c6of">University of Amsterdam, Amsterdam Brain and Cognition Project Grant</td>
+    <td class="tg-c6of">University of Amsterdam, ABC Project Grant</td>
     <td class="tg-c6of">2022-2023</td>
     <td class="tg-c6of">More than the sum of parts: Exploiting the synergy between psychological and brain networks</td>
     <td class="tg-c6of">M. Marsman, A. G. Schrantee, T. F. Blanken</td>
     <td class="tg-c6of">250,000 EUR</td>
   </tr>
   <tr>
-    <td class="tg-k1oc">University of Amsterdam, Urban Mental Health Project Grant</td>
+    <td class="tg-k1oc">University of Amsterdam, UMH Project Grant</td>
     <td class="tg-2egc">2020-2024</td>
     <td class="tg-2egc">Developing a network theory of addiction and depression in an urban population</td>
     <td class="tg-2egc">R. J. van Holst, M. Marsman, J. Luigjes, A. Goudriaan</td>
