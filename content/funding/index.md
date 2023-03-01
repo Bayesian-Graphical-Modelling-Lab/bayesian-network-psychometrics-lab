@@ -4,9 +4,9 @@
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:8px 8px;
+.tg td{border-style:solid;border-width:0px;font-family:Arial, Helvetica, sans-serif;font-size:15px;overflow:hidden;padding:8px 8px;
   word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:normal;
+.tg th{border-style:solid;border-width:0px;font-family:Arial, Helvetica, sans-serif;font-size:15px;font-weight:normal;
   overflow:hidden;padding:8px 8px;word-break:normal;}
 .tg .tg-2egc{background-color:#efefef;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-k1oc{background-color:#efefef;border-color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;text-align:left;
