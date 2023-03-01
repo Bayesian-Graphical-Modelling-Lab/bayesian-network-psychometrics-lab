@@ -17,34 +17,34 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-g6p1">GRANTING BODY</th>
-    <th class="tg-g6p1">PERIOD</th>
-    <th class="tg-g6p1">PROJECT TITLE</th>
-    <th class="tg-g6p1">INVESTIGATOR(S)</th>
-    <th class="tg-g6p1">AMOUNT</th>
+    <th class="tg-g6p1" width = "25%">GRANTING BODY</th>
+    <th class="tg-g6p1" width = "15%">PERIOD</th>
+    <th class="tg-g6p1" width = "25%">PROJECT TITLE</th>
+    <th class="tg-g6p1" width = "20%">INVESTIGATOR(S)</th>
+    <th class="tg-g6p1" width = "15%">AMOUNT</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2egc">A</td>
-    <td class="tg-2egc"></td>
-    <td class="tg-2egc"></td>
-    <td class="tg-2egc"></td>
-    <td class="tg-2egc"></td>
+    <td class="tg-2egc" width = "25%">A</td>
+    <td class="tg-2egc" width = "15%"></td>
+    <td class="tg-2egc" width = "25%"></td>
+    <td class="tg-2egc" width = "20%"></td>
+    <td class="tg-2egc" width = "15%"></td>
   </tr>
   <tr>
-    <td class="tg-sfm4">B</td>
-    <td class="tg-sfm4"></td>
-    <td class="tg-sfm4"></td>
-    <td class="tg-sfm4"></td>
-    <td class="tg-sfm4"></td>
+    <td class="tg-2egc" width = "25%">A</td>
+    <td class="tg-2egc" width = "15%"></td>
+    <td class="tg-2egc" width = "25%"></td>
+    <td class="tg-2egc" width = "20%"></td>
+    <td class="tg-2egc" width = "15%"></td>
   </tr>
   <tr>
-    <td class="tg-k1oc">C</td>
-    <td class="tg-2egc"></td>
-    <td class="tg-2egc"></td>
-    <td class="tg-2egc"></td>
-    <td class="tg-2egc"></td>
+    <td class="tg-2egc" width = "25%">A</td>
+    <td class="tg-2egc" width = "15%"></td>
+    <td class="tg-2egc" width = "25%"></td>
+    <td class="tg-2egc" width = "20%"></td>
+    <td class="tg-2egc" width = "15%"></td>
   </tr>
 </tbody>
 </table>
