@@ -16,9 +16,9 @@ main:
 #  - name: workshops
 #    url: workshops
 #    weight: 40
-#  - name: funding
-#    url: funding
-#    weight: 50
+  - name: funding
+    url: funding
+    weight: 50
 #  - name: software
 #    url: software
 #    weight: 60
