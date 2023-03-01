@@ -16,4 +16,7 @@
 <p style="font-size:medium;text-align:justify">The Bayesian Graphical Modeling project outlines a new research program for psychological network modeling that addresses current methodological challenges. Based on the basic principles of Bayesian inference, a new confirmatory network methodology will be developed that uses model-averaging to provide robust, replicable network results. The new model-averaging approach will be designed for an exhaustive collection of network models and for cross-sectional and longitudinal applications. To increase the impact of the project, the new methods and models will be made available in JASP (jasp-stats.org). The Bayesian Graphical Modeling Project is led by <a href = "https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>.</p>
 </br>
 
-**The Network Approach To AUD and Depression**</br>
+**Developing a Network Theory of Addiction and Depression in an Urban Population**</br>
+
+
+
