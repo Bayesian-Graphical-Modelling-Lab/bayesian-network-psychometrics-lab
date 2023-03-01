@@ -1,5 +1,5 @@
 ---
-  title: Funding
+  title: **Funding**
 ---
 
 <style type="text/css">
