@@ -1,6 +1,5 @@
 ---
   title: projects
----
 
 sections:
   - block: markdown
