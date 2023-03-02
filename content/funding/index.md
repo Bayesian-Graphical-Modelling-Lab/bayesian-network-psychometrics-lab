@@ -41,11 +41,18 @@
     <td class="tg-c6of">250,000 EUR</td>
   </tr>
   <tr>
-    <td class="tg-k1oc">University of Amsterdam, UMH Project Grant</td>
+    <td class="tg-2egc">University of Amsterdam, UMH Project Grant</td>
     <td class="tg-2egc">2020-2024</td>
     <td class="tg-2egc">Developing a network theory of addiction and depression in an urban population</td>
     <td class="tg-2egc">R. J. van Holst, <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a>, J. Luigjes, A. Goudriaan</td>
     <td class="tg-2egc">440,000 EUR</td>
+  </tr>
+  <tr>
+    <td class="tg-c6of">Netherlands Organization for Scientific Research, NWO Veni Grant</td>
+    <td class="tg-c6of">2018-2021</td>
+    <td class="tg-c6of">The psychometrics of learning</td>
+    <td class="tg-c6of"><a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a></td>
+    <td class="tg-c6of">250,000 EUR</td>
   </tr>
 </tbody>
 </table>
