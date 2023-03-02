@@ -19,6 +19,8 @@ share: false
 
 
 **2022**
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Waldorp, L. J., Luigjes, J., Goudriaan, A. E., van Holst, R. J., & Marsman, M. (2022). <a href = "https://link.springer.com/article/10.1007/s11336-021-09834-6">A note on the Structural Change Test in finite samples: Using a permutation approach to estimate the sampling distribution</a>. <em>Psychometrika</em>, <em>87</em>, 1064-2080.</p>
+
 <p style="font-size:medium;text-align:justify">Marsman, M., & Rhemtulla, M. (2022). <a href = "https://doi.org/10.1007/s11336-022-09861-x">
 Guest Editors’ Introduction to The Special Issue “Network Psychometricsin Action”: Methodological Innovations Inspired by Empirical Problems</a>. <em>Psychometrika</em>, <em>87</em>, 1–11.</p>
 
