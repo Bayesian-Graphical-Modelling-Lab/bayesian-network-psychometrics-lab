@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A research group dedicated to developing new Bayesian estimation methods for psychometric network models'
+    description: 'A research group dedicated to developing Bayesian methods for analyzing graphical network models'
     twitter: ''
   analytics:
     google_analytics: ''
