@@ -1,5 +1,6 @@
 ---
 title: Publications
+share: false
 ---
 
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
