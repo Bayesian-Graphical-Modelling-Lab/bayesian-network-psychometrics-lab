@@ -26,7 +26,7 @@ Guest Editors’ Introduction to The Special Issue “Network Psychometricsin Ac
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian Edge Screening and Structure Selection for Networks of Binary Variables</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
 
-<p style="font-size:medium;text-align:justify">Waldorp, L.J., & Marsman, M. (2022). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959"> Relations between networks, regression, partial correlation, and latent variable models</a>. <em>Multivariate Behavioral Research</em>, <em>57</em>, 994-1006.</p>
+<p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2022). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959"> Relations between networks, regression, partial correlation, and latent variable models</a>. <em>Multivariate Behavioral Research</em>, <em>57</em>, 994-1006.</p>
 
 
 **2021**
