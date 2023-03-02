@@ -1,5 +1,6 @@
 ---
   title: news
+  share: false
 ---
 
 **2023**</br>
