@@ -8,6 +8,8 @@ share: false
 **Submitted for publication**
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>PsyArXiv</em>.</p>
 
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2022). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
+
 <p style="font-size:medium;text-align:justify">Van den Bergh, D., & Dablander, F. (2022). 
 <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
 
@@ -48,9 +50,18 @@ Network psychometrics in educational practice. Maximum likelihood estimation of 
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., Marsman, M., & Maris, G. K. J. (2019). <a href ="https://doi.org/10.1007/s41237-018-0061-0">Logistic regression and Ising networks: Prediction and estimation when violating lasso assumptions</a>. <em>Behaviormetrika</em>, <em>46</em>, 49-72.</p>
 
+
 **2018**
 <p style="font-size:medium;text-align:justify"> Marsman, M., Borsboom, D., Kruis, J., Epskamp, S., van Bork, R., Waldorp, L. J., Maas, H. L. J. van der,
 & Maris, G. (2018). <a href = "https://doi.org/10.1080/00273171.2017.1379379">An introduction to network psychometrics: Relating Ising network models to item response theory models</a>. <em>Multivariate Behavioral Research</em>, <em>53</em>, 15–35.</p>
+
+
+**2017**
+<p style="font-size:medium;text-align:justify">Epskamp, S., Kruis, J., & Marsman, M. (2017). <a href="https://doi.org/10.1371/journal.pone.0179891">Estimating psychopathological networks: Be careful what you wish for</a>. <em>PloS One</em>, <em>12</em>, e0179891.</p>
+  
+<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J. & Maris, G. K. J. (2017). <a href="http://dx.doi.org/10.1007/s41237-017-0024-x">A note on large-scale logistic prediction: Using an approximate graphical model to deal with collinearity and missing data</a>. <em>Behaviormetrika</em>, <em>44</em>, 513-534.</p>
+
+<p style="font-size:medium;text-align:justify">Van der Maas, H. L. J., Kan, K.-J., Marsman, M., & Stevenson, C. E. (2017). <a href="https://www.mdpi.com/2079-3200/5/2/16">Network models for cognitive development and intelligence</a>. <em>Journal of Intelligence</em>, <em>5</em>.</p>
 
 
 **2015**
