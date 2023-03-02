@@ -8,10 +8,10 @@ title: Publications
 <p style="font-size:medium;text-align:justify"> Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. PsyArXiv.</p>
 
 <p style="font-size:medium;text-align:justify"> Van den Bergh, D., & Dablander, F. (2022). 
-[Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors](https://arxiv.org/abs/2208.07086). arXiv.<p>
+<a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. arXiv.<p>
 
 
-## Accepted for publication
+**Accepted for publication**
 
 <p style="font-size:medium;text-align:justify"> Marsman, M., & Huth, K. B. S. (in press). [Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data](https://doi.org/10.31234/osf.io/h3ka5). *Multivariate Behavioral Research*.</p>
 
