@@ -6,23 +6,25 @@ share: false
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
-<p style="font-size:medium;text-align:justify"> Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>PsyArXiv</em>.</p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify"> Van den Bergh, D., & Dablander, F. (2022). 
+<p style="font-size:medium;text-align:justify">Van den Bergh, D., & Dablander, F. (2022). 
 <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
 
 
 **Accepted for publication**
-<p style="font-size:medium;text-align:justify"> Marsman, M., & Huth, K. B. S. (in press). <a href = "https://doi.org/10.31234/osf.io/h3ka5">Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>.</p>
+<p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (in press). <a href = "https://doi.org/10.31234/osf.io/h3ka5">Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>.</p>
 
-<p style="font-size:medium;text-align:justify"> Marsman, M., Waldorp, L. J., & Borsboom, D. (in press). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>. </p>
+<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (in press). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>. </p>
 
 
 **2022**
-<p style="font-size:medium;text-align:justify"> Marsman, M., & Rhemtulla, M. (2022). <a href = "https://doi.org/10.1007/s11336-022-09861-x">
+<p style="font-size:medium;text-align:justify">Marsman, M., & Rhemtulla, M. (2022). <a href = "https://doi.org/10.1007/s11336-022-09861-x">
 Guest Editors’ Introduction to The Special Issue “Network Psychometricsin Action”: Methodological Innovations Inspired by Empirical Problems</a>. <em>Psychometrika</em>, <em>87</em>, 1–11.</p>
 
-<p style="font-size:medium;text-align:justify"> Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian Edge Screening and Structure Selection for Networks of Binary Variables</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
+<p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian Edge Screening and Structure Selection for Networks of Binary Variables</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
+
+<p style="font-size:medium;text-align:justify">Waldorp, L.J., & Marsman, M. (2022). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959"> Relations between networks, regression, partial correlation, and latent variable models</a>. <em>Multivariate Behavioral Research</em>, <em>57</em>, 994-1006.</p>
 
 
 **2021**
