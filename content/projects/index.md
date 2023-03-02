@@ -1,5 +1,6 @@
 ---
   title: projects
+  share: false
 ---
 
 **The Bayesian Reanalysis Project**</br>
