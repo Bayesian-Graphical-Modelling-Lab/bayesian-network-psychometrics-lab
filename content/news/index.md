@@ -3,5 +3,5 @@
 ---
 
 **2023**</br>
-Looking for a <a href = "https://vacatures.uva.nl/UvA/job/Postdoctoral-Researcher-in-Bayesian-Graphical-Modeling/765324902/">postdoc </a>!
+We are looking for a <a href = "https://vacatures.uva.nl/UvA/job/Postdoctoral-Researcher-in-Bayesian-Graphical-Modeling/765324902/">postdoc </a>!
 
