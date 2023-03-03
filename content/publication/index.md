@@ -10,6 +10,8 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2022). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
 
+<p style="font-size:medium;text-align:justify">Marsman, M., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/">Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>PsyArXiv</em></p>
+
 <p style="font-size:medium;text-align:justify">Van den Bergh, D., & Dablander, F. (2022). 
 <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
 
