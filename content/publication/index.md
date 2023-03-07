@@ -36,19 +36,14 @@ Guest Editors’ Introduction to The Special Issue “Network Psychometricsin Ac
 **2021**
 <p style="font-size:medium;text-align:justify">Haslbeck, J., Epskamp, S., Marsman, M., & Waldorp, L. J. (2021). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2020.1730150">Interpreting the Ising model: The input matters</a>. <em>Multivariate Behavioral Research</em>, <em>56</em>, 303-313.</p>
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2021). <a href= "https://doi.org/10.1016/j.addbeh.2021.107128">Modeling alcoholuse disorder as a set of interconnected symptoms -assessing differences between clinical and populationsamples and across external factors</a>. <em>Addictive Behaviors</em>, <em>125</em>, 107128. </p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2021). <a href= "https://doi.org/10.1016/j.addbeh.2021.107128">Modeling alcohol use disorder as a set of interconnected symptoms -assessing differences between clinical and populationsamples and across external factors</a>. <em>Addictive Behaviors</em>, <em>125</em>, 107128. </p>
 
-<p style="font-size:medium;text-align:justify">Savi, O. A., Marsman, M., van der Maas, H. L. J. (2021). <a href="https://doi.org/10.1016/j.intell.2021.101567">Evolving networks of human intelligence</a>. <em>Intelligence</em>, <em>88</em>(101567).</p>
 
 **2019**
 <p style="font-size:medium;text-align:justify">Marsman, M., Sigurdardottir, H., Bolsinova, M., & Maris, G. K. J. (2019). <a href = "https://doi.org/10.1007/s11336-019-09668-3">Characterizing the manifest probability distributions of three latent trait models for accuracy and response time</a>. <em>Psychometrika</em>, <em>84</em>, 870-891.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Tanis, C., Bechger, T. M., & Waldorp, L. J. (2019). <a href="https://link.springer.com/chapter/10.1007/978-3-030-18480-3_5">
 Network psychometrics in educational practice. Maximum likelihood estimation of the Curie-Weiss model</a>. In <em>Theoretical and Practical Advances in Computer-Based Educational Measurement</em> (pp. 93–120). Springer Nature.</p>
-
-<p style="font-size:medium;text-align:justify">Savi, O. A., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019). <a href = "https://journals.sagepub.com/doi/full/10.1177/1745691619866447">The Wiring of Intelligence</a>. <em>Perspectives on Psychological Science</em>, <em>14</em>, 1034-1061.</p>
-
-<p style="font-size:medium;text-align:justify">Van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (2019). The network approach to general intelligence. In D. J. McFarland (Ed.), <em>General and Specific Mental Abilities</em> (pp. 108–131). Cambridge Scholars Publishing. [<a href = "https://psyarxiv.com/e96m8/">PsyArXiv</a>]</p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., Marsman, M., & Maris, G. K. J. (2019). <a href ="https://doi.org/10.1007/s41237-018-0061-0">Logistic regression and Ising networks: Prediction and estimation when violating lasso assumptions</a>. <em>Behaviormetrika</em>, <em>46</em>, 49-72.</p>
 
@@ -62,8 +57,6 @@ Network psychometrics in educational practice. Maximum likelihood estimation of 
 <p style="font-size:medium;text-align:justify">Epskamp, S., Kruis, J., & Marsman, M. (2017). <a href="https://doi.org/10.1371/journal.pone.0179891">Estimating psychopathological networks: Be careful what you wish for</a>. <em>PloS One</em>, <em>12</em>, e0179891.</p>
   
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J. & Maris, G. K. J. (2017). <a href="http://dx.doi.org/10.1007/s41237-017-0024-x">A note on large-scale logistic prediction: Using an approximate graphical model to deal with collinearity and missing data</a>. <em>Behaviormetrika</em>, <em>44</em>, 513-534.</p>
-
-<p style="font-size:medium;text-align:justify">Van der Maas, H. L. J., Kan, K.-J., Marsman, M., & Stevenson, C. E. (2017). <a href="https://www.mdpi.com/2079-3200/5/2/16">Network models for cognitive development and intelligence</a>. <em>Journal of Intelligence</em>, <em>5</em>.</p>
 
 
 **2015**
