@@ -1,9 +1,6 @@
 ---
-title: How robust are crosssectional psychological networks? A Bayesian Re-Analysis
+title: How robust are crosssectional psychological networks? A comprehensive Bayesian Re-Analysis
 ---
-
-
-How robust are psychological networks? 
 
 Network analysis has become extremely popular across the psychological disciplines, especially in clinical psychology.  Along with the enthusiasm for networks, there has been growing concerns about the stability of their results. In interpreting results and accumulating our understanding across studies, we need to be aware of the potential uncertainty underlying the estimated networks. 
 
