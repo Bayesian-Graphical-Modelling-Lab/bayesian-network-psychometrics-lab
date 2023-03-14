@@ -20,26 +20,31 @@ In case you are looking for more information, feel free to email us: networkrean
 <summary>What requirements does the dataset need to meet?</summary>
 <br>
 We are looking for datasets that have been used to publish a cross-sectional network in psychology. The network model needs to have either been estimated as a Gaussian graphical model (GGM; continuous data and sometimes also used to analyze ordinal data), Ising model (binary data), or Mixed graphical model (MGM; mixed data). Networks estimated as MGMs should not contain unordered categorical nodes (e.g., type of medication, practised religion), but only a mix of continuous, ordinal and binary data.  The variables in the network should have been obtained through psychometric scales rather than biological measurements. Authors need to have obtained ethics approval for the data collection and informed consent by participants.
+</details>
 
 <details>
 <summary>How will the datasets be transferred and stored?</summary>
 <br>
 Once we have approved the dataset, we will send you a link to our data storage service – Research Drive. On this ISO/IEC27001 certified system developed by SURFSara data is stored encrypted and can only be accessed through 2-Factor Authentication. The dataset will stay on the server and only be loaded into R to analyse it.
+</details>
 
 <details>
 <summary>What form should the dataset be in before the transferring?</summary>
 <br>
 We would like to receive the same data that was used in the final publication, preferably already fully cleaned and containing only variables that were also used as nodes in the network. Missings can remain in the dataset, if they were also imputed for the published network. To avoid any data security issues, we ask for fully anonymized data and consider it the responsibility of the data sharer to ensure that this is the case.
+</details>
 
 <details>
 <summary>What information will you extract from the dataset?</summary>
 <br>
 We will re-analyse the dataset in a frequentist and Bayesian approach and will extract the interaction estimates, the evidence for inclusion of each edge, and the posterior credible intervals. We will also extract meta-data that we can find in your publication such as node size, sample size, research area (e.g., psychopathology), and construct assessed (e.g., depression). 
+</details>
 
 <details>
 <summary>What will be shown of my dataset in the final publication?</summary>
 <br>
 The network results will be summarized and evaluated on an aggregated level across all datasets. We will show and discuss the results divided by the type of model (e.g., Ising model or Gaussian graphical model). The final paper will conclude how stable networks are in general; we will not deep-dive into any individual network and discuss its results. We will upload aggregated information (i.e., parameter estimates, posterior edge inclusion probabilities, credible intervals) and the meta-data to the Open Science Framework. We will not share any raw, individual-level data.
+</details>
 
 <details>
 <summary>Who is conducting the research and how is the project funded? </summary>
@@ -47,5 +52,5 @@ The network results will be summarized and evaluated on an aggregated level acro
 The project is conducted at the University of Amsterdam in the Psychological Methods department through Karoline Huth, Jonas Haslbeck, and Maarten Marsman. The project is funded, in part, through a grant by the European Union (ERC, BAYESIAN P-NETS, #101040876) awarded to Maarten Marsman, and the [Centre for Urban mental health](https://www.centreforurbanmentalhealth.com/) project awarded to Ruth van Holst and Maarten Marsman. 
 
 The Centre for Urban Mental Health is the largest Research Priority Area (RPA) of the University of Amsterdam (UvA) and comprises 3 faculties: Faculty for Social & Behavioural Science (FMG), Faculty of Science (FNWI), and the Faculty of Medicine (AMC). The aim of this RPA is to find new pathways to target with intervention to promote urban mental health, using a complexity science approach.
-
+</details>
 
