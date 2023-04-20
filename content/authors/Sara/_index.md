@@ -27,30 +27,33 @@ interests:
 
 education:
   courses:
-    - course: PhD in 
-      year: 20
-    - course: MSc in 
-      year: 20
-    - course: BSc in
-      year: 20
+    - course: PhD - Bayesian Network Psychometrics
+      institution: University of Amsterdam, The Netherlands
+      year: 2022 - present
+    - course: MSc in Econometrics - Business Analytics and Quantitative Marketing
+      institution: Erasmus University Rotterdam, The Netherlands
+      year: 2019-2021
+    - course: BSc in Econometrics and Operations Research
+      institution: Erasmus University Rotterdam, The Netherlands
+      year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-   # link: ''
+social:
+   -icon: envelope
+    icon_pack: fas
+    link: 'mailto:s.e.keetelaar@uva.nl'
 #  - icon: twitter
 #    icon_pack: fab
    # link: 
 #  - icon: google-scholar
 #    icon_pack: ai
    # link: 
-#  - icon: github
-#    icon_pack: fab
-   # link: 
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sarakeetelaar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
