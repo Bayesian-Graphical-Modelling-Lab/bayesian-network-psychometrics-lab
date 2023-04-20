@@ -6,7 +6,7 @@ share: false
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K., Wagenmakers, E., van Bork, R., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ch7a2">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>PsyArXiv</em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ch7a2">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>PsyArXiv</em>.</p>
 
