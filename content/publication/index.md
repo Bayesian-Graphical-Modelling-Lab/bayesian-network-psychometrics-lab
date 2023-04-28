@@ -20,9 +20,6 @@ share: false
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., & Hoijtink, H. (in press).<a href = "https://github.com/sekulovskin/research-archive-masters-thesis/blob/main/Manuscript/Manuscript.pdf"> Default Bayes Factor for Testing Null Hypotheses About the
-Fixed Effects of Linear Two-Level Models.</a> <em>Psychological Methods</em>.</p> 
-
 <p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (in press). <a href = "https://doi.org/10.31234/osf.io/h3ka5">Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (in press). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>. </p>
