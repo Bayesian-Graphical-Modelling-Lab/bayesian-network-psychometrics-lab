@@ -8,7 +8,8 @@
 </br>
 
 **easybgm**</br> 
-<p style="font-size:medium;text-align:justify">An R-package that streamlines the Bayesian analyses of graphical models and simplifies the corresponding output (e.g., plotting functions). Can be installed from the <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>. More details about the package can also be found there. 
+<p style="font-size:medium;text-align:justify">
+An R package that streamlines Bayesian analysis of graphical models and simplifies related output (e.g., plotting functions). Can be installed from the easybgm <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>. More details about the package can also be found there.</p>  
 </br>
   
 **rbinnet**</br>
