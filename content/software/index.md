@@ -4,7 +4,7 @@
 ---
 
 **bmgs**</br>
-<p style="font-size:medium;text-align:justify">An R-package for the Bayesian analysis of graphical models for binary and/or ordinal variables. Can be downloaded from <a href="https://cran.r-project.org/package=bgms">cran</a>. More details about the package can be found on <a href="https://maartenmarsman.github.io/bgms/">Github page</a>, and developmental versions can be downloaded from the <a href="https://github.com/MaartenMarsman/bgms">Github repository</a>. 
+<p style="font-size:medium;text-align:justify">An R package for Bayesian analysis of graphical models for binary and/or ordinal variables. Can be downloaded from <a href="https://cran.r-project.org/package=bgms">cran</a>. More details about the package can be found on the bgms <a href="https://maartenmarsman.github.io/bgms/">Github page</a>, and development versions can be downloaded from the <a href="https://github.com/MaartenMarsman/bgms">Github repository</a>.</p> 
 </br>
 
 **easybgm**</br> 
