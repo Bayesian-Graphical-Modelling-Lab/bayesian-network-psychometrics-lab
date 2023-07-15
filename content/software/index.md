@@ -8,12 +8,11 @@
 </br>
 
 **easybgm**</br> 
-<p style="font-size:medium;text-align:justify">
-An R package that streamlines Bayesian analysis of graphical models and simplifies related output (e.g., plotting functions). Can be installed from the easybgm <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>. More details about the package can also be found there.</p>  
+<p style="font-size:medium;text-align:justify">An R package that streamlines Bayesian analysis of graphical models and simplifies related output (e.g., plotting functions). Can be installed from the easybgm <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>. More details about the package can also be found there.</p>  
 </br>
   
 **rbinnet**</br>
-<p style="font-size:medium;text-align:justify"> An R-package for the Bayesian analysis of graphical models for binary variables. Can be downloaded from the <a href="https://github.com/MaartenMarsman/rbinnet">Github repository</a>. Has been superseded by the bgms package. 
+<p style="font-size:medium;text-align:justify">An R package for Bayesian analysis of graphical models for binary variables. Available from the rbinnet <a href="https://github.com/MaartenMarsman/rbinnet">Github repository</a>. Has been replaced by the bgms package.</p>
 </br>
 
 
