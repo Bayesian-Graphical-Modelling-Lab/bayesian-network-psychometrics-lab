@@ -10,11 +10,12 @@
 **easybgm**</br> 
 <p style="font-size:medium;text-align:justify">An R package that streamlines Bayesian analysis of graphical models and simplifies related output (e.g., plotting functions). Can be installed from the easybgm <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>. More details about the package can also be found there.</p>  
 </br>
-  
+
+**JASP**</br>
+<p style="font-size:medium;text-align:justify">JASP is an open source statistical software program with a graphical user interface that can be downloaded from <a href="https://jasp-stats.org/">here</a>. In JASP, users can load their own data and point and click to select their desired analysis. It includes both frequentist and Bayesian versions of the most common statistical analyses, including network analysis. <a href="https://psyarxiv.com/ub5tc">Here</a> is a tutorial on Bayesian analysis of graphical models in JASP.</p>
+</br>  
+
 **rbinnet**</br>
 <p style="font-size:medium;text-align:justify">An R package for Bayesian analysis of graphical models for binary variables. Available from the rbinnet <a href="https://github.com/MaartenMarsman/rbinnet">Github repository</a>. Has been replaced by the bgms package.</p>
 </br>
 
-**JASP**</br>
-<p style="font-size:medium;text-align:justify">JASP is an open source statistical software program with a graphical user interface that can be downloaded from <a href="https://jasp-stats.org/">here</a>. In JASP, users can load their own data and point and click to select their desired analysis. It includes both frequentist and Bayesian versions of the most common statistical analyses, including network analysis. <a href="https://psyarxiv.com/ub5tc">Here</a> is a tutorial on Bayesian analysis of graphical models in JASP.</p>
-</br>
