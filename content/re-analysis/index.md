@@ -1,10 +1,10 @@
 ---
-title: How robust are crosssectional psychological networks? A comprehensive Bayesian Re-Analysis
+title: How robust are cross-sectional psychological networks? A comprehensive Bayesian Re-Analysis
 ---
 
-Network analysis has become extremely popular across the psychological disciplines, especially in clinical psychology.  Along with the enthusiasm for networks, there has been growing concerns about the stability of their results. In interpreting results and accumulating our understanding across studies, we need to be aware of the potential uncertainty underlying the estimated networks. 
+Network analysis has become extremely popular in all psychological disciplines, especially in clinical psychology.  Along with the enthusiasm for networks, there has been growing concern about the stability of their results. In interpreting results and accumulating our understanding across studies, we need to be aware of the potential uncertainty underlying the estimated networks. 
 
-In this project, our goal is to assess the robustness of published psychology networks. We will re-analyze previously published networks and address questions such as: Is there evidence of conditional independence when an edge is missing from a network, or is the edge simply too unstable to be included? Also, how much evidence do we have for the inclusion of edges? To adequately assess the robustness of the networks, we will use a Bayesian approach. This approach allows to quantify the uncertainty of the networks (Huth et al., 2023)[^1]; in particular, determine the uncertainty of the estimated network structure, obtain the statistical evidence for edge inclusion or exclusion, and quantify the precision of the network parameters. 
+In this project, our goal is to assess the robustness of published psychological networks. We will re-analyze previously published networks and address questions such as: Is there evidence for conditional independence when an edge is missing from an estimated network, or is the edge simply too unstable to be included? Also, how much evidence do we have for the inclusion of edges? To adequately assess the robustness of the networks, we will use a Bayesian approach. This approach allows to quantify the uncertainty of the networks (Huth et al., 2023)[^1]; in particular, to determine the uncertainty of the estimated network structure, to obtain the statistical evidence for the inclusion or exclusion of edges, and to quantify the precision of the network parameters. 
 
 The project will involve a large-scale search, acquisition of datasets, and re-analysis of published cross-sectional networks. Therefore, we are looking for datasets that have been used to publish a cross-sectional network.
 
