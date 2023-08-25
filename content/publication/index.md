@@ -8,8 +8,6 @@ share: false
 **Submitted for publication**
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ch7a2">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>PsyArXiv</em>.</p>
-
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2022). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/">Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>PsyArXiv</em></p>
@@ -19,6 +17,8 @@ share: false
 
 
 **Accepted for publication**
+
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>Advances in Methods and Practices in Psychological Science</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (in press). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>. </p>
 
@@ -30,7 +30,7 @@ share: false
 <p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (in press). <a href = "https://doi.org/10.1080/00273171.2022.2135089">Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., & Rhemtulla, M. (2022). <a href = "https://doi.org/10.1007/s11336-022-09861-x">
-Guest Editors’ Introduction to The Special Issue “Network Psychometricsin Action”: Methodological Innovations Inspired by Empirical Problems</a>. <em>Psychometrika</em>, <em>87</em>, 1–11.</p>
+Guest Editors’ Introduction to The Special Issue “Network Psychometrics in Action”: Methodological Innovations Inspired by Empirical Problems</a>. <em>Psychometrika</em>, <em>87</em>, 1–11.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian Edge Screening and Structure Selection for Networks of Binary Variables</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
 
