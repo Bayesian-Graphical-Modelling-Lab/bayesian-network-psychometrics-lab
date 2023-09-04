@@ -4,13 +4,13 @@ title: How robust are cross-sectional psychological networks? A comprehensive Ba
 
 Network analysis has become extremely popular in all psychological disciplines, especially in clinical psychology.  Along with the enthusiasm for networks, there has been growing concern about the stability of their results. In interpreting results and accumulating our understanding across studies, we need to be aware of the potential uncertainty underlying the estimated networks. 
 
-In this project, our goal is to assess the robustness of published psychological networks. We will re-analyze previously published networks and address questions such as: Is there evidence for conditional independence when an edge is missing from an estimated network, or is the edge simply too unstable to be included? Also, how much evidence do we have for the inclusion of edges? To adequately assess the robustness of the networks, we will use a Bayesian approach. This approach allows to quantify the uncertainty of the networks (Huth et al., 2023)[^1]; in particular, to determine the uncertainty of the estimated network structure, to obtain the statistical evidence for the inclusion or exclusion of edges, and to quantify the precision of the network parameters. 
+In this project, our goal is to assess the robustness of published psychological networks. We will re-analyze previously published networks and address questions such as: Is there evidence for conditional independence when an edge is missing from an estimated network, or is the edge simply too unstable to be included? Also, how much evidence do we have for the inclusion of edges? To adequately assess the robustness of the networks, we will use a Bayesian approach. This approach allows quantification of the uncertainty of the networks (Huth et al., 2023)[^1]; in particular, to determine the uncertainty of the estimated network structure, to obtain the statistical evidence for the inclusion or exclusion of edges, and to quantify the precision of the network parameters. 
 
 The project will involve a large-scale search, acquisition of datasets, and re-analysis of published cross-sectional networks. Therefore, we are looking for datasets that have been used to publish a cross-sectional network.
 
 Interested in sharing your data? Please fill out this [form](https://uva.fra1.qualtrics.com/jfe/form/SV_9zgMQpkLD5yiEXI). We will contact you.
 
-In case you are looking for more information, feel free to email us: networkreanalysis@gmail.com
+In case you are looking for more information, feel free to email us: networkreanalysis-fmg@uva.nl
 
 [^1]: Huth, K., de Ron, J., Luigjes, J., Goudriaan, A., Mohammadi, R., van Holst, R., Wagenmakers, E.J., & Marsman, M. (2023). Bayesian Analysis of Cross-sectional Networks: A Tutorial in R and JASP. PsyArxiv https://doi.org/10.31234/osf.io/ub5tc
 
@@ -19,25 +19,25 @@ In case you are looking for more information, feel free to email us: networkrean
 <details>
 <summary>What requirements does the dataset need to meet?</summary>
 <br>
-We are looking for datasets that have been used to publish a cross-sectional network in psychology. The network model needs to have either been estimated as a Gaussian graphical model (GGM; continuous data and sometimes also used to analyze ordinal data), Ising model (binary data), or Mixed graphical model (MGM; mixed data). Networks estimated as MGMs should not contain unordered categorical nodes (e.g., type of medication, practised religion), but only a mix of continuous, ordinal and binary data.  The variables in the network should have been obtained through psychometric scales rather than biological measurements. Authors need to have obtained ethics approval for the data collection and informed consent by participants.
+We are looking for datasets that have been used to publish a cross-sectional network in psychology. The network model needs to have either been estimated as a Gaussian graphical model (GGM; continuous data and sometimes also used to analyze ordinal data), Ising model (binary data), or Mixed graphical model (MGM; mixed data). Networks estimated as MGMs should not contain unordered categorical nodes (e.g., type of medication, practiced religion), but only a mix of continuous, ordinal, and binary data.  The variables in the network should have been obtained through psychometric scales rather than biological measurements. Authors need to have obtained ethics approval for the data collection and informed consent from participants.
 </details>
 
 <details>
 <summary>How will the datasets be transferred and stored?</summary>
 <br>
-Once we have approved the dataset, we will send you a link to our data storage service – Research Drive. On this ISO/IEC27001 certified system developed by SURFSara data is stored encrypted and can only be accessed through 2-Factor Authentication. The dataset will stay on the server and only be loaded into R to analyse it.
+Once we have approved the dataset, we will send you a link to our data storage service – Research Drive. On this ISO/IEC27001 certified system developed by SURFSara data is stored encrypted and can only be accessed through 2-Factor Authentication. The dataset will stay on the server and only be loaded into R to analyze it.
 </details>
 
 <details>
-<summary>What form should the dataset be in before the transferring?</summary>
+<summary>What form should the dataset be in before the transfer?</summary>
 <br>
-We would like to receive the same data that was used in the final publication, preferably already fully cleaned and containing only variables that were also used as nodes in the network. Missings can remain in the dataset, if they were also imputed for the published network. To avoid any data security issues, we ask for fully anonymized data and consider it the responsibility of the data sharer to ensure that this is the case.
+We would like to receive the same data that was used in the final publication, preferably already fully cleaned and containing only variables that were also used as nodes in the network. Missings can remain in the dataset if they were also imputed for the published network. To avoid any data security issues, we ask for fully anonymized data and consider it the responsibility of the data sharer to ensure that this is the case.
 </details>
 
 <details>
 <summary>What information will you extract from the dataset?</summary>
 <br>
-We will re-analyse the dataset in a frequentist and Bayesian approach and will extract the interaction estimates, the evidence for inclusion of each edge, and the posterior credible intervals. We will also extract meta-data that we can find in your publication such as node size, sample size, research area (e.g., psychopathology), and construct assessed (e.g., depression). 
+We will re-analyse the dataset in a frequentist and Bayesian approach and will extract the interaction estimates, the evidence for the inclusion of each edge, and the posterior credible intervals. We will also extract meta-data that we can find in your publication such as node size, sample size, research area (e.g., psychopathology), and construct assessed (e.g., depression). 
 </details>
 
 <details>
