@@ -6,6 +6,9 @@ share: false
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
+
+<p style="font-size:medium;text-align:justify">Huth, K., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/8f72p/"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package</a>. <em>PsyArXiv</em>.</p>
+
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ch7a2">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2022). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
