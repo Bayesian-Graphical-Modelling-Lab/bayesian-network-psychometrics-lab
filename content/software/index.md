@@ -8,7 +8,7 @@
 </br>
 
 **easybgm**</br> 
-<p style="font-size:medium;text-align:justify">An R package that streamlines Bayesian analysis of graphical models and simplifies related output (e.g., plotting functions). Can be installed from the easybgm <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>. More details about the package can also be found there.</p>  
+<p style="font-size:medium;text-align:justify">An R package that streamlines Bayesian analysis of graphical models and simplifies related output (e.g., plotting functions). Can be downloaded from <a href = "https://CRAN.R-project.org/package=easybgm">cran</a>. More details about the package can be found on the <a href="https://github.com/KarolineHuth/easybgm">Github repository</a>, and development versions can also be downloaded from there.</p>  
 </br>
 
 **JASP**</br>
