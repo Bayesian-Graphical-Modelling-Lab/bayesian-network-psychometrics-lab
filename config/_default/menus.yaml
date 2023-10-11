@@ -22,6 +22,10 @@ main:
   - name: projects
     url: projects
     weight: 70
+  - name: blog
+    url: blog
+    weight: 80
+    
   
 
 #  - name: software
