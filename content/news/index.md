@@ -4,6 +4,8 @@
 ---
 
 **2023**
+<p style="font-size:medium;text-align:justify"> The Bayesian Graphical Modeling lab organizes a workshop on Bayesian network analysis in the <a href = "http://psychosystems.org/networks-winter-school-2024/">Psychosystems Network Analysis Winter School</a>.</p>
+
 <p style="font-size:medium;text-align:justify"> An update to the R-package <a href = "https://cran.r-project.org/package=bgms">bgms</a>, version 0.1.2, is published on CRAN.</p>
 
 <p style="font-size:medium;text-align:justify"> The R-package <a href = "https://cran.r-project.org/package=easybgm">easybgm</a> is published on CRAN.</p>
