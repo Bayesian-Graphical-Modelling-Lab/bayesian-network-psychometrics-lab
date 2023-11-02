@@ -22,11 +22,3 @@ design:
   show_role: true
   show_social: true
 ---
-
-Student Assistants (*Past and Present)
-Jan Failenschmid*
-Bence Gergely*
-Lutz Heil*
-Dave Leitritz*
-Milla Pihlajamäki*
-Rebeka Prívozníková
