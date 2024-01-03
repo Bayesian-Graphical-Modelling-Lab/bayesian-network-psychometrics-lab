@@ -7,4 +7,3 @@
 imports:
   - path: https://github.com/HugoBlox/hugo-blox-builder/tree/main/modules/blox-plugin-decap-cms
   - path: https://github.com/HugoBlox/hugo-blox-builder/tree/main/modules/blox-plugin-netlify
-  - path: https://github.com/HugoBlox/hugo-blox-builder/tree/main/modules/blox-bootstrap
