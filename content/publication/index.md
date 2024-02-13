@@ -10,11 +10,11 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Keetelaar, S., Sekulovski, N., Borsboom, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/532hd"> Comparing Maximum Likelihood and Pseudo-Maximum Likelihood Estimators for the Ising Model</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Huth, K., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/8f72p/"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package</a>. <em>PsyArXiv</em>.</p>
+<p style="font-size:medium;text-align:justify">Huth, K., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://psyarxiv.com/8f72p/"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ch7a2">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>PsyArXiv</em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2024). <a href = "https://psyarxiv.com/ch7a2">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2022). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/">Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>PsyArXiv</em></p>
 
@@ -24,14 +24,15 @@ share: false
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://psyarxiv.com/ub5tc/">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>Advances in Methods and Practices in Psychological Science</em>.</p>
-
-<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (in press). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>. </p>
-
 
 **2023**
 
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://doi.org/10.1177/25152459231193334">Bayesian analysis of cross-sectional networks: A tutorial in R and JASP</a>. <em>Advances in Methods and Practices in Psychological Science</em>, <em>6</em>, 1-18.</p>
+
 <p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (2023). <a href = "https://doi.org/10.1080/00273171.2022.2135089">Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>, <em>58</em>, 787-814.</p>
+
+<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (2023). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>, <em>28</em>, 757-764. </p>
+
 
 **2022**
 
