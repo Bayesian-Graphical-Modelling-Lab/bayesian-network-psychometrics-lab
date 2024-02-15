@@ -3,9 +3,13 @@
   share: false
 ---
 
+**2024**
+
+<p style="font-size:medium;text-align:justify">Maarten received the 2024 <a href = https://www.psychometricsociety.org/early-career-award>Early Career Award</a> from the Psychometric Soceity!</p>
+
 **2023**
 
-<p style="font-size:medium;text-align:justify">Sara won the Best Poster Award for her poster "Are psychological networks sparse or dense? A Bayesian test for sparsity" at the 2023 IOPS Winter Conference!</p>
+<p style="font-size:medium;text-align:justify">Sara won the Best Poster Award for her poster "Are psychological networks sparse or dense? A Bayesian test for sparsity" at the 2023 IOPS Winter Conference! Congratulations Sara!</p>
 
 <p style="font-size:medium;text-align:justify"> The paper <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959">``Relations Between Networks, Regression, Partial Correlation, and Latent Variable Models''</a> by Lourens and Maarten has won the <a href = "https://www.smep.org/awards/tanaka">Tanaka award</a>, for best article published in Multivariate Behavioral Research in 2022.</p>
 
