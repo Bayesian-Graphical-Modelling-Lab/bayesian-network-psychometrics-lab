@@ -5,7 +5,7 @@
 
 **2024**
 
-<p style="font-size:medium;text-align:justify">Maarten received the 2024 <a href = https://www.psychometricsociety.org/early-career-award>Early Career Award</a> from the Psychometric Soceity!</p>
+<p style="font-size:medium;text-align:justify">Maarten received the 2024 <a href = https://www.psychometricsociety.org/early-career-award>Early Career Award</a> from the Psychometric Society!</p>
 
 **2023**
 
