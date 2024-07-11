@@ -15,6 +15,9 @@
 <p style="font-size:medium;text-align:justify">JASP is an open source statistical software program with a graphical user interface that can be downloaded from <a href="https://jasp-stats.org/">here</a>. In JASP, users can load their own data and point and click to select their desired analysis. It includes both frequentist and Bayesian versions of the most common statistical analyses, including network analysis. <a href="https://psyarxiv.com/ub5tc">Here</a> is a tutorial on Bayesian analysis of graphical models in JASP.</p>
 </br>  
 
+**simBgms**</br>
+<p style="font-size:medium;text-align:justify">An R package designed to make it easier and more accessible for researchers to conduct simulation studies using Bayesian Markov Random Field models. The development version can be downloaded from the <a href="https://github.com/sekulovskin/simBgms">Github repository</a>.</p>
+
 **rbinnet**</br>
 <p style="font-size:medium;text-align:justify">An R package for Bayesian analysis of graphical models for binary variables. Available from the rbinnet <a href="https://github.com/MaartenMarsman/rbinnet">Github repository</a>. Has been replaced by the bgms package.</p>
 </br>
