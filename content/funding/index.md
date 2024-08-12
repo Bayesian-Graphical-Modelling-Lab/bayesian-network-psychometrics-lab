@@ -27,18 +27,18 @@
 </thead>
 <tbody>
    <tr>
-    <td class="tg-c6of">Netherlands Organization for Scientific Research, Scientific Meetings and Consultations</td>
-        <td class="tg-2egc">2024</td>
+    <td class="tg-2egc">Netherlands Organization for Scientific Research, Scientific Meetings and Consultations</td>
+    <td class="tg-2egc">2024</td>
     <td class="tg-2egc">Bayesian methods for the social sciences II</td>
     <td class="tg-2egc"><a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a>, <a href="https://www.ejwagenmakers.com/">E.-J. Wagenmakers</a></td>
     <td class="tg-2egc">6,000 EUR</td>
   </tr>
   <tr>
-    <td class="tg-2egc">University of Amsterdam, Social and Behavioural Data Science Centre, Workshop Grant</td>
-    <td class="tg-2egc">2024</td>
-    <td class="tg-2egc">Bayesian methods for the social sciences II</td>
-    <td class="tg-2egc"><a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a>, <a href="https://www.ejwagenmakers.com/">E.-J. Wagenmakers</a></td>
-    <td class="tg-2egc">2,500 EUR</td>
+    <td class="tg-c6of">University of Amsterdam, Social and Behavioural Data Science Centre, Workshop Grant</td>
+    <td class="tg-c6of">2024</td>
+    <td class="tg-c6of">Bayesian methods for the social sciences II</td>
+    <td class="tg-c6of"><a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a>, <a href="https://www.ejwagenmakers.com/">E.-J. Wagenmakers</a></td>
+    <td class="tg-c6of">2,500 EUR</td>
   </tr>
   <tr>
     <td class="tg-2egc">European Union, ERC Starting Grant</td>
