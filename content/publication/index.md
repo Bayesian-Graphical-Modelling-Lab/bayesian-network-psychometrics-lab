@@ -13,8 +13,6 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/">Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>PsyArXiv</em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (2024). <a href = "https://osf.io/preprints/psyarxiv/59gj8"> A Good Check on the Bayes Factor</a>. <em>PsyArXiv</em>.</p>
-
 <p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
   
 <p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
@@ -40,6 +38,8 @@ share: false
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Haslbeck, J. M. B., & Marsman, M. (in press). <a href = "https://psyarxiv.com/6m7ca/"> Sensitivity Analysis of Prior Distributions in Bayesian Graphical Modeling: Guiding Informed Prior Choices for Conditional Independence Testing</a>. <em>Advances .in/psychology</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2024). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2024.2345915">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>Multivariate Behavioral Research</em>.</p>
+
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (2024). <a href = "https://link.springer.com/article/10.3758/s13428-024-02491-4"> A Good Check on the Bayes Factor</a>. <em>Behavior Research Methods</em>.</p>
 
 
 **2023**
