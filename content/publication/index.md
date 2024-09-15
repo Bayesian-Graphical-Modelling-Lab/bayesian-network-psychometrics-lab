@@ -24,7 +24,7 @@ share: false
 
 
 **Accepted for publication**
-<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> </p><a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>. 
+<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
 
 
 **2024**
