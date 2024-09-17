@@ -7,8 +7,6 @@ share: false
 
 **Submitted for publication**
 
-<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (2024). Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks.
-
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://doi.org/10.31234/osf.io/93nxp"> The Impact of Dichotomization on Network Recovery</a>. <em>PsyArXiv</em>.</p>
@@ -21,9 +19,10 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Zavlis, O., Huth, K. B. S., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (2024). The interplay of alcohol use symptoms and sociodemographic factors in the Netherlands: A network perspective.
 
-
-
 **Accepted for publication**
+
+<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks. <em>Schizophrenia Bulletin</em></p>.
+
 <p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (in press). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
