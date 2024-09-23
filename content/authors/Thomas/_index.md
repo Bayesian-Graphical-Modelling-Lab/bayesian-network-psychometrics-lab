@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Clinical psychologist/ PhD candidate
+role: Clinical psychologist & PhD candidate
 
 
 # Organizations/Affiliations
@@ -30,7 +30,7 @@ After starting my career in a purely clinical setting, I decided to join the Fre
 social:
    - icon: envelope
      icon_pack: fas
-     link: 'thomas.bastelica@ch-le-vinatier.fr'
+     link: 'mailto:thomas.bastelica@ch-le-vinatier.fr'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=QBZ9iJYAAAAJ&hl=fr
