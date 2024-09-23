@@ -21,17 +21,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-education:
-  courses:
-    - course: PhD - Bayesian Network Psychometrics
-      institution: University of Amsterdam, The Netherlands
-      year: 2022 - present
-    - course: MSc in Econometrics - Business Analytics and Quantitative Marketing
-      institution: Erasmus University Rotterdam, The Netherlands
-      year: 2019-2021
-    - course: BSc in Econometrics and Operations Research
-      institution: Erasmus University Rotterdam, The Netherlands
-      year: 2015 - 2019
+Biography:
+After starting my career in a purely clinical setting, I decided to join the French network of Expert Centers in Psychiatry (established by the Fundamental Foundation) as a way to integrate my clinical practice into a framework of fundamental and applied research. My interest in research also led me to pursue a PhD program, where I investigate the influence of biological, psychological, and clinical factors on cognition in psychiatric disorders. I explore these relationships using psychometric network models.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
