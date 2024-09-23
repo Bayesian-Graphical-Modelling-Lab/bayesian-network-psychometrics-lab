@@ -29,17 +29,16 @@ After starting my career in a purely clinical setting, I decided to join the Fre
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:thomas.bastelica@ch-le-vinatier.fr'
+    link: 'mailto:k.huth@uva.nl'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/karoline_huth
   - icon: google-scholar
     icon_pack: ai
-    link: 'https://scholar.google.com/citations?user=QBZ9iJYAAAAJ&hl=fr'
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
+    link: https://scholar.google.com/citations?user=_0707qYAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KarolineHuth
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -51,3 +50,5 @@ highlight_name: false
 user_groups:
   - Affiliated Researchers & Past Members
 ---
+
+
