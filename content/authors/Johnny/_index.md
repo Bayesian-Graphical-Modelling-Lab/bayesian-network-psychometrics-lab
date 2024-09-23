@@ -46,7 +46,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Affiliated Researchers & Past Members
+  - Researchers
 ---
 
 [Here](https://www.waldorp.nl/) is a link to my personal website.
