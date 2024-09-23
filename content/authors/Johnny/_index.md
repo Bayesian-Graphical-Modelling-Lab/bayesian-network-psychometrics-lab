@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lourens Waldorp
+title: Johnny van Doorn
 
 # Username (this should match the folder name)
 authors:
-  - Lourens Waldorp
+  - Johnny van Doorn
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor 
+role: Assistant Professor 
 
 
 # Organizations/Affiliations
@@ -27,10 +27,13 @@ organizations:
 social:
    - icon: envelope
      icon_pack: fas
-     link: 'mailto:L.J.Waldorp@uva.nl'
+     link: 'mailto:J.B.vanDoorn@uva.nl'
    - icon: google-scholar
      icon_pack: ai
-     link: https://scholar.google.nl/citations?user=tnmLj_IAAAAJ&hl=en
+     link: https://scholar.google.com/citations?hl=en&user=7TL5ZKsAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/JohnnyDoorn/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
