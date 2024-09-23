@@ -20,8 +20,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: After starting my career in a purely clinical setting, I decided to join the French network of Expert Centers in Psychiatry (established by the Fundamental Foundation) as a way to integrate my clinical practice into a framework of fundamental and applied research. My interest in research also led me to pursue a PhD program, where I investigate the influence of biological, psychological, and clinical factors on cognition in psychiatric disorders. I explore these relationships using psychometric network models.
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,3 +48,5 @@ highlight_name: false
 user_groups:
   - Affiliated Researchers & Past Members
 ---
+
+bio: After starting my career in a purely clinical setting, I decided to join the French network of Expert Centers in Psychiatry (established by the Fundamental Foundation) as a way to integrate my clinical practice into a framework of fundamental and applied research. My interest in research also led me to pursue a PhD program, where I investigate the influence of biological, psychological, and clinical factors on cognition in psychiatric disorders. I explore these relationships using psychometric network models.
