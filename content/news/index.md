@@ -7,7 +7,7 @@
 
 <p style="font-size:medium;text-align:justify">The Bayesian Graphical Modeling lab is organizing a tutorial session for the workshop Bayesian Methods for the Social Sciences - II. You can register for the conference <a href = https://bayesforshs2.sciencesconf.org/>here</a>.</p>
 
-<p style="font-size:medium;text-align:justify">Giuseppe Arena has joined the Bayesian Graphical Modeling lab. Welcom Giuseppe!</p>
+<p style="font-size:medium;text-align:justify">Giuseppe Arena has joined the Bayesian Graphical Modeling lab as a postdoc. Welcome Giuseppe!</p>
 
 <p style="font-size:medium;text-align:justify">Maarten received the 2024 <a href = https://www.psychometricsociety.org/early-career-award>Early Career Award</a> from the Psychometric Society!</p>
 
