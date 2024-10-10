@@ -5,7 +5,7 @@
 
 **2024**
 
-<p style="font-size:medium;text-align:justify">The Bayesian Graphical Modeling lab is organizing a tutorial session for the Bayesian Methods for the Social Sciences - II workshop. You can sign up for the conference <a href = https://bayesforshs2.sciencesconf.org/>here</a></p>. 
+<p style="font-size:medium;text-align:justify">The Bayesian Graphical Modeling lab is organizing a tutorial session for the Bayesian Methods for the Social Sciences - II workshop. You can sign up for the conference <a href = https://bayesforshs2.sciencesconf.org/>here</a>.</p>
 
 <p style="font-size:medium;text-align:justify">Giuseppe Arena has joined the Bayesian Graphical Modeling lab. Welcom Giuseppe!</p>
 
