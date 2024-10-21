@@ -5,6 +5,10 @@
 
 **2024**
 
+<p style="font-size:medium;text-align:justify"> An update to the R-package <a href = "https://cran.r-project.org/package=easybgm">easybgm</a>, version 0.2.1, is published on CRAN.</p>
+
+<p style="font-size:medium;text-align:justify"> An update to the R-package <a href = "https://cran.r-project.org/package=bgms">bgms</a>, version 0.1.4, is published on CRAN.</p>
+
 <p style="font-size:medium;text-align:justify">The Bayesian Graphical Modeling lab is organizing a tutorial session for the workshop Bayesian Methods for the Social Sciences - II. You can register for the conference <a href = https://bayesforshs2.sciencesconf.org/>here</a>.</p>
 
 <p style="font-size:medium;text-align:justify">Giuseppe Arena has joined the Bayesian Graphical Modeling lab as a postdoc. Welcome Giuseppe!</p>
