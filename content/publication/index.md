@@ -21,7 +21,7 @@ share: false
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks. <em>Schizophrenia Bulletin</em></p>
+<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
 
 <p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (in press). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science</em>.</p>
 
