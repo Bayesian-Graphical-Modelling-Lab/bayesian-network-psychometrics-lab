@@ -6,7 +6,7 @@
 **2024**
 
 <p style="font-size:medium;text-align:justify">Maarten received a &#8364 850,000 Vidi grant from NWO for his research proposal <em>Robust Inference for Dynamical Network Models</em>! See the NWO news    
-<a href = https://www.nwo.nl/en/news/102-leading-researchers-receive-vidi-grant>here</a> for more info, including a link to the full list of Vidi recipients, and the UvA news <a href = https://www.uva.nl/en/content/news/news/2024/10/vidi-grants-for-17-uva-and-amsterdam-umc-researchers.html>here</a> for the list of Vidi recipients working at the UvA.</p>
+<a href = https://www.nwo.nl/en/news/102-leading-researchers-receive-vidi-grant>here</a> for more info, including a link to the full list of 102 researchers who received a Vidi, and the UvA news <a href = https://www.uva.nl/en/content/news/news/2024/10/vidi-grants-for-17-uva-and-amsterdam-umc-researchers.html>here</a> for the list of 17 Vidi recipients working at the UvA or AMC.</p>
 
 <p style="font-size:medium;text-align:justify"> An update to the R-package <a href = "https://cran.r-project.org/package=easybgm">easybgm</a>, version 0.2.1, is published on CRAN.</p>
 
