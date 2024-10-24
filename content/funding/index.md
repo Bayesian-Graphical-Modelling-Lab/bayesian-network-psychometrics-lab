@@ -26,7 +26,14 @@
   </tr>
 </thead>
 <tbody>
-   <tr>
+  <tr>
+    <td class="tg-c6of">Netherlands Organization for Scientific Research, NWO Vidi grant</td>
+    <td class="tg-c6of">2025-2030</td>
+    <td class="tg-c6of">Robust inference for dynamic network models</td>
+    <td class="tg-c6of"><a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a></td>
+    <td class="tg-c6of">850,000 EUR</td>
+  </tr>
+  <tr>
     <td class="tg-2egc">Netherlands Organization for Scientific Research, Scientific Meetings and Consultations</td>
     <td class="tg-2egc">2024</td>
     <td class="tg-2egc">Bayesian methods for the social sciences II</td>
@@ -60,13 +67,6 @@
     <td class="tg-2egc">Developing a network theory of addiction and depression in an urban population</td>
     <td class="tg-2egc">R. J. van Holst, <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a>, J. Luigjes, A. Goudriaan</td>
     <td class="tg-2egc">440,000 EUR</td>
-  </tr>
-  <tr>
-    <td class="tg-c6of">Netherlands Organization for Scientific Research, NWO Veni Grant</td>
-    <td class="tg-c6of">2018-2021</td>
-    <td class="tg-c6of">The psychometrics of learning</td>
-    <td class="tg-c6of"><a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">M. Marsman</a></td>
-    <td class="tg-c6of">250,000 EUR</td>
   </tr>
 </tbody>
 </table>
