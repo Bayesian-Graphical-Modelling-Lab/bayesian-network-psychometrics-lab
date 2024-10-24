@@ -29,14 +29,14 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (in press). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2024.2345915">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>Multivariate Behavioral Research</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (in press). <a href = "https://link.springer.com/article/10.3758/s13428-024-02491-4"> A Good Check on the Bayes Factor</a>. <em>Behavior Research Methods</em>.</p>
-
 **2024**
 <p style="font-size:medium;text-align:justify">Huth, K., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://advances.in/psychology/10.56296/aip00010/"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package</a>. <em>Advances .in/psychology, e66366.</em></p>
 
 <p style="font-size:medium;text-align:justify">Keetelaar, S., Sekulovski, N., Borsboom, D., & Marsman, M. (2024). <a href = "https://advances.in/psychology/10.56296/aip00013/"> Comparing Maximum Likelihood and Pseudo-Maximum Likelihood Estimators for the Ising Model</a>. <em>Advances .in/psychology, e25745.</em></p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://psyarxiv.com/6m7ca/"> Sensitivity Analysis of Prior Distributions in Bayesian Graphical Modeling: Guiding Informed Prior Choices for Conditional Independence Testing</a>. <em>Advances .in/psychology, e92355.</em></p>
+
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (2024). <a href = "https://link.springer.com/article/10.3758/s13428-024-02491-4"> A Good Check on the Bayes Factor</a>. <em>Behavior Research Methods</em>, <em>59</em>,913-933.</p>
 
 **2023**
 
