@@ -13,14 +13,14 @@ The Bayesian Graphical Modeling Lab is continually developing new ideas and proj
 Below is an outline of project types available in our lab. Note that these are general categories, not specific projects. If any of these areas interest you, please contact the group coordinator for further information.
 </div>
 
-- Projects focused on programming and evaluating the performance of various MCMC algorithms through convergence diagnostics. <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>.
+- Projects focused on programming and evaluating the performance of various MCMC algorithms through convergence diagnostics. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>.
 
-- Projects centered on eliciting prior distributions, testing edge inclusion, and examining hypotheses on the network structure. <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
+- Projects centered on eliciting prior distributions, testing edge inclusion, and examining hypotheses on the network structure. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
 
-- Projects involving modeling and (pseudo)likelihood estimation. <a href="https://bayesiangraphicalmodeling.com/author/giuseppe-arena/">Giuseppe Arena</a>.
+- Projects involving modeling and (pseudo)likelihood estimation. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/giuseppe-arena/">Giuseppe Arena</a>.
 
-- Projects related to time-series data or exploring higher-order interactions in networks. <a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>
+- Projects related to time-series data or exploring higher-order interactions in networks. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>
 
-- Projects related to developing documentation and tutorials. <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
+- Projects related to developing documentation and tutorials. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
 
 
