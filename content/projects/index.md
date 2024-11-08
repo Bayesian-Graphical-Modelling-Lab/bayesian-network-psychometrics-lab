@@ -19,7 +19,7 @@ Below is an outline of project types available in our lab. Note that these are g
 
 - Projects involving modeling and (pseudo)likelihood estimation. <a href="https://bayesiangraphicalmodeling.com/author/giuseppe-arena/">Giuseppe Arena</a>.
 
-- Projects related to time-series data or exploring higher-order interactions in networks.<a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>
+- Projects related to time-series data or exploring higher-order interactions in networks. <a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>
 
 - Projects related to developing documentation and tutorials. <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
 
