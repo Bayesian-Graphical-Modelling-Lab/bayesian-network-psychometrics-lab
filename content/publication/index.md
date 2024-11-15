@@ -27,9 +27,6 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
 
-
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (in press). <a href = "https://link.springer.com/article/10.3758/s13428-024-02491-4"> A Good Check on the Bayes Factor</a>. <em>Behavior Research Methods</em>.</p>
-
 **2024**
 <p style="font-size:medium;text-align:justify">
 Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B.,  Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network analysis: An overview for mental health research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
@@ -40,6 +37,7 @@ Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2024). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2024.2345915">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>Multivariate Behavioral Research</em>, <em>59</em>, 913-933.</p>
 
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (2024). <a href = "https://link.springer.com/article/10.3758/s13428-024-02491-4"> A Good Check on the Bayes Factor</a>. <em>Behavior Research Methods, 56</em>, 8552–8566.</p>
 
 
 **2023**
