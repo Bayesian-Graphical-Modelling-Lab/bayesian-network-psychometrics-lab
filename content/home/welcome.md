@@ -22,4 +22,5 @@ design:
 
 <p style="font-size:medium;text-align:justify">Students that are interested in doing a project in our lab can check out the <em>projects</em> tab for more information.</p>
 <br>
+
 ![Image](support.png)
