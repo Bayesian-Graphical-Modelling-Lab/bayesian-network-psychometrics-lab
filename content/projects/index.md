@@ -7,14 +7,20 @@
 
 <p style="font-size:medium;text-align:justify">Below is an overview of the research areas in which we typically have projects available in our lab. Please note that these are general categories, not specific projects. If you are interested in a research project in one of these areas, please contact one of the associated researchers!</p>
 
-- Projects focused on programming and evaluating the performance of various MCMC algorithms through convergence diagnostics. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>.
+- Develop graphical models of psychological data or analyze their properties (e.g., their dynamics). 
+<a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>, <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>, & Lourens Waldorp.
 
-- Projects centered on eliciting prior distributions, testing edge inclusion, and examining hypotheses on the network structure. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
+- Implement or evaluate Markov chain Monte Carlo or computational methods to analyze graphical models.
+<a href="https://bayesiangraphicalmodeling.com/author/giuseppe-arena/">Giuseppe Arena</a>, <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>, & Don van den Bergh
 
-- Projects involving modeling and (pseudo)likelihood estimation. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/giuseppe-arena/">Giuseppe Arena</a>.
+- Bayesian methods for analyzing graphical cross-sectional models, including prior specification, derivation, implementation, or evaluation of Bayesian hypothesis tests. 
+<a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>, & <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>
 
-- Projects related to time-series data or exploring higher-order interactions in networks. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>
+- Bayesian methods for analyzing graphical longitudinal models, including prior specification, derivation, implementation, or evaluation of Bayesian hypothesis tests.
+<a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>, & <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>
 
-- Projects related to developing documentation and tutorials. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>.
+- Projects that demonstrate the Bayesian approach to graphical modeling, i.e. create demos or vignettes, but also tutorials and guidelines. <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>, & Johnny van Doorn
+
+- Re-analyze existing data using Bayesian graphical models. <a href="https://bayesiangraphicalmodeling.com/author/jonas-haslbeck/">Jonas Haslbeck</a>, & <a href="https://bayesiangraphicalmodeling.com/author/nikola-sekulovski/">Nikola Sekulovski</a>
 
 
