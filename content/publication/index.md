@@ -23,13 +23,15 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
 
-<p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (in press). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science</em>.</p>
-
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
 
 **2024**
 <p style="font-size:medium;text-align:justify">
 Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B.,  Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network analysis: An overview for mental health research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
+
+<p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (2024). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science, 11</em>(9), 11240049.</p>
+
+<p style="font-size:medium;text-align:justify"> Huth, K. B. S., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://doi.org/10.56296/aip00010"> Simplifying Bayesian Analysis of Graphical Models for the Social Sciences With easybgm: A User-Friendly R-Package. <em>Advances .in/psychology</em>, e66366.</p>
 
 <p style="font-size:medium;text-align:justify">Keetelaar, S., Sekulovski, N., Borsboom, D., & Marsman, M. (2024). <a href = "https://advances.in/psychology/10.56296/aip00013/"> Comparing Maximum Likelihood and Pseudo-Maximum Likelihood Estimators for the Ising Model</a>. <em>Advances .in/psychology</em>, e25745.</p>
 
