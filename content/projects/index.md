@@ -3,15 +3,9 @@
   share: false
 ---
 
+<p style="font-size:medium;text-align:justify">The Bayesian Graphical Modeling Lab consists of an enthusiastic group of researchers who are constantly developing new graphical models and novel methods for analyzing them. This provides an ideal environment for students to hone their statistical and methodological skills through internships or theses. Student projects typically contribute to an ongoing project in the lab and typically involve programming new methods, performing analyses, and performing quality checks on new methods.</p>
 
-<div style="text-align: justify;">
-The Bayesian Graphical Modeling Lab is continually developing new ideas and projects, creating an ideal environment for (master’s) students to enhance their skills through internships or thesis work. Students typically contribute to an aspect of an ongoing project by programming, performing analyses, and conducting quality checks on the developed methods. Additionally, the lab houses a relatively large repository of empirical datasets from published research employing cross-sectional network analysis; these datasets can be utilized for evaluating the methods developed in our lab.
-</div>
-
-
-<div style="text-align: justify;">
-Below is an outline of project types available in our lab. Note that these are general categories, not specific projects. If any of these areas interest you, please contact the group coordinator for further information.
-</div>
+<p style="font-size:medium;text-align:justify">Below is an overview of the research areas in which we typically have projects available in our lab. Please note that these are general categories, not specific projects. If you are interested in a research project in one of these areas, please contact one of the associated researchers!</p>
 
 - Projects focused on programming and evaluating the performance of various MCMC algorithms through convergence diagnostics. Coordinator: <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>.
 
