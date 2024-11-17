@@ -4,6 +4,7 @@
 ---
 
 **2024**
+<p style="font-size:medium;text-align:justify"> The BGM Lab offers a PhD position on Bayesian methods for network analysis of longitudinal psychological data (with Johnny van Doorn, Eric-Jan Wagenmakers, and Maarten Marsman). More information can be found <a href = https://werkenbij.uva.nl/en/vacancies/phd-bayesian-methods-for-network-analysis-of-longitudinal-psychometric-data-netherlands-13591>here</a>.</p>
 
 <p style="font-size:medium;text-align:justify">Maarten received a &#8364 850,000 Vidi grant from NWO for his research proposal <em>Robust Inference for Dynamical Network Models</em>! See the NWO news    
 <a href = https://www.nwo.nl/en/news/102-leading-researchers-receive-vidi-grant>here</a> for more info, including a link to the full list of 102 researchers who received a Vidi, and the UvA news <a href = https://www.uva.nl/en/content/news/news/2024/10/vidi-grants-for-17-uva-and-amsterdam-umc-researchers.html>here</a> for the list of 17 Vidi recipients working at the UvA or AMC.</p>
