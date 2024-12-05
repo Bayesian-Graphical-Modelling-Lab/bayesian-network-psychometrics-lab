@@ -4,6 +4,8 @@
 ---
 
 **2024**
+<p style="font-size:medium;text-align:justify"> An update to the R-package <a href = "https://cran.r-project.org/package=bgms">bgms</a>, version 0.1.4.2, is published on CRAN.</p>
+
 <p style="font-size:medium;text-align:justify"> The BGM Lab offers a PhD position on Bayesian methods for network analysis of longitudinal psychological data (with <a href="https://bayesiangraphicalmodeling.com/author/johnny-van-doorn/">Johnny van Doorn</a>, Eric-Jan Wagenmakers, and <a href="https://bayesiangraphicalmodeling.com/author/maarten-marsman/">Maarten Marsman</a>). More information can be found <a href = https://werkenbij.uva.nl/en/vacancies/phd-bayesian-methods-for-network-analysis-of-longitudinal-psychometric-data-netherlands-13591>here</a>.</p>
 
 <p style="font-size:medium;text-align:justify"> An update to the R-package <a href = "https://cran.r-project.org/package=bgms">bgms</a>, version 0.1.4.1, is published on CRAN.</p>
