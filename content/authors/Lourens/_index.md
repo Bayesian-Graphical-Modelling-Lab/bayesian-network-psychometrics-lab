@@ -4,7 +4,7 @@ title: Lourens Waldorp
 
 # Username (this should match the folder name)
 authors:
-  - Lourens Waldorp
+  - Lourens Waldorp (hi)
 
 # Is this the primary user of the site?
 superuser: false
