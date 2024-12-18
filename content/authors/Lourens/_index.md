@@ -4,13 +4,13 @@ title: Lourens Waldorp
 
 # Username (this should match the folder name)
 authors:
-  - Lourens Waldorp (hi)
+  - Lourens Waldorp
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor 
+role: Associate Professor hi
 
 
 # Organizations/Affiliations
