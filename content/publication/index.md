@@ -76,7 +76,7 @@ Guest Editors’ Introduction to The Special Issue “Network Psychometrics in A
 <p style="font-size:medium;text-align:justify">Marsman, M., Sigurdardottir, H., Bolsinova, M., & Maris, G. K. J. (2019). <a href = "https://doi.org/10.1007/s11336-019-09668-3">Characterizing the manifest probability distributions of three latent trait models for accuracy and response time</a>. <em>Psychometrika</em>, <em>84</em>, 870-891.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Tanis, C., Bechger, T. M., & Waldorp, L. J. (2019). <a href="https://link.springer.com/chapter/10.1007/978-3-030-18480-3_5">
-Network psychometrics in educational practice. Maximum likelihood estimation of the Curie-Weiss model</a>. In <em>Theoretical and Practical Advances in Computer-Based Educational Measurement</em> (pp. 93–120). Springer Nature.</p>
+Network psychometrics in educational practice. Maximum likelihood estimation of the Curie-Weiss model</a>. <em>Theoretical and Practical Advances in Computer-Based Educational Measurement</em> (pp. 93–120). Springer Nature.</p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., Marsman, M., & Maris, G. K. J. (2019). <a href ="https://doi.org/10.1007/s41237-018-0061-0">Logistic regression and Ising networks: Prediction and estimation when violating lasso assumptions</a>. <em>Behaviormetrika</em>, <em>46</em>, 49-72.</p>
 
