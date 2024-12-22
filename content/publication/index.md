@@ -15,7 +15,7 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/"> Bayesian analysis of the ordinal Markov random field </a>. <em>PsyArXiv.</em>.</p>
   
-<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
+<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>PsyArXiv</em>.<p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.
 
@@ -58,7 +58,7 @@ Guest Editors’ Introduction to The Special Issue “Network Psychometrics in A
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (2022). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>, <em>28</em>, 757-764. </p>
 
-<p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
+<p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>PsyArXiv</em>.<p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2022). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959"> Relations between networks, regression, partial correlation, and latent variable models</a>. <em>Multivariate Behavioral Research</em>, <em>57</em>, 994-1006.</p>
 
