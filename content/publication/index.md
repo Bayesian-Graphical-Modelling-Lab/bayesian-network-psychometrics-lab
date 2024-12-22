@@ -48,17 +48,15 @@ Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino
 
 <p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (2023). <a href = "https://doi.org/10.1080/00273171.2022.2135089">Idiographic Ising and Divide and Color Models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>, <em>58</em>, 787-814.</p>
 
-<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (2023). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>, <em>28</em>, 757-764. </p>
-
 
 **2022**
-
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Waldorp, L. J., Luigjes, J., Goudriaan, A. E., van Holst, R. J., & Marsman, M. (2022). <a href = "https://link.springer.com/article/10.1007/s11336-021-09834-6">A note on the Structural Change Test in finite samples: Using a permutation approach to estimate the sampling distribution</a>. <em>Psychometrika</em>, <em>87</em>, 1064-2080.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., & Rhemtulla, M. (2022). <a href = "https://doi.org/10.1007/s11336-022-09861-x">
 Guest Editors’ Introduction to The Special Issue “Network Psychometrics in Action”: Methodological Innovations Inspired by Empirical Problems</a>. <em>Psychometrika</em>, <em>87</em>, 1–11.</p>
 
-<p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian Edge Screening and Structure Selection for Networks of Binary Variables</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
+<p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian edge screening and structure selection for Ising networks</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
+
+<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (2022). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an encompassing theory of network models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>, <em>28</em>, 757-764. </p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2022). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959"> Relations between networks, regression, partial correlation, and latent variable models</a>. <em>Multivariate Behavioral Research</em>, <em>57</em>, 994-1006.</p>
 
@@ -66,7 +64,10 @@ Guest Editors’ Introduction to The Special Issue “Network Psychometrics in A
 **2021**
 <p style="font-size:medium;text-align:justify">Haslbeck, J., Epskamp, S., Marsman, M., & Waldorp, L. J. (2021). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2020.1730150">Interpreting the Ising model: The input matters</a>. <em>Multivariate Behavioral Research</em>, <em>56</em>, 303-313.</p>
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2021). <a href= "https://doi.org/10.1016/j.addbeh.2021.107128">Modeling alcohol use disorder as a set of interconnected symptoms -Assessing differences between clinical and populationsamples and across external factors</a>. <em>Addictive Behaviors</em>, <em>125</em>, 107128. </p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2021). <a href= "https://doi.org/10.1016/j.addbeh.2021.107128">Modeling alcohol use disorder as a set of interconnected symptoms — Assessing differences between clinical and population samples and across external factors</a>. <em>Addictive Behaviors</em>, <em>125</em>, 107128. </p>
+
+**2020**
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Waldorp, L. J., Luigjes, J., Goudriaan, A. E., van Holst, R. J., & Marsman, M. (2020). <a href = "https://link.springer.com/article/10.1007/s11336-021-09834-6">A note on the Structural Change Test in finite samples: Using a permutation approach to estimate the sampling distribution</a>. <em>Psychometrika</em>, <em>87</em>, 1064-2080.</p>
 
 
 **2019**
