@@ -3,7 +3,7 @@ title: Publications
 share: false
 ---
 
-To go to the BGM Labs' Google Scholar page, click [here](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
+You can find our Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
 
