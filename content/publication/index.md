@@ -3,7 +3,7 @@ title: Publications
 share: false
 ---
 
-[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
+To go to the BGM Labs' Google Scholar page, click [here](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
 
@@ -21,11 +21,11 @@ share: false
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
+<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (2024). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
 
 **2024**
 <p style="font-size:medium;text-align:justify">
-Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B.,  Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network analysis: An overview for mental health research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
+Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B., Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network analysis: An overview for mental health research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
 
 <p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (2024). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science, 11</em>(9), 11240049.</p>
 
