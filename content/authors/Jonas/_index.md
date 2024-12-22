@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: New Science of Mental Disorders consortium, Maastricht University
+  - name: New Science of Mental Disorders (NSMD) Consortium, Maastricht University
     url: 'https://nsmd.eu/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,4 +50,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-For my personal website, click [here](https://jonashaslbeck.com/). 
+[Here](https://jonashaslbeck.com/) is a link to my personal website.

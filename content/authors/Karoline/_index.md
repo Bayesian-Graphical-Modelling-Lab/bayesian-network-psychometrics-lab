@@ -60,5 +60,6 @@ highlight_name: false
 user_groups:
   - Affiliated Researchers & Past Members
 ---
+[Here](https://karolinehuth.github.io/) is a link to my personal website.
 
 

@@ -29,9 +29,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:g.arena@uva.nl'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/GiuseppeArena
 #  - icon: google-scholar
 #    icon_pack: ai
    # link: 
