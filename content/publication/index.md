@@ -12,6 +12,8 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href="https://psyarxiv.com/">A Bayesian independent samples t test for parameter differences in networks of binary and ordinal variables</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://doi.org/10.31234/osf.io/93nxp"> The Impact of Dichotomization on Network Recovery</a>. <em>PsyArXiv</em>.</p>
+
+<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/"> Bayesian analysis of the ordinal Markov random field </a>. <em>PsyArXiv.</em>.</p>
   
 <p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
 
@@ -29,7 +31,7 @@ Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino
 
 <p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (2024). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science, 11</em>(9), 11240049.</p>
 
-<p style="font-size:medium;text-align:justify"> Huth, K. B. S., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://doi.org/10.56296/aip00010"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package. <em>advances. in/psychology</em>, e66366.</p>
+<p style="font-size:medium;text-align:justify"> Huth, K. B. S., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://doi.org/10.56296/aip00010"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package.</a> <em>advances. in/psychology</em>, e66366.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://psyarxiv.com/6m7ca/"> Sensitivity analysis of prior distributions in Bayesian graphical modeling: Guiding informed prior choices for conditional independence testing</a>. <em>advances. in/psychology</em> e92355.</p>
 
@@ -45,8 +47,6 @@ Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino
 <p style="font-size:medium;text-align:justify">Keetelaar, S., Sekulovski, N., Borsboom, D., & Marsman, M. (2023). <a href = "https://advances.in/psychology/10.56296/aip00013/"> Comparing maximum likelihood and pseudo-maximum likelihood estimators for the Ising model</a>. <em>advances. in/psychology</em>, e25745.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (2023). <a href = "https://doi.org/10.1080/00273171.2022.2135089">Idiographic ising and divide and color models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>, <em>58</em>, 787-814.</p>
-
-<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). Bayesian analysis of the ordinal Markov random field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
 
 
 **2022**
