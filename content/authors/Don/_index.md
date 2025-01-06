@@ -28,7 +28,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:s.d.vandenbergh@uva.nl'
+    link: 'mailto:d.vandenbergh@uva.nl'
   - icon: google-scholar
     icon_pack: ai
     link:  https://scholar.google.nl/citations?user=WbbKtuQAAAAJ&hl=en
