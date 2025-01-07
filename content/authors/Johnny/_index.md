@@ -34,9 +34,8 @@ social:
    - icon: github
      icon_pack: fab
      link: https://github.com/JohnnyDoorn/
-   - icon: bluesky
-     icon_pack: fab
-     link: https://github.com/JohnnyDoorn/
+   - icon: "{{< fas bluesky "rgb(255, 140, 0)" >}}""
+     link: 'https://bsky.app/profile/maartenmarsman.bsky.social'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
