@@ -34,7 +34,7 @@ social:
    - icon: github
      icon_pack: fab
      link: https://github.com/JohnnyDoorn/
-   - icon: bluesky
+   - icon: square-bluesky
      icon_pack: fab
      link: 'https://bsky.app/profile/maartenmarsman.bsky.social'
 
