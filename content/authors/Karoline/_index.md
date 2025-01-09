@@ -60,6 +60,7 @@ highlight_name: false
 user_groups:
   - Affiliated Researchers & Past Members
 ---
+I am a PostDoc at the University of Maastricht and the University of Amsterdam. I am interested in modeling research questions and analyzing data with tools from systems/complexity science. In particular, I develop and evaluate statistical methods and apply them to better understand topics related to mental and public health.
 [Here](https://karolinehuth.github.io/) is a link to my personal website.
 
 
