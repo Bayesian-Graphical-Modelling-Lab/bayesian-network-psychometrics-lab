@@ -67,5 +67,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-[Here](https://www.nikolasekulovski.com) is a link to my personal website.
+I am a third year PhD candidate in the lab, specializing in Bayesian methods for analyzing graphical models applied to cross-sectional psychological data. My research interests are Bayesian hypothesis testing and network psychometrics. On my [website ](https://nikolasekulovski.com/) you can find more information about my publications, current projects, and contact information.
