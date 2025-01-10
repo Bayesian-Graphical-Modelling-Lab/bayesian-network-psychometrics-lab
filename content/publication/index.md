@@ -15,7 +15,7 @@ share: false
 
 <p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
   
-<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>OSF preprint</em>.<p>
+<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>PsyArXiv</em>.<p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.
 
