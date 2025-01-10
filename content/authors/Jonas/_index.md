@@ -50,4 +50,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+I develop methods for the social and behavioral sciences, focusing on both on statistical and computational modeling. I work on various extensions of cross-sectional network models that are implemented in the R-packages mgm and bgms. I also work on advancing measurement, design, and statistical modeling of psychological time series as collected in Ecological Momentary Assessment (EMA) studies. Furthermore, I contributed towards developing several computational models (e.g., panic disorder and emotion dynamics) and I am working on how to connect statistical modeling to the development of such computational models. I also always works on inter-disciplinary projects, for example on natural language processing and communication science.
 [Here](https://jonashaslbeck.com/) is a link to my personal website.

@@ -48,5 +48,5 @@ highlight_name: false
 user_groups:
   - Affiliated Researchers & Past Members
 ---
-
+I studied both psychology and mathematics at the University of Amsterdam, and did my PhD in developmental psychology, also at the University of Amsterdam. My expertise is in probability, statistics, networks, causality and dynamics, with a focus on modelling. I have collaborations with different organisations to model processes (over time) of different kinds of psychopathology. In a recent project with the University of Groningen a causal model was established to more accurately reflect in a network where and how to intervene to improve therapy.
 [Here](https://www.waldorp.nl/) is a link to my personal website.
