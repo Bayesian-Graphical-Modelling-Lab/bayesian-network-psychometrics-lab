@@ -7,7 +7,7 @@ share: false
 
 **Submitted for publication**
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS study</a>. <em>PsyArXiv</em></p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS Study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href = "https://doi.org/10.31219/osf.io/f4pk9">A Bayesian Independent Samples t Test for Parameter Differences in Networks of Binary and Ordinal Variables.</a>. <em>PsyArXiv</em></p>
 
@@ -15,21 +15,21 @@ share: false
 
 <p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
   
-<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
+<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>OSF preprint</em>.<p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.
 
-<p style="font-size:medium;text-align:justify">Zavlis, O., Huth, K. B. S., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (2024). The interplay of alcohol use symptoms and sociodemographic factors in the Netherlands: A network perspective.
+<p style="font-size:medium;text-align:justify">Zavlis, O., Huth, K. B. S., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (2024). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective.
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
+<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions Between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
 
 **2024**
 <p style="font-size:medium;text-align:justify">
-Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B.,  Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network analysis: An overview for mental health research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
+Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B.,  Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network Analysis: An Overview for Mental Health Research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
 
 <p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (2024). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science, 11</em>(9), 11240049.</p>
 
