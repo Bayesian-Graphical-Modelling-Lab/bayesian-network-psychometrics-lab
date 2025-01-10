@@ -17,6 +17,7 @@
 
 **simBgms**</br>
 <p style="font-size:medium;text-align:justify">An R package designed to make it easier and more accessible for researchers to conduct simulation studies using Bayesian Markov Random Field models. The development version can be downloaded from the <a href="https://github.com/sekulovskin/simBgms">Github repository</a>.</p>
+</br>
 
 **rbinnet**</br>
 <p style="font-size:medium;text-align:justify">An R package for Bayesian analysis of graphical models for binary variables. Available from the rbinnet <a href="https://github.com/MaartenMarsman/rbinnet">Github repository</a>. Has been replaced by the bgms package.</p>
