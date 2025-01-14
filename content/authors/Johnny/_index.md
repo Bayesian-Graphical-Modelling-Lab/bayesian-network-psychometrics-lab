@@ -31,6 +31,13 @@ social:
    - icon: google-scholar
      icon_pack: ai
      link: https://scholar.google.com/citations?hl=en&user=7TL5ZKsAAAAJ
+   - icon: github
+     icon_pack: fab
+     link: https://github.com/JohnnyDoorn/
+   - icon: bluesky
+     icon_pack: fab
+     link: 'https://bsky.app/profile/maartenmarsman.bsky.social'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-[Here](https://www.waldorp.nl/) is a link to my personal website.
+[Here](https://johnnydoorn.github.io) is a link to my personal website.

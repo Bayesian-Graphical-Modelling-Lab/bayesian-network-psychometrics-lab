@@ -28,16 +28,13 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-   # link: ''
-  - icon: twitter
-    icon_pack: fab
-   # link: 
+    link: 'mailto:d.vandenbergh@uva.nl'
   - icon: google-scholar
     icon_pack: ai
-   # link: 
+    link:  https://scholar.google.nl/citations?user=WbbKtuQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-   # link: 
+    link: https://github.com/vandenman
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

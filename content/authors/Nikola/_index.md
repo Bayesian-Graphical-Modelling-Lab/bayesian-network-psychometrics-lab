@@ -20,17 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-education:
-  courses:
-  - course: PhD - Bayesian Network Psychometrics
-    institution: University of Amsterdam, The Netherlands
-    year: 2022 - present
-  - course: MSc in Methodology and Statistics
-    institution: Utrecht University, The Netherlands
-    year: 2020 - 2022
-  - course: BSc in Psychology
-    institution: Ss. Cyril and Methodius University, North Macedonia
-    year: 2015 - 2019
+# education:
+#   courses:
+#   - course: PhD - Bayesian Network Psychometrics
+#     institution: University of Amsterdam, The Netherlands
+#     year: 2022 - present
+#   - course: MSc in Methodology and Statistics
+#     institution: Utrecht University, The Netherlands
+#     year: 2020 - 2022
+#   - course: BSc in Psychology
+#     institution: Ss. Cyril and Methodius University, North Macedonia
+#     year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,5 +67,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-[Here](https://www.nikolasekulovski.com) is a link to my personal website.
+I am a third year PhD candidate in the lab, specializing in Bayesian methods for analyzing graphical models applied to cross-sectional psychological data. My research interests are Bayesian hypothesis testing and network psychometrics. On my [website ](https://nikolasekulovski.com/) you can find more information about my publications, current projects, and contact information.

@@ -20,17 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-education:
-  courses:
-  - course: PhD - Network psychometrics and its applications on addiction and depression
-    institution: Centre for Urban Mental Health, University of Amsterdam
-    year: 2020 - present
-  - course: MSc in Psychology
-    institution: University of Amsterdam, The Netherlands
-    year: 2018 - 2020
-  - course: BSc in Psychology
-    institution: University of Mannheim, Germany
-    year: 2014 - 2017
+# education:
+#   courses:
+#   - course: PhD - Network psychometrics and its applications on addiction and depression
+#     institution: Centre for Urban Mental Health, University of Amsterdam
+#     year: 2020 - present
+#   - course: MSc in Psychology
+#     institution: University of Amsterdam, The Netherlands
+#     year: 2018 - 2020
+#   - course: BSc in Psychology
+#     institution: University of Mannheim, Germany
+#     year: 2014 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:k.huth@uva.nl'
+    link: 'mailto:k.s.huth@uva.nl'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/karoline_huth
@@ -60,5 +60,7 @@ highlight_name: false
 user_groups:
   - Affiliated Researchers & Past Members
 ---
+I am a PostDoc at the University of Maastricht and the University of Amsterdam. I am interested in modeling research questions and analyzing data with tools from systems/complexity science. In particular, I develop and evaluate statistical methods and apply them to better understand topics related to mental and public health.
+[Here](https://karolinehuth.github.io/) is a link to my personal website.
 
 

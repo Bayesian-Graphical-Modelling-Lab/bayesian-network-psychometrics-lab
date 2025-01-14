@@ -20,17 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-education:
-  courses:
-    - course: PhD - Bayesian Network Psychometrics
-      institution: University of Amsterdam, The Netherlands
-      year: 2022 - present
-    - course: MSc in Econometrics - Business Analytics and Quantitative Marketing
-      institution: Erasmus University Rotterdam, The Netherlands
-      year: 2019-2021
-    - course: BSc in Econometrics and Operations Research
-      institution: Erasmus University Rotterdam, The Netherlands
-      year: 2015 - 2019
+# education:
+#   courses:
+#     - course: PhD - Bayesian Network Psychometrics
+#       institution: University of Amsterdam, The Netherlands
+#       year: 2022 - present
+#     - course: MSc in Econometrics - Business Analytics and Quantitative Marketing
+#       institution: Erasmus University Rotterdam, The Netherlands
+#       year: 2019-2021
+#     - course: BSc in Econometrics and Operations Research
+#       institution: Erasmus University Rotterdam, The Netherlands
+#       year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -50,4 +50,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-[Maarten Marsman](https://www.maartenmarsman.com) is Assistant Professor of Psychological Methods at the University of Amsterdam. He combines psychometric theory, often bridging the fields of latent variable and network modeling, with the development of statistical models and techniques for analyzing and understanding psychological phenomena. In the past decade, Marsman has focused on developing Bayesian methods for analyzing psychological data with statistical models - especially psychometric models - and the open-source statistical software [JASP](https://jasp-stats.org/). His current focus on Bayesian analysis of graphical models extends his focus on psychometric modeling into the realm of network analysis.
+I am an Assistant Professor at the Psychological Methods Unit of the University of Amsterdam and Principal Investigator of the Bayesian Graphical Modeling project. My work combines psychometric theory with Bayesian inference and computational methods, focusing on Bayesian analysis of psychological data in general and graphical network models in particular.
+[Here](https://www.maartenmarsman.com) is a link to my personal website.

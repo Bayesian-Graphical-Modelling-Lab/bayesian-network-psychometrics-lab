@@ -3,7 +3,7 @@ title: Publications
 share: false
 ---
 
-[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
+You can find our Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
 
@@ -11,35 +11,38 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href = "https://doi.org/10.31219/osf.io/f4pk9">A Bayesian Independent Samples t Test for Parameter Differences in Networks of Binary and Ordinal Variables.</a>. <em>PsyArXiv</em></p>
 
+<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href="https://psyarxiv.com/">A Bayesian independent samples t test for parameter differences in networks of binary and ordinal variables</a>. <em>PsyArXiv</em></p>
+
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://doi.org/10.31234/osf.io/93nxp"> The Impact of Dichotomization on Network Recovery</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>arXiv</em>.<p>
+<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2023). <a href = "https://psyarxiv.com/ukwrf/"> Bayesian analysis of the ordinal Markov random field </a>. <em>PsyArXiv.</em>.</p>
   
-<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>PsyArXiv</em>.<p>
+<p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.
+<p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.</p>
 
-<p style="font-size:medium;text-align:justify">Zavlis, O., Huth, K. B. S., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (2024). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective.
+<p style="font-size:medium;text-align:justify">Zavlis, O., Huth, K. B. S., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (2024). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective.</p>
 
 **Accepted for publication**
-
-<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. C., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions Between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
-
+  
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
 
 **2024**
+                    
+<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (2024). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
+
 <p style="font-size:medium;text-align:justify">
-Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B.,  Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network Analysis: An Overview for Mental Health Research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
+Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino, H. F., Christensen, A. P., Morvan, Y., Ebrahimi, O. V., Heeren, A., van Bork, R., de Ron, J., Bringmann, L. F., Huth, K. B. S., Haslbeck, J. M. B., Isvoranu, A.-M., Marsman, M., Blanken, T. F., Gilbert, A., Henry, T. R., Fried, E. I., & McNally, R. J. (2024). <a href = "https://dx.doi.org/10.1002/mpr.2034"> Network analysis: An overview for mental health research</a>. <em>International Journal of Methods in Psychiatric Research, 33</em>(4), e2034.</p>
+
+<p style="font-size:medium;text-align:justify">Keetelaar, S., Sekulovski, N., Borsboom, D., & Marsman, M. (2024). <a href="https://doi.org/10.56296/aip00013">Comparing maximum likelihood and maximum pseudolikelihood estimators for the Ising model</a>. <em>advances.in/psychology</em>, <em>2</em>, e25745. </p>
 
 <p style="font-size:medium;text-align:justify">Hoogeveen, S., Borsboom, D., Kucharský, Š, Marsman, M., Molenaar, D., de Ron, J., Sekulovski, N., Visser, I., van Elk, M., & Wagenmakers, E.-J. (2024). <a href = "https://royalsocietypublishing.org/doi/10.1098/rsos.240049"> Prevalence, Patterns, and Predictors of Paranormal Beliefs in the Netherlands: A Several-Analysts Approach</a>. <em>Royal Society Open Science, 11</em>(9), 11240049.</p>
 
-<p style="font-size:medium;text-align:justify"> Huth, K. B. S., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://doi.org/10.56296/aip00010"> Simplifying Bayesian Analysis of Graphical Models for the Social Sciences With easybgm: A User-Friendly R-Package. <em>Advances .in/psychology</em>, e66366.</p>
+<p style="font-size:medium;text-align:justify"> Huth, K. B. S., Keetelaar, S., Sekulovski, N., van den Bergh, D., & Marsman, M. (2024). <a href = "https://doi.org/10.56296/aip00010"> Simplifying Bayesian analysis of graphical models for the social sciences with easybgm: A user-friendly R-package.</a> <em>advances. in/psychology</em>, e66366.</p>
 
-<p style="font-size:medium;text-align:justify">Keetelaar, S., Sekulovski, N., Borsboom, D., & Marsman, M. (2024). <a href = "https://advances.in/psychology/10.56296/aip00013/"> Comparing Maximum Likelihood and Pseudo-Maximum Likelihood Estimators for the Ising Model</a>. <em>Advances .in/psychology</em>, e25745.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://psyarxiv.com/6m7ca/"> Sensitivity analysis of prior distributions in Bayesian graphical modeling: Guiding informed prior choices for conditional independence testing</a>. <em>advances. in/psychology</em> e92355.</p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://psyarxiv.com/6m7ca/"> Sensitivity Analysis of Prior Distributions in Bayesian Graphical Modeling: Guiding Informed Prior Choices for Conditional Independence Testing</a>. <em>Advances .in/psychology,</em> e92355.</p>
-
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2024). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2024.2345915">Testing Conditional Independence in Psychometric Networks: An Analysis of Three Bayesian Methods</a>. <em>Multivariate Behavioral Research</em>, <em>59</em>, 913-933.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Keetelaar, S., Huth, K. B. S., Wagenmakers, E.-J., van Bork, R., van den Bergh, D., & Marsman, M. (2024). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2024.2345915">Testing conditional independence in psychometric networks: An analysis of three Bayesian methods</a>. <em>Multivariate Behavioral Research</em>, <em>59</em>, 913-933.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Marsman, M., & Wagenmakers, E.-J. (2024). <a href = "https://link.springer.com/article/10.3758/s13428-024-02491-4"> A Good Check on the Bayes Factor</a>. <em>Behavior Research Methods, 56</em>, 8552–8566.</p>
 
@@ -48,19 +51,22 @@ Briganti, G., Scutari, M., Epskamp, S., Borsboom, D., Hoekstra, R. H. A., Golino
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., de Ron, J., Goudriaan, A. E., Luigjes, J., Mohammadi, R., van Holst, R. J., Wagenmakers, E.-J., & Marsman, M. (2023). <a href = "https://doi.org/10.1177/25152459231193334">Bayesian Analysis of Cross-Sectional Networks: A Tutorial in R and JASP</a>. <em>Advances in Methods and Practices in Psychological Science</em>, <em>6</em>, 1-18.</p>
 
-<p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (2023). <a href = "https://doi.org/10.1080/00273171.2022.2135089">Idiographic Ising and Divide and Color Models: Encompassing Networks for Heterogeneous Binary Data</a>. <em>Multivariate Behavioral Research</em>, <em>58</em>, 787-814.</p>
+<p style="font-size:medium;text-align:justify">Marsman, M., & Huth, K. B. S. (2023). <a href = "https://doi.org/10.1080/00273171.2022.2135089">Idiographic ising and divide and color models: Encompassing networks for heterogeneous binary data</a>. <em>Multivariate Behavioral Research</em>, <em>58</em>, 787-814.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., & Borsboom, D. (2023). <a href = "https://doi.org/10.31234/osf.io/n98qt">Towards an Encompassing Theory of Network Models: Reply to Brusco, Steinley, Hoffman, Davis-Stober, & Wasserman</a>. <em>Psychological Methods</em>, <em>28</em>, 757-764. </p>
 
 
 **2022**
-
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Waldorp, L. J., Luigjes, J., Goudriaan, A. E., van Holst, R. J., & Marsman, M. (2022). <a href = "https://link.springer.com/article/10.1007/s11336-021-09834-6">A Note on the Structural Change Test in Finite Samples: Using a Permutation Approach to Estimate the Sampling Distribution</a>. <em>Psychometrika</em>, <em>87</em>, 1064-2080.</p>
-
 <p style="font-size:medium;text-align:justify">Marsman, M., & Rhemtulla, M. (2022). <a href = "https://doi.org/10.1007/s11336-022-09861-x">
 Guest Editors’ Introduction to The Special Issue “Network Psychometrics in Action”: Methodological Innovations Inspired by Empirical Problems</a>. <em>Psychometrika</em>, <em>87</em>, 1–11.</p>
 
-<p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian Edge Screening and Structure Selection for Networks of Binary Variables</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2021). <a href= "https://doi.org/10.1016/j.addbeh.2021.107128">Modeling Alcohol Use Disorder As a Set of Interconnected Symptoms -Assessing Differences Between Clinical and Population Samples and Across External Factors</a>. <em>Addictive Behaviors</em>, <em>125</em>, 107128. </p>
+
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Waldorp, L. J., Luigjes, J., Goudriaan, A. E., van Holst, R. J., & Marsman, M. (2020). <a href = "https://link.springer.com/article/10.1007/s11336-021-09834-6">A note on the Structural Change Test in finite samples: Using a permutation approach to estimate the sampling distribution</a>. <em>Psychometrika</em>, <em>87</em>, 1064-2080.</p>
+
+<p style="font-size:medium;text-align:justify">Marsman, M., Huth, K., Waldorp, L. J., & Ntzoufras, I. (2022). <a href ="https://doi.org/10.1007/s11336-022-09848-8">Objective Bayesian edge screening and structure selection for Ising networks</a>. <em>Psychometrika</em>, <em>87</em>, 47–82.</p> 
+
+<p style="font-size:medium;text-align:justify">van den Bergh, D., & Dablander, F. (2022). <a href= "https://arxiv.org/abs/2208.07086">Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors</a>. <em>PsyArXiv</em>.<p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2022). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959"> Relations Between Networks, Regression, Partial Correlation, and Latent Variable Models</a>. <em>Multivariate Behavioral Research</em>, <em>57</em>, 994-1006.</p>
 
@@ -68,14 +74,12 @@ Guest Editors’ Introduction to The Special Issue “Network Psychometrics in A
 **2021**
 <p style="font-size:medium;text-align:justify">Haslbeck, J., Epskamp, S., Marsman, M., & Waldorp, L. J. (2021). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2020.1730150">Interpreting the Ising Model: The Input Matters</a>. <em>Multivariate Behavioral Research</em>, <em>56</em>, 303-313.</p>
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Luigjes, J., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2021). <a href= "https://doi.org/10.1016/j.addbeh.2021.107128">Modeling Alcohol Use Disorder As a Set of Interconnected Symptoms -Assessing Differences Between Clinical and Population Samples and Across External Factors</a>. <em>Addictive Behaviors</em>, <em>125</em>, 107128. </p>
-
 
 **2019**
 <p style="font-size:medium;text-align:justify">Marsman, M., Sigurdardottir, H., Bolsinova, M., & Maris, G. K. J. (2019). <a href = "https://doi.org/10.1007/s11336-019-09668-3">Characterizing the Manifest Probability Distributions of Three Latent Trait Models for Accuracy and Response Time</a>. <em>Psychometrika</em>, <em>84</em>, 870-891.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Tanis, C., Bechger, T. M., & Waldorp, L. J. (2019). <a href="https://link.springer.com/chapter/10.1007/978-3-030-18480-3_5">
-Network Psychometrics in Educational Practice. Maximum Likelihood Estimation of the Curie-Weiss Model</a>. In <em>Theoretical and Practical Advances in Computer-Based Educational Measurement</em> (pp. 93–120). Springer Nature.</p>
+Network psychometrics in educational practice. Maximum likelihood estimation of the Curie-Weiss model</a>. <em>Theoretical and Practical Advances in Computer-Based Educational Measurement</em> (pp. 93–120). Springer Nature.</p>
 
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., Marsman, M., & Maris, G. K. J. (2019). <a href ="https://doi.org/10.1007/s41237-018-0061-0">Logistic Regression and Ising Networks: Prediction and Estimation When Violating Lasso Assumptions</a>. <em>Behaviormetrika</em>, <em>46</em>, 49-72.</p>
 
