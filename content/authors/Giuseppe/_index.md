@@ -52,5 +52,6 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
+I am a Postdoctoral Researcher at the Psychological Methods Unit of the University of Amsterdam. I am working on the development of Bayesian methods for model selection and inference on psychometric data using Bayesian Graphical Models (BGMs). Particularly, I am implementing MCMC methods and novel computational techniques to analyze BGMs.
+My other research interests include (longitudinal) social network models, time-sensitive methods for modeling the influence of social interactions, network models for biological and genetic processes. I am also passionate about programming, improving code efficient and solving mathematical optimization problems
 [Here](https://giuseppearena.com) is a link to my personal website.
