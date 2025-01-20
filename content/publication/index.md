@@ -11,8 +11,6 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href = "https://doi.org/10.31219/osf.io/f4pk9">A Bayesian Independent Samples t Test for Parameter Differences in Networks of Binary and Ordinal Variables.</a>. <em>PsyArXiv</em></p>
 
-<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href="https://psyarxiv.com/">A Bayesian independent samples t test for parameter differences in networks of binary and ordinal variables</a>. <em>PsyArXiv</em></p>
-
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://doi.org/10.31234/osf.io/93nxp"> The Impact of Dichotomization on Network Recovery</a>. <em>PsyArXiv</em>.</p>
   
 <p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2024). <a href= "https://osf.io/preprints/psyarxiv/yhfwp">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>PsyArXiv</em>.</p>
