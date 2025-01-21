@@ -7,6 +7,8 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 **Submitted for publication**
 
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (2025). <a href = "https://doi.org/10.31234/osf.io/62ydg">Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies</a>. <em>PsyArXiv</em></p>
+
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS Study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href = "https://doi.org/10.31219/osf.io/f4pk9">A Bayesian Independent Samples t Test for Parameter Differences in Networks of Binary and Ordinal Variables.</a>. <em>PsyArXiv</em></p>
