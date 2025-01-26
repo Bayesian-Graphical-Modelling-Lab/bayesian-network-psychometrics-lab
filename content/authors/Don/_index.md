@@ -52,4 +52,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+I am a postdoctoral researcher in the Psychological Methods Department at the University of Amsterdam. My research centers on Bayesian Graphical Models (mostly the Gaussian Graphical Model and variant of the Ising model) and general Bayesian inference (e.g., Bayesian regression and ANOVA). I am very interested in Markov Chain Monte Carlo (MCMC) methods, especially those that work well with discrete parameters. Additionally, I actively contribute to JASP, an open-source statistical software program.
 
