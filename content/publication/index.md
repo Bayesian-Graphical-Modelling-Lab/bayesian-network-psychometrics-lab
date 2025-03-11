@@ -23,7 +23,9 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika.</em> <a href = "https://psyarxiv.com/ukwrf/">PsyArXiv</a>.</p> 
+<p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (in press). Bayesian Analysis of the Ordinal Markov Random Field. <em>Psychometrika</em>.</p>
+
+<p style="font-size:medium;text-align:justify">van den Bergh, D., Douw, L., van der Pal, Z., Blanken, T. F., Schrantee, A., & Marsman, M. (in press). Jointly Estimating Individual and Group Networks from fMRI Data. <em>Network Neuroscience</em>. <a href = "https://doi.org/10.31234/osf.io/acjdq">PsyArXiv</a>.</p> 
 
 **2024**
 
