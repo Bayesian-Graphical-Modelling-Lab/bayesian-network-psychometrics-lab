@@ -18,6 +18,7 @@ content:
   user_groups:
     - Researchers
     - Affiliated Researchers & Past Members
+    - Research Assistants
 design:
   show_interests: false
   show_role: true
