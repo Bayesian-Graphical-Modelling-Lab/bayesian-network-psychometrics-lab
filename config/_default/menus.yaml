@@ -28,12 +28,3 @@ main:
   - name: workshops
     url: workshops
     weight: 80
-    
-  
-
-#  - name: software
-#    url: software
-#    weight: 30
-#  - name: workshops
-#    url: workshops
-#    weight: 40
