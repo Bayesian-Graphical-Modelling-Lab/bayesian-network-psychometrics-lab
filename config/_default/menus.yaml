@@ -22,10 +22,9 @@ main:
   - name: projects
     url: projects
     weight: 70
-  - name: workshops
+  - name: workshopS
     url: workshops
     weight: 80
-    
     
   # - name: blog
   #   url: blog
