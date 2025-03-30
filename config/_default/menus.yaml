@@ -25,6 +25,9 @@ main:
   - name: workshops
     url: workshops
     weight: 80
+  - name: people new
+    url: people_new
+    weight: 80
     
   # - name: blog
   #   url: blog
