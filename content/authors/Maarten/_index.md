@@ -33,8 +33,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/MaartenMarsman
-  - icon: bluesky
-    icon_pack: fab
+  - icon: bluesky.svg
+    icon_pack: custom
     link: https://github.com/MaartenMarsman
   
 # Link to a PDF of your resume/CV from the About widget.
