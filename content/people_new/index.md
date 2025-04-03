@@ -5,7 +5,7 @@
 
 <!--**bgms**</br>-->
 
-**[Don van den Bergh]({{< relref "../Don/_index.md" >}})**</br>
+**[Don van den Bergh]({{< relref "../Don.md" >}})**</br>
 <p style="font-size:medium;text-align:justify">Postdoctoral Researcher</a>.</p> 
 </br>
 
