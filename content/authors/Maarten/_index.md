@@ -33,7 +33,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/MaartenMarsman
-  - icon: bitcoin
+  - icon: bluesky
     icon_pack: fab
     link: https://github.com/MaartenMarsman
   
