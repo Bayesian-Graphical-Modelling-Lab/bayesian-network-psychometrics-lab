@@ -5,9 +5,11 @@
 
 <!--**bgms**</br>-->
 
-**[Don van den Bergh](https://cran.r-project.org/package=bgms)**</br>
+**[Don van den Bergh]({{< relref "../Don/_index.md" >}})**</br>
 <p style="font-size:medium;text-align:justify">Postdoctoral Researcher</a>.</p> 
 </br>
+
+
 
 **[Guiseppe Arena](https://cran.r-project.org/package=easybgm)**</br> 
 <p style="font-size:medium;text-align:justify">Postdoctoral Researcher</p>  
