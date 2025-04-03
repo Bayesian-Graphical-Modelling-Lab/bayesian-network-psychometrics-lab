@@ -22,7 +22,8 @@ organizations:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    #icon_pack: fas
+    icon_pack: solid
     link: 'mailto:m.marsman@uva.nl'
   - icon: twitter
     icon_pack: fab
