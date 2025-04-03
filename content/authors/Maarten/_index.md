@@ -33,7 +33,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/MaartenMarsman
-  - icon: bluesky.svg
+  - icon: bluesky
     icon_pack: custom
     link: https://github.com/MaartenMarsman
   
