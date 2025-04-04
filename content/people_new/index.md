@@ -5,7 +5,7 @@
 
 <!--**bgms**</br>-->
 
-**{{< ref "/people_new/Don/_index.md" >}}**</br>
+**[Don van den Bergh](https://cran.r-project.org/package=easybgm)**</br>
 <p style="font-size:medium;text-align:justify">Postdoctoral Researcher</a>.</p> 
 </br>
 
