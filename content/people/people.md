@@ -21,6 +21,7 @@ content:
     - Research Assistants
 design:
   show_interests: false
+  show_photo: false
   show_role: true
   show_social: true
 ---
