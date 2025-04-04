@@ -1,10 +1,12 @@
 ---
 # Display name
 title: Don van den Bergh
+cascade:
+- url: /:sections[last]/:slug
 
 # Username (this should match the folder name)
 authors:
-  - Don
+  - Don van den Bergh
 
 # Is this the primary user of the site?
 superuser: false
