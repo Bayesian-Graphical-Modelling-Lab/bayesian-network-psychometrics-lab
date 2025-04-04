@@ -4,7 +4,7 @@ title: Don van den Bergh
 
 # Username (this should match the folder name)
 authors:
-  - Don van den Bergh
+  - Don
 
 # Is this the primary user of the site?
 superuser: false

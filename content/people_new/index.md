@@ -5,7 +5,7 @@
 
 <!--**bgms**</br>-->
 
-**{{< ref "people_new/Don/_index.md" >}}**</br>
+**{{< ref "/people_new/Don/_index.md" >}}**</br>
 <p style="font-size:medium;text-align:justify">Postdoctoral Researcher</a>.</p> 
 </br>
 
