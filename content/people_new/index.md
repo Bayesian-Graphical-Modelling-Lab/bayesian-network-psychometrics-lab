@@ -3,6 +3,33 @@
   share: false
 ---
 
+<h2>Researchers</h2>
+
+# Johnny van Doorn: Assistant Professor
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Johnny van Doorn</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Assistant Professor</span>
+</p>
+
+# Maarten Marsman: Assistant Professor
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Maarten Marsman</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Assistant Professor</span>
+</p>
+
+# Giuseppe Arena: Postdoctoral Researcher
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Giuseppe Arena</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Postdoctoral Researcher</span>
+</p>
+
+# Don van den Bergh: Postdoctoral Researcher
 <p style="margin:0; padding:0;">
   <span style="font-size:18px; color:darkorchid; font-weight:bold;">
     <a href="https://cran.r-project.org/package=easybgm">Don van den Bergh</a>
@@ -10,21 +37,97 @@
   <span style="font-size:15px; color:black;">Postdoctoral Researcher</span>
 </p>
 
+# Jonas Haslbeck: Postdoctoral Researcher
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Jonas Haslbeck</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Postdoctoral Researcher</span>
+</p>
+
+# Vipasha Goyal: PhD Candidate
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Vipasha Goyal</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">PhD Candidate</span>
+</p>
+
+# Nikola Sekulovski: PhD Candidate
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Nikola Sekulovski</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">PhD Candidate</span>
+</p>
 
 
-**[Guiseppe Arena](https://cran.r-project.org/package=easybgm)**</br> 
-<p style="font-size:medium;text-align:justify">Postdoctoral Researcher</p>  
-</br>
+<h2>Affiliated Researchers and Assistants</h2>
 
-**[Johnny van Doorn](https://jasp-stats.org)**</br>
-<p style="font-size:medium;text-align:justify">Assistant Professor</p>
-</br>  
+# Karoline Huth: PhD Candidate
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Karoline Huth</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">PhD Candidate</span>
+</p>
 
-**[Jonas Haslbeck](https://github.com/sekulovskin/simBgms/blob/main/README.md)**</br>
-<p style="font-size:medium;text-align:justify">Postdoctoral Researcher</a>.</p>
-</br>
+# Lourens Waldorp: Assistant Professor
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Lourens Waldorp</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Assistant Professor</span>
+</p>
 
-**[Maarten Marsman](https://github.com/sekulovskin/simBgms/blob/main/README.md)**</br>
-<p style="font-size:medium;text-align:justify">An R package for Bayesian analysis of graphical models for binary variables. Available from the rbinnet <a href="https://github.com/MaartenMarsman/rbinnet">Github repository</a>. Has been replaced by the bgms package.</p>
-</br>
 
+# Sara Ketelaar: PhD Candidate
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Sara Ketelaar</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">PhD Candidate</span>
+</p>
+
+# Thomas Bastelica: PhD Candidate
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Thomas Bastelica</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">PhD Candidate</span>
+</p>
+
+# Laura Groot: Research Assistant
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Laura Groot</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Research Assistant</span>
+</p>
+
+
+<h2>Past Members</h2>
+
+# Dave Leitritz: Research Assistant
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Dave Leitritz</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Research Assistant</span>
+</p>
+
+# Jan Failenschmidt: Research Assistant
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Jan Failenschmidt</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Research Assistant</span>
+</p>
+
+# Konrad Mikolauskas: Research Assistant
+<p style="margin:0; padding:0;">
+  <span style="font-size:18px; color:darkorchid; font-weight:bold;">
+    <a href="https://cran.r-project.org/package=easybgm">Konrad Mikolauskas</a>
+  </span><br/>
+  <span style="font-size:15px; color:black;">Research Assistant</span>
+</p>
