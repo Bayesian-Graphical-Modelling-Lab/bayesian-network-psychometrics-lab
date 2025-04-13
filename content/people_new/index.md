@@ -3,11 +3,15 @@
   share: false
 ---
 
-<!--**bgms**</br>-->
 
 **[Don van den Bergh](https://cran.r-project.org/package=easybgm)**</br>
-<p style="font-size:medium;text-align:justify">Postdoctoral Researcher</a>.</p> 
+<p style="font-size:medium;color:red;text-align:justify">Postdoctoral Researcher</a>.</p> 
 </br>
+
+<p style="margin:0; padding:0;">
+  <span style="font-size:14px;"><a href="https://cran.r-project.org/package=easybgm">Don van den Bergh</a></span><br/>
+  <span style="font-size:13px; color:red;">Postdoctoral Researcher</span>
+</p>
 
 
 **[Guiseppe Arena](https://cran.r-project.org/package=easybgm)**</br> 
