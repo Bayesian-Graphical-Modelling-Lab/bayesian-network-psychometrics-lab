@@ -8,7 +8,7 @@ share: false
 <!-- Johnny van Doorn: Assistant Professor -->
 <p style="margin:0; padding:0;">
   <span style="font-size:18px; color:magenta; font-weight:bold;">
-    <a href="https://cran.r-project.org/package=easybgm">Johnny van Doorn</a>
+    <a href="https://cran.r-project.org/package=easybgm" style="color:darkorchid !important;">Johnny van Doorn</a>
   </span><br/>
   <span style="font-size:15px; color:black;">Assistant Professor</span>
 </p>
