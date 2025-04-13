@@ -61,7 +61,7 @@ share: false
   <span style="font-size:15px; color:black;">PhD Candidate</span>
 </p>
 
-<h2>Affiliated Researchers and Assistants</h2>
+<h2 style="margin-top:40px;">Affiliated Researchers and Assistants</h2>
 
 <!-- Karoline Huth: PhD Candidate -->
 <p style="margin:0; padding:0;">
@@ -95,7 +95,7 @@ share: false
   <span style="font-size:15px; color:black;">Research Assistant</span>
 </p>
 
-<h2>Past Members</h2>
+<h2 style="margin-top:40px;">Past Members</h2>
 
 <!-- Thomas Bastelica: PhD Candidate -->
 <p style="margin:0; padding:0;">
