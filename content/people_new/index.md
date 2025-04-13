@@ -27,7 +27,7 @@ share: false
 
 <p class="team-member">
   <span class="team-name">
-    <a href="/people_new/johnny-van-doorn">Johnny van Doorn</a>
+    <a href="{{< relURL "people_new/johnny-van-doorn" >}}">Johnny van Doorn</a>
   </span><br/>
   <span class="team-role">Assistant Professor</span>
 </p>

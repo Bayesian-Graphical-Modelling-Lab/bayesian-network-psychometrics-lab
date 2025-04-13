@@ -1,7 +1,5 @@
 ---
 title: Johnny van Doorn
-date: 2025-04-13
-type: researcher
 slug: johnny-van-doorn
 ---
 
@@ -13,7 +11,7 @@ slug: johnny-van-doorn
 - Add research interests or bio content here.
 - You can also add any publications, courses, or links relevant to Johnny.
 
-[Link to publications, if available](https://example.com)
+[Link to publications, if available](https://www.uva.nl/profiel/d/o/j.b.vandoorn/j.b.vandoorn.html)
 
 ---
 
