@@ -27,11 +27,10 @@ share: false
 
 <p class="team-member">
   <span class="team-name">
-    <a href="/people/johnny-van-doorn">Johnny van Doorn</a>
+    <a href="https://cran.r-project.org/package=easybgm">Johnny van Doorn</a>
   </span><br/>
   <span class="team-role">Assistant Professor</span>
 </p>
-
 
 <p class="team-member">
   <span class="team-name">
