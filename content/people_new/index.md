@@ -1,5 +1,5 @@
 ---
-title: Meet the Team
+title: Our Team
 share: false
 ---
 
