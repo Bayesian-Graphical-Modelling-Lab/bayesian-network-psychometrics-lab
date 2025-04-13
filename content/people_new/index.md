@@ -9,8 +9,8 @@
 </br>
 
 <p style="margin:0; padding:0;">
-  <span style="font-size:14px;"><a href="https://cran.r-project.org/package=easybgm">Don van den Bergh</a></span><br/>
-  <span style="font-size:13px; color:red;">Postdoctoral Researcher</span>
+  <span style="font-size:18px; color:darkcyan; "><a href="https://cran.r-project.org/package=easybgm">Don van den Bergh</a></span><br/>
+  <span style="font-size:15px; color:black;">Postdoctoral Researcher</span>
 </p>
 
 
