@@ -25,9 +25,17 @@ share: false
 
 <h2>Researchers</h2>
 
+<!--<p class="team-member">
+  <span class="team-name">
+    <a href="{{< relURL "people_new/johnny-van-doorn" >}}">Johnny van Doorn</a>
+  </span><br/>
+  <span class="team-role">Assistant Professor</span>
+</p>
+-->
+
 <p class="team-member">
   <span class="team-name">
-    <a href="{{< relURL "people_new/johnny-van-doorn/" >}}">Johnny van Doorn</a>
+    <a href="https://cran.r-project.org/package=easybgm">Johnny van Doorn</a>
   </span><br/>
   <span class="team-role">Assistant Professor</span>
 </p>
@@ -53,12 +61,6 @@ share: false
   <span class="team-role">Postdoctoral Researcher</span>
 </p>
 
-<p class="team-member">
-  <span class="team-name">
-    <a href="https://cran.r-project.org/package=easybgm">Jonas Haslbeck</a>
-  </span><br/>
-  <span class="team-role">Postdoctoral Researcher</span>
-</p>
 
 <p class="team-member">
   <span class="team-name">
@@ -78,21 +80,49 @@ share: false
 
 <p class="team-member">
   <span class="team-name">
-    <a href="https://cran.r-project.org/package=easybgm">Karoline Huth</a>
+    <a href="https://cran.r-project.org/package=easybgm">Denny Borsboom</a>
   </span><br/>
-  <span class="team-role">PhD Candidate</span>
+  <span class="team-role">Professor</span>
+</p>
+
+<p class="team-member">
+  <span class="team-name">
+    <a href="https://cran.r-project.org/package=easybgm">Eric-Jan Wagenmakers</a>
+  </span><br/>
+  <span class="team-role">Professor</span>
 </p>
 
 <p class="team-member">
   <span class="team-name">
     <a href="https://cran.r-project.org/package=easybgm">Lourens Waldorp</a>
   </span><br/>
+  <span class="team-role">Associate Professor</span>
+</p>
+
+<p class="team-member">
+  <span class="team-name">
+    <a href="https://cran.r-project.org/package=easybgm">Tessa Blanken</a>
+  </span><br/>
   <span class="team-role">Assistant Professor</span>
 </p>
 
 <p class="team-member">
   <span class="team-name">
-    <a href="https://cran.r-project.org/package=easybgm">Sara Ketelaar</a>
+    <a href="https://cran.r-project.org/package=easybgm">Jonas Haslbeck</a>
+  </span><br/>
+  <span class="team-role">Postdoctoral Researcher</span>
+</p>
+
+<p class="team-member">
+  <span class="team-name">
+    <a href="https://cran.r-project.org/package=easybgm">Karoline Huth</a>
+  </span><br/>
+  <span class="team-role">Postdoctoral Researcher</span>
+</p>
+
+<p class="team-member">
+  <span class="team-name">
+    <a href="https://cran.r-project.org/package=easybgm">Vipasha Goyal</a>
   </span><br/>
   <span class="team-role">PhD Candidate</span>
 </p>
@@ -108,7 +138,7 @@ share: false
 
 <p class="team-member">
   <span class="team-name">
-    <a href="https://cran.r-project.org/package=easybgm">Thomas Bastelica</a>
+    <a href="https://cran.r-project.org/package=easybgm">Sara Keetelaar</a>
   </span><br/>
   <span class="team-role">PhD Candidate</span>
 </p>
@@ -122,4 +152,14 @@ share: false
 
 <p class="team-member">
   <span class="team-name">
-    <a href="https://cran.r
+    <a href="https://cran.r-project.org/package=easybgm">Dave Leitritz</a>
+  </span><br/>
+  <span class="team-role">Research Assistant</span>
+</p>
+
+<p class="team-member">
+  <span class="team-name">
+    <a href="https://cran.r-project.org/package=easybgm">Konrad Mikalauskas</a>
+  </span><br/>
+  <span class="team-role">Research Assistant</span>
+</p>
