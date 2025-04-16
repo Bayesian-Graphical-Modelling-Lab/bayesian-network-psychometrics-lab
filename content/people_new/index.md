@@ -25,14 +25,6 @@ share: false
 
 <h2>Researchers</h2>
 
-<!--<p class="team-member">
-  <span class="team-name">
-    <a href="{{< relURL "people_new/johnny-van-doorn" >}}">Johnny van Doorn</a>
-  </span><br/>
-  <span class="team-role">Assistant Professor</span>
-</p>
--->
-
 <p class="team-member">
   <span class="team-name">
     <a href="https://cran.r-project.org/package=easybgm">Johnny van Doorn</a>
