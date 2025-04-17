@@ -15,20 +15,22 @@ main:
     weight: 30
   - name: News
     url: news
-    weight: 50
+    weight: 40
   - name: Funding
     url: funding
-    weight: 60
+    weight: 50
   - name: Projects
     url: projects
-    weight: 70
+    weight: 60
   - name: Workshops
     url: workshops
-    weight: 80
+    weight: 70
   - name: People
     url: people_new
     weight: 80
-    
+  - name: People3
+    url: people_3
+    weight: 90
   # - name: blog
   #   url: blog
   #   weight: 80
