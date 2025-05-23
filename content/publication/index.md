@@ -23,13 +23,13 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 <p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
          
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., DeLong, B., Waldorp, L. J., Marsman, M., & Rhemtulla, M. (in press). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2450648">Nodewise Parameter Aggregation for Psychometric Networks</a>. <em>Multivariate Behavioral Research</em>em>. </p>
-
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
 
 <p style="font-size:medium;text-align:justify">van den Bergh, D., Douw, L., van der Pal, Z., Blanken, T. F., Schrantee, A., & Marsman, M. (in press). Jointly Estimating Individual and Group Networks from fMRI Data. <em>Network Neuroscience</em>. <a href = "https://doi.org/10.31234/osf.io/acjdq">PsyArXiv</a>.</p>
 
 **2025**
+
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., DeLong, B., Waldorp, L. J., Marsman, M., & Rhemtulla, M. (2025). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2450648">Nodewise Parameter Aggregation for Psychometric Networks</a>. <em>Multivariate Behavioral Research</em>, <em>60</em>, 509-517.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2025). <a href = https://www.cambridge.org/core/journals/psychometrika/article/bayesian-analysis-of-the-ordinal-markov-random-field/125653DED6B5406A476A4C75793F710D> Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>Psychometrika</em>, <em>90</em>, 146-182.</p>
 
