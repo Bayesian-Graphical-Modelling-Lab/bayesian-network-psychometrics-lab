@@ -31,6 +31,8 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., DeLong, B., Waldorp, L. J., Marsman, M., & Rhemtulla, M. (2025). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2450648">Nodewise Parameter Aggregation for Psychometric Networks</a>. <em>Multivariate Behavioral Research</em>, <em>60</em>, 509-517.</p>
 
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., van der Wal, J., Zavlis, O., Luigjes, J., Lakerveld, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2025). <a href = "https://doi.org/10.1016/j.socscimed.2025.118195">Individual and Neighborhood Determinants of Depressive Symptoms in Ethnic Minorities in the Urban HELIUS Sample: A Multi-level Network Perspective</a>. <em>Social Science & Medicine</em>, <em>381</em>(118195).</p>
+
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2025). <a href = https://www.cambridge.org/core/journals/psychometrika/article/bayesian-analysis-of-the-ordinal-markov-random-field/125653DED6B5406A476A4C75793F710D> Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>Psychometrika</em>, <em>90</em>, 146-182.</p>
 
 <p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2025). <a href= "https://www.sciencedirect.com/science/article/pii/S2213158225000555?via%3Dihub">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>NeuroImage: Clinical</em>, <em>46</em>(103785).</p>
