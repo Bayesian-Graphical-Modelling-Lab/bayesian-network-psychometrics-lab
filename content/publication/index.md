@@ -6,9 +6,6 @@ share: false
 You can find our Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)
 
 **Submitted for publication**
-
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (2025). <a href = "https://doi.org/10.31234/osf.io/62ydg">Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies</a>. <em>PsyArXiv</em></p>
-
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS Study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href = "https://doi.org/10.31219/osf.io/f4pk9">A Bayesian Independent Samples t Test for Parameter Differences in Networks of Binary and Ordinal Variables.</a>. <em>PsyArXiv</em></p>
@@ -21,13 +18,15 @@ You can find our Google Scholar page [here](https://scholar.google.com/citations
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (in press). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em></p>
-         
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg"></a>a>PsyArXiv</em></p>
+
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
 
 <p style="font-size:medium;text-align:justify">van den Bergh, D., Douw, L., van der Pal, Z., Blanken, T. F., Schrantee, A., & Marsman, M. (in press). Jointly Estimating Individual and Group Networks from fMRI Data. <em>Network Neuroscience</em>. <a href = "https://doi.org/10.31234/osf.io/acjdq">PsyArXiv</a>.</p>
 
 **2025**
+
+<p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (2025). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em>, <em>54</em>, 1134-1145</p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., DeLong, B., Waldorp, L. J., Marsman, M., & Rhemtulla, M. (2025). <a href = "https://www.tandfonline.com/doi/full/10.1080/00273171.2025.2450648">Nodewise Parameter Aggregation for Psychometric Networks</a>. <em>Multivariate Behavioral Research</em>, <em>60</em>, 509-517.</p>
 
