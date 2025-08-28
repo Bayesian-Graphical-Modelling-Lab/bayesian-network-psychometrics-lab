@@ -19,7 +19,7 @@ share: false
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg"></a>a>PsyArXiv</em></p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg">PsyArXiv</a></em></p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
 
