@@ -3,7 +3,7 @@ title: Publications
 share: false
 ---
 
-<p style="font-size:medium;text-align:justify">You can find our Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ)</p>
+<p style="font-size:medium;text-align:justify">You can find our Google Scholar page <a href = "https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ">here</a>.</p>
 
 **Submitted for publication**
 
