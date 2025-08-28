@@ -23,8 +23,6 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
 
-<p style="font-size:medium;text-align:justify">van den Bergh, D., Douw, L., van der Pal, Z., Blanken, T. F., Schrantee, A., & Marsman, M. (in press). Jointly Estimating Individual and Group Networks from fMRI Data. <em>Network Neuroscience</em>. <a href = "https://doi.org/10.31234/osf.io/acjdq">PsyArXiv</a>.</p>
-
 **2025**
 
 <p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (2025). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em>, <em>54</em>, 1134-1145</p>
@@ -34,6 +32,8 @@ share: false
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., van der Wal, J., Zavlis, O., Luigjes, J., Lakerveld, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2025). <a href = "https://doi.org/10.1016/j.socscimed.2025.118195">Individual and Neighborhood Determinants of Depressive Symptoms in Ethnic Minorities in the Urban HELIUS Sample: A Multi-level Network Perspective</a>. <em>Social Science & Medicine</em>, <em>381</em>(118195).</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2025). <a href = https://www.cambridge.org/core/journals/psychometrika/article/bayesian-analysis-of-the-ordinal-markov-random-field/125653DED6B5406A476A4C75793F710D> Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>Psychometrika</em>, <em>90</em>, 146-182.</p>
+
+<p style="font-size:medium;text-align:justify">van den Bergh, D., Douw, L., van der Pal, Z., Blanken, T. F., Schrantee, A., & Marsman, M. (2025). <a href = "https://doi.org/10.1162/netn_a_00457">Jointly Estimating Individual and Group Networks from fMRI Data.</a> <em>Network Neuroscience</em>, <em>9</em>, 896-912. </p>
 
 <p style="font-size:medium;text-align:justify">van der Pal, Z., Douw, L., Genis, A., van den Bergh, D., Marsman, M., Schrantee, A., & Blanken, T. (2025). <a href= "https://www.sciencedirect.com/science/article/pii/S2213158225000555?via%3Dihub">Tell Me Why? A Scoping Review on the Fundamental Building Blocks of Functional MRI Networks</a>. <em>NeuroImage: Clinical</em>, <em>46</em>(103785).</p>
 
