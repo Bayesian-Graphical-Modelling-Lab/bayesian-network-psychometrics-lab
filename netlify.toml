@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = 'hugo --gc --logLevel debug -b "${URL:-${DEPLOY_PRIME_URL}}"'
+  command = 'hugo --gc --logLevel debug --templateMetrics --templateMetricsHints -b "${URL:-${DEPLOY_PRIME_URL}}" --logFile hugo_log.txt || (echo "----- HUGO LOG (start) -----"; sed -n "1,200p" hugo_log.txt; echo "----- HUGO LOG (end) -----"; exit 1)'
 
 [build.environment]
   HUGO_VERSION = "0.128.2"
