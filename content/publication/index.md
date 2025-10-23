@@ -15,13 +15,13 @@ share: false
 
 **Accepted for publication**
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg">PsyArXiv</a></em></p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). <a href = "https://www.nature.com/articles/s41562-025-02314-2">Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies</a>. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg">PsyArXiv</a></em></p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2024). The Impact of Dichotomization on Network Recovery. <em>Behavior Research Methods</em>. <em><a href = "https://doi.org/10.31234/osf.io/93nxp"> PsyArXiv</a></em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (in press). The Impact of Dichotomization on Network Recovery. <em>Behavior Research Methods</em>. <em><a href = "https://doi.org/10.31234/osf.io/93nxp"> PsyArXiv</a></em>.</p>
 
 **2025**
 
