@@ -9,8 +9,6 @@ share: false
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS Study</a>. <em>PsyArXiv</em></p>
 
-<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (2024). <a href = "https://doi.org/10.31219/osf.io/f4pk9">Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models.</a> <em>PsyArXiv</em></p>
-
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2024). <a href = "https://doi.org/10.31234/osf.io/93nxp"> The Impact of Dichotomization on Network Recovery</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (2024). <a href = "https://osf.io/preprints/psyarxiv/29p3m_v1"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>PsyArXiv</em>.</p>
@@ -22,6 +20,8 @@ share: false
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg">PsyArXiv</a></em></p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
+
+<p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
 **2025**
 
