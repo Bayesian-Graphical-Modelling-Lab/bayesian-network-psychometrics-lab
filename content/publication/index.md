@@ -30,7 +30,7 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (in press). The Impact of Dichotomization on Network Recovery. <em>Behavior Research Methods</em>. <em><a href = "https://doi.org/10.31234/osf.io/93nxp"> Behavior Research Methods</a></em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (in press). The Impact of Dichotomization on Network Recovery. <em>Behavior Research Methods</em>. <em><a href = "https://doi.org/10.31234/osf.io/93nxp"> PsyArXiv</a></em>.</p>
 
 **2025**
 
