@@ -7,6 +7,8 @@ share: false
 
 **Submitted for publication**
 
+<p style="font-size:medium;text-align:justify">Hoekstra, R. H. A., Huth, K., Sekulovski, N., Delhalle, M., & Sarafoglou, A. (2025). <a href = "https://osf.io/preprints/psyarxiv/gruw5_v1">Safeguarding Against Bias Without Preregistration: A Tutorial on Analysis Blinding for Network Analysis.</a>. <em>PsyArXiv</em></p>
+
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS Study</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Pfadt, J. M., Bartoš, F., Godmann, H. R., Waaijers, M., Groot, L., Heo, I. , 
@@ -15,6 +17,8 @@ Krijgsman, B., Kulbe, L., Lüken, M., Marsman, M.,  Ott, V. L., Pawel, S., Piest
 Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (2024). <a href = "https://osf.io/preprints/psyarxiv/29p3m_v1"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>PsyArXiv</em>.</p>
+
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Waaijers, M., & Arena, G.(2025). <a href = "https://doi.org/10.31234/osf.io/k2twq_v1"> LLM-Based Prior Elicitation for Bayesian Graphical Modeling</a>. <em>PsyArXiv</em>.</p>
   
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.</p>
 
@@ -26,7 +30,7 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (in press). The Impact of Dichotomization on Network Recovery. <em>Behavior Research Methods</em>. <em><a href = "https://doi.org/10.31234/osf.io/93nxp"> PsyArXiv</a></em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (in press). The Impact of Dichotomization on Network Recovery. <em>Behavior Research Methods</em>. <em><a href = "https://doi.org/10.31234/osf.io/93nxp"> Behavior Research Methods</a></em>.</p>
 
 **2025**
 
