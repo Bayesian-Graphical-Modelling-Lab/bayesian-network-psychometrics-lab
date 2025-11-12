@@ -7,7 +7,7 @@ share: false
 
 **Submitted for publication**
 
-<p style="font-size:medium;text-align:justify">Hoekstra, R. H. A., Huth, K., Sekulovski, N., Delhalle, M., & Sarafoglou, A. (2025). <a href = "https://osf.io/preprints/psyarxiv/gruw5_v1">Safeguarding Against Bias Without Preregistration: A Tutorial on Analysis Blinding for Network Analysis.</a>. <em>PsyArXiv</em></p>
+<p style="font-size:medium;text-align:justify">Hoekstra, R. H. A., Huth, K., Sekulovski, N., Delhalle, M., & Sarafoglou, A. (2025). <a href = "https://osf.io/preprints/psyarxiv/gruw5_v1">Safeguarding Against Bias Without Preregistration: A Tutorial on Analysis Blinding for Network Analysis</a>. <em>PsyArXiv</em></p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Bockting, C., Goudriaan, A. E., Marsman, M., & van Holst, R. J. (2024). <a href = "https://psyarxiv.com/e9bgq/">A Network Perspective on Ethnic, Religious, and Socioeconomic Factors in Alcohol Use—the HELIUS Study</a>. <em>PsyArXiv</em></p>
 
