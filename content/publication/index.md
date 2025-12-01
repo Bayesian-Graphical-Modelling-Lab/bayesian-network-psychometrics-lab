@@ -18,7 +18,7 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (2025). <a href = "https://osf.io/preprints/psyarxiv/29p3m_v1"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>PsyArXiv</em>.</p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Bartos, F., van den Bergh, D., Arena, G., Godmann, H. R., Goyal, V., Pfadt, J. M., Marsman, M., & Raftery, A. E. (2025). <a href = "[https://osf.io/preprints/psyarxiv/29p3m_v1](https://arxiv.org/abs/2511.23216)">Comparing Variable Selection and Model Averaging Methods for Logistic Regression</a>. <em>ArXiv</em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Bartoš, F., van den Bergh, D., Arena, G., Godmann, H. R., Goyal, V., Pfadt, J. M., Marsman, M., & Raftery, A. E. (2025). <a href="https://doi.org/10.48550/arXiv.2511.23216">Comparing variable selection and model averaging methods for logistic regression</a>. <em>arXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Waaijers, M., & Arena, G. (2025). <a href = "https://doi.org/10.31234/osf.io/k2twq_v1"> LLM-Based Prior Elicitation for Bayesian Graphical Modeling</a>. <em>PsyArXiv</em>.</p>
   
