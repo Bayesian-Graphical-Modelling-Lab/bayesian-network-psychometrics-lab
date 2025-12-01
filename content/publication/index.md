@@ -32,8 +32,6 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (in press). The Impact of Dichotomization on Network Recovery. <em><a href = "https://link.springer.com/article/10.3758/s13428-025-02861-6"> Behavior Research Methods</a></em>.</p>
-
 **2025**
 
 <p style="font-size:medium;text-align:justify">Bosma, M. J., Vermeulen, J. M., Huth, K. B. S., de Haan, L., Alizadeh, B. Z., Simons, C. J. P., Marsman, M., & Schirmbeck, F. (2025). <a href = https://doi.org/10.1093/schbul/sbae174>Exploring the Interactions between Psychotic Symptoms, Cognition, and Environmental Risk Factors: A Bayesian Analysis of Networks</a>. <em>Schizophrenia Bulletin</em>, <em>54</em>, 1134-1145</p>
@@ -43,6 +41,8 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., van der Wal, J., Zavlis, O., Luigjes, J., Lakerveld, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L., Marsman, M., Goudriaan, A. E., & van Holst, R. J. (2025). <a href = "https://doi.org/10.1016/j.socscimed.2025.118195">Individual and Neighborhood Determinants of Depressive Symptoms in Ethnic Minorities in the Urban HELIUS Sample: A Multi-level Network Perspective</a>. <em>Social Science & Medicine</em>, <em>381</em>(118195).</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., van den Bergh, D., & Haslbeck, J. M. B. (2025). <a href = https://www.cambridge.org/core/journals/psychometrika/article/bayesian-analysis-of-the-ordinal-markov-random-field/125653DED6B5406A476A4C75793F710D> Bayesian Analysis of the Ordinal Markov Random Field</a>. <em>Psychometrika</em>, <em>90</em>, 146-182.</p>
+
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Blanken, T., Haslbeck, J. M. B., & Marsman, M. (2025). <a href = "https://doi.org/10.3758/s13428-025-02861-6">The Impact of Dichotomization on Network Recovery</a>. <em>Behavior Research Methods</em>, <em>57</em>(342).</p>
 
 <p style="font-size:medium;text-align:justify">van den Bergh, D., Douw, L., van der Pal, Z., Blanken, T. F., Schrantee, A., & Marsman, M. (2025). <a href = "https://doi.org/10.1162/netn_a_00457">Jointly Estimating Individual and Group Networks from fMRI Data.</a> <em>Network Neuroscience</em>, <em>9</em>, 896-912. </p>
 
