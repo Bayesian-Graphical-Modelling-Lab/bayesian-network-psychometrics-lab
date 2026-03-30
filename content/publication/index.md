@@ -30,7 +30,7 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Waaijers, M., & Arena, G.(in press). <a href = "https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bmsp.70045"> LLM-Based Prior Elicitation for Bayesian Graphical Modeling</a>. <em>British Journal of Mathematical and Statistical Psychology</em>.<em><a href = "https://osf.io/preprints/psyarxiv/k2twq_v2">PsyArXiv</a></em></p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Waaijers, M., & Arena, G.(in press). <a href = "https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bmsp.70045"> LLM-Based Prior Elicitation for Bayesian Graphical Modeling</a>. <em>British Journal of Mathematical and Statistical Psychology</em>. <em><a href = "https://osf.io/preprints/psyarxiv/k2twq_v2">PsyArXiv</a></em></p>
 
 **2025**
 
