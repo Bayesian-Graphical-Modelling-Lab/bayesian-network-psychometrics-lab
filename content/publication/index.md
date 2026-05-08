@@ -32,7 +32,7 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 **2026**
 
-<p style="font-size:medium;text-align:justify"><b>Sekulovski, N.</b>, Bartoš, F., van den Bergh, D., Arena, G., Godmann, H. R., Goyal, V., Pfadt, J. M., Marsman, M., & Raftery, A. E. (2026). <a href="https://www.pnas.org/doi/10.1073/pnas.2534552123">Comparing variable selection and model averaging methods for logistic regression</a>. <em>Proc. Natl. Acad. Sci. U.S.A. 123 (19) e2534552123,</em>.</p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Bartoš, F., van den Bergh, D., Arena, G., Godmann, H. R., Goyal, V., Pfadt, J. M., Marsman, M., & Raftery, A. E. (2026). <a href="https://www.pnas.org/doi/10.1073/pnas.2534552123">Comparing variable selection and model averaging methods for logistic regression</a>. <em>Proc. Natl. Acad. Sci. U.S.A. 123 (19) e2534552123,</em>.</p>
 
 
 **2025**
