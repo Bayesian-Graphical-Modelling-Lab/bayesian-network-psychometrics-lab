@@ -15,8 +15,6 @@ share: false
 Mensink, L., Nak, J., De Ruiter, J. P., Sarafoglou, A., Siepe, B. S., Arena, G. M., Akrong, E., Aust, F., van den Bergh, D., Brenner, W., Doekemeijer, R. A., Donzallaz, M. C., van Doorn, J., Echevarria, N. O., Finnemann, A., Geller, G., Hato, T., Koskinen, E., 
 Krijgsman, B., Kulbe, L., Lüken, M., Marsman, M.,  Ott, V. L., Pawel, S., Piestrak, O., de Ron, J., Sekulovski, N., Serry, M., Stefanów, A., Stevenson, N., Sadowski, B., Sopuch,  M., Vasileiou, A., Visser,  I., Völler, M., Wiechert, S., de Wit, K., Wuth,  J., Wagenmakers, E.-J. (2025). <a href = "https://osf.io/preprints/psyarxiv/ck3js_v1">A Methodological Metamorphosis: The Rapid Rise of Bayesian Inference and Open 
 Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
-
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (2025). <a href = "https://osf.io/preprints/psyarxiv/29p3m_v1"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>PsyArXiv</em>.</p>
   
 <p style="font-size:medium;text-align:justify">Waldorp, L. J., & Marsman, M. (2024). Evolving Networks, Markov Chains and Dynamical Systems.</p>
 
@@ -29,6 +27,8 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Waaijers, M., & Arena, G.(in press). <a href = "https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bmsp.70045"> LLM-Based Prior Elicitation for Bayesian Graphical Modeling</a>. <em>British Journal of Mathematical and Statistical Psychology</em>. <em><a href = "https://osf.io/preprints/psyarxiv/k2twq_v2">PsyArXiv</a></em></p>
+
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (2025). <a href = "https://osf.io/preprints/psyarxiv/29p3m_v4"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>Psychological Methods</em>.</p>
 
 **2026**
 
