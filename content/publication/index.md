@@ -22,13 +22,13 @@ Science Practices in Psychology</a>. <em>PsyArXiv</em>.</p>
 
 <p style="font-size:medium;text-align:justify">Huth, K. B. S., Haslbeck, J. M. B., Keetelaar, S., van Holst, R. J., & Marsman, M. (in press). <a href = "https://www.nature.com/articles/s41562-025-02314-2">Statistical Evidence in Psychological Networks: A Bayesian Analysis of 294 Networks from 126 Studies</a>. <em>Nature Human Behavior</em>. <em><a href = "https://doi.org/10.31234/osf.io/62ydg">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. [<a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a>]</p>
+<p style="font-size:medium;text-align:justify">Huth, K. B. S., Zavlis, O., Luigjes, J., Galenkamp, H., Lok, A., Stronks, K., Bockting, C. L. H., Goudriaan, A., Marsman, M., & van Holst, R. J. (in press). The Interplay of Alcohol Use Symptoms and Sociodemographic Factors in the Netherlands: A Network Perspective. <em>Social Psychiatry and Psychiatric Epidemiology</em>. <a href = "https://osf.io/preprints/psyarxiv/e9bgq_v2">PsyArxiv</a></p>
 
 <p style="font-size:medium;text-align:justify">Marsman, M., Waldorp, L. J., Sekulovski, N., & Haslbeck, J. M. B. (in press). Bayes Factor Tests for Group Differences in Ordinal and Binary Graphical Models. <em>Psychometrika</em>. <em><a href = "https://doi.org/10.31219/osf.io/f4pk9">PsyArXiv</a></em></p>
 
 <p style="font-size:medium;text-align:justify">Sekulovski, N., Waaijers, M., & Arena, G.(in press). <a href = "https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bmsp.70045"> LLM-Based Prior Elicitation for Bayesian Graphical Modeling</a>. <em>British Journal of Mathematical and Statistical Psychology</em>. <em><a href = "https://osf.io/preprints/psyarxiv/k2twq_v2">PsyArXiv</a></em></p>
 
-<p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (in press). <a href = "https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmet0000847"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>Psychological Methods</em>.</p> <em><a href = "https://osf.io/preprints/psyarxiv/29p3m_v4">PsyArXiv</a></em></p>
+<p style="font-size:medium;text-align:justify">Sekulovski, N., Arena, G., Haslbeck, J. M. B., Huth, K. B. S., Friel, N., & Marsman, M. (in press). <a href = "https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmet0000847"> A Stochastic Block Prior for Clustering in Graphical Models</a>. <em>Psychological Methods</em>. <em><a href = "https://osf.io/preprints/psyarxiv/29p3m_v4">PsyArXiv</a></em></p>
 
 **2026**
 
