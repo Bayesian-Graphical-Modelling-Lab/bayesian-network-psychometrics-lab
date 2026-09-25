@@ -6,12 +6,12 @@ title: Jonas Haslbeck
 superuser: false 
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: New Science of Mental Disorders (NSMD) Consortium, Maastricht University
-    url: 'https://nsmd.eu/'
+  - name: Department of Methodology, Statistics & Data Science, Utrecht University
+    url: 'https://www.uu.nl/en/organisation/methodology-statistics-and-data-science/'
 
 weight: 40 # change order on website
 
@@ -52,5 +52,8 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-I develop methods for the social and behavioral sciences, focusing on both on statistical and computational modeling. I work on various extensions of cross-sectional network models that are implemented in the R-packages mgm and bgms. I also work on advancing measurement, design, and statistical modeling of psychological time series as collected in Ecological Momentary Assessment (EMA) studies. Furthermore, I contributed towards developing several computational models (e.g., panic disorder and emotion dynamics) and I am working on how to connect statistical modeling to the development of such computational models. I also always works on inter-disciplinary projects, for example on natural language processing and communication science.
-[Here](https://jonashaslbeck.com/) is a link to my personal website.
+I develop methodology for the social and behavioral sciences, with a focus on research infrastructure and statistical methodology. Much of my methodological and applied work is  based on a complex systems approach to science. In the context of the Bayesian Graphical Modeling lab I develop models for Intensive Longitudinal Data, extensions of network models and network mixture models. For more a complete overview of my research have a look at [my website](https://jonashaslbeck.com/).
+
+
+
+
