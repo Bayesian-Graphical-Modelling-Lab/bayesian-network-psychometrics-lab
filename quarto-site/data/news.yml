@@ -1,0 +1,113 @@
+# BGM Lab news feed. Newest item at the TOP: the homepage shows the first five,
+# and news.qmd shows everything, grouped by the year at the end of `when`.
+#
+# What goes in here:
+#   - accepted papers and preprints we want to highlight
+#   - software releases: new packages and minor/major versions (not patch releases)
+#   - awards, grants, and prizes
+#   - people joining or leaving the lab, PhD defences
+#   - workshops, symposia, and tutorials the lab organises
+#   - vacancies
+# Keep each item to one or two sentences with a link. Whoever is involved adds the
+# item within a week; [name] checks the feed once a month.
+#
+# Fields:
+#   when:  shown as the date, free text ("Aug 2026", "4 Aug 2026"); end with the year
+#   title: short headline
+#   text:  one or two sentences, Markdown allowed
+
+- when: "Sep 2026"
+  title: "easybgm 0.5 on CRAN"
+  text: "A new release of [easybgm](https://cran.r-project.org/package=easybgm) is on CRAN."
+
+- when: "Aug 2026"
+  title: "bgms 0.2.0.0 on CRAN"
+  text: "The biggest [bgms](https://bayesian-graphical-modelling-lab.github.io/bgms/) release so far: Gaussian and mixed binary, ordinal, and continuous networks, a parallel NUTS sampler, and `prior_sensitivity_check()`. See the [release notes](https://bayesian-graphical-modelling-lab.github.io/bgms/news.html)."
+
+- when: "May 2026"
+  title: "bvarnet on CRAN"
+  text: "Florian's R package [bvarnet](https://flo1met.github.io/bvarnet/) for Bayesian multilevel VAR models with Gaussian, binary, and ordinal outcomes is now on CRAN."
+
+- when: "Dec 2025"
+  title: "easybgm 0.3 on CRAN"
+  text: "A new release of [easybgm](https://cran.r-project.org/package=easybgm) is on CRAN."
+
+- when: "Sep 2025"
+  title: "bgms 0.1.6 on CRAN"
+  text: "A new release of [bgms](https://cran.r-project.org/package=bgms) is on CRAN."
+
+- when: "Dec 2024"
+  title: "bgms 0.1.4.2 on CRAN"
+  text: "An update to [bgms](https://cran.r-project.org/package=bgms), version 0.1.4.2, is on CRAN."
+
+- when: "2024"
+  title: "PhD position"
+  text: "The BGM Lab offers a PhD position on Bayesian methods for network analysis of longitudinal psychological data (with Johnny van Doorn, Eric-Jan Wagenmakers, and Maarten Marsman). [Vacancy](https://werkenbij.uva.nl/en/vacancies/phd-bayesian-methods-for-network-analysis-of-longitudinal-psychometric-data-netherlands-13591)."
+
+- when: "Nov 2024"
+  title: "bgms 0.1.4.1 on CRAN"
+  text: "An update to [bgms](https://cran.r-project.org/package=bgms), version 0.1.4.1, is on CRAN."
+
+- when: "Oct 2024"
+  title: "NWO Vidi grant for Maarten"
+  text: "Maarten received a Vidi grant from NWO for *Robust Inference for Dynamical Network Models*. See the [NWO news](https://www.nwo.nl/en/news/102-leading-researchers-receive-vidi-grant) and the [UvA news](https://www.uva.nl/en/content/news/news/2024/10/vidi-grants-for-17-uva-and-amsterdam-umc-researchers.html)."
+
+- when: "Oct 2024"
+  title: "easybgm 0.2.1 on CRAN"
+  text: "An update to [easybgm](https://cran.r-project.org/package=easybgm), version 0.2.1, is on CRAN."
+
+- when: "Oct 2024"
+  title: "bgms 0.1.4 on CRAN"
+  text: "An update to [bgms](https://cran.r-project.org/package=bgms), version 0.1.4, is on CRAN."
+
+- when: "2024"
+  title: "Tutorial at Bayesian Methods for the Social Sciences II"
+  text: "The lab organised a tutorial session at the workshop [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org/)."
+
+- when: "2024"
+  title: "Welcome Giuseppe"
+  text: "Giuseppe Arena joined the lab as a postdoc."
+
+- when: "2024"
+  title: "Early Career Award for Maarten"
+  text: "Maarten received the 2024 [Early Career Award](https://www.psychometricsociety.org/early-career-award) from the Psychometric Society."
+
+- when: "2023"
+  title: "Best poster award for Sara"
+  text: "Sara won the Best Poster Award at the 2023 IOPS Winter Conference for \"Are psychological networks sparse or dense? A Bayesian test for sparsity\"."
+
+- when: "2023"
+  title: "Tanaka award"
+  text: "\"[Relations Between Networks, Regression, Partial Correlation, and Latent Variable Models](https://www.tandfonline.com/doi/full/10.1080/00273171.2021.1938959)\" by Lourens and Maarten won the [Tanaka award](https://www.smep.org/awards/tanaka) for the best article in *Multivariate Behavioral Research* in 2022."
+
+- when: "2023"
+  title: "Psychosystems Winter School 2024"
+  text: "The lab teaches a workshop on Bayesian network analysis at the [Psychosystems Network Analysis Winter School](http://psychosystems.org/networks-winter-school-2024/)."
+
+- when: "Oct 2023"
+  title: "bgms 0.1.2 on CRAN"
+  text: "An update to [bgms](https://cran.r-project.org/package=bgms), version 0.1.2, is on CRAN."
+
+- when: "Oct 2023"
+  title: "easybgm on CRAN"
+  text: "The R package [easybgm](https://cran.r-project.org/package=easybgm), version 0.1.0, is on CRAN."
+
+- when: "Sep 2023"
+  title: "bgms 0.1.1 on CRAN"
+  text: "An update to [bgms](https://cran.r-project.org/package=bgms), version 0.1.1, is on CRAN."
+
+- when: "2023"
+  title: "Symposium at MathPsych"
+  text: "The lab organised a symposium on Bayesian analysis of networks at the [MathPsych conference](https://mathpsych.org/conference/12/) in Amsterdam."
+
+- when: "Apr 2023"
+  title: "bgms on CRAN"
+  text: "The R package [bgms](https://cran.r-project.org/package=bgms), version 0.1.0, is on CRAN."
+
+- when: "2023"
+  title: "Psychosystems Summer School"
+  text: "The lab taught a workshop on Bayesian network analysis at the [Psychosystems Network Analysis Summer School](http://psychosystems.org/events/)."
+
+- when: "2023"
+  title: "Psychosystems Winter School 2023"
+  text: "The lab taught a workshop on Bayesian network analysis at the [Psychosystems Network Analysis Winter School](http://psychosystems.org/networks-winter-school-2023/)."

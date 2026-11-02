@@ -1,0 +1,12 @@
+---
+title: "News"
+listing:
+  id: all-news
+  contents: data/news.yml
+  template: templates/news-archive.ejs
+  sort: false
+  page-size: 500
+---
+
+::: {#all-news}
+:::

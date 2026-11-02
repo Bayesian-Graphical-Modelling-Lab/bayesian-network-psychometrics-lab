@@ -1,0 +1,8 @@
+<div class="funding-list">
+<% for (const item of items) { %>
+<div class="grant" <%= metadataAttrs(item) %>>
+  <div class="grant-title"><%- item.title %></div>
+  <div class="grant-meta"><%- item.funder %> · <%- item.period %> · <%- item.investigators %></div>
+</div>
+<% } %>
+</div>

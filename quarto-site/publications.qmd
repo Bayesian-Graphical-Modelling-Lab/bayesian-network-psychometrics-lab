@@ -1,0 +1,19 @@
+---
+title: "Publications"
+toc: true
+toc-title: "Jump to"
+toc-depth: 2
+---
+
+Papers by members of the lab, newest first. Our [Google Scholar page](https://scholar.google.com/citations?hl=en&user=dQZr3gcAAAAJ) is usually more up to date.
+
+```{=html}
+<div class="pub-filter">
+  <input type="search" id="pub-search" class="form-control" placeholder="Filter by author, title, journal, or year" aria-label="Filter publications">
+  <div class="pub-filter-count mt-1" id="pub-count" aria-live="polite"></div>
+</div>
+```
+
+{{< publications >}}
+
+<script src="js/publication-filter.js"></script>

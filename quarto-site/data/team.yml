@@ -1,0 +1,140 @@
+# BGM Lab team, shown on team.qmd in the order listed here.
+#
+# group:    current | affiliated   (affiliated = "Affiliated researchers & past members")
+# photo:    path from the site root, e.g. images/team/name.jpg (square-ish, ~600px)
+# email, website, scholar, github, orcid: optional; leave out what you don't have
+# bio:      short personal intro (2-4 sentences, Markdown allowed). Leave empty until written.
+#
+# TODO: positions and order still need to be checked by everyone.
+
+# ------------------------------------------------------------------ Researchers
+
+- name: Maarten Marsman
+  role: Assistant Professor · Principal Investigator
+  affiliation: Psychological Methods, University of Amsterdam
+  group: current
+  photo: images/team/maarten.jpg
+  email: m.marsman@uva.nl
+  website: https://www.maartenmarsman.com
+  scholar: https://scholar.google.com/citations?user=WgN2S4sAAAAJ&hl=en
+  github: https://github.com/MaartenMarsman
+  bio: "I am an Assistant Professor at the Psychological Methods Unit of the University of Amsterdam and Principal Investigator of the Bayesian Graphical Modeling project. My work combines psychometric theory with Bayesian inference and computational methods, focusing on Bayesian analysis of psychological data in general and graphical network models in particular."
+
+- name: Giuseppe Arena
+  role: Postdoctoral Researcher
+  affiliation: Psychological Methods, University of Amsterdam
+  group: current
+  photo: images/team/giuseppe.jpg
+  email: g.arena@uva.nl
+  website: https://giuseppearena.com
+  github: https://github.com/jupepis
+  bio: "I am a Postdoctoral Researcher at the Psychological Methods Unit of the University of Amsterdam. I work on Bayesian methods for model selection and inference on psychometric data using Bayesian graphical models, in particular MCMC methods and novel computational techniques. My other interests include (longitudinal) social network models, time-sensitive models of social interaction, and network models for biological and genetic processes."
+
+- name: Nikola Sekulovski
+  role: Postdoctoral Researcher
+  affiliation: Psychological Methods, University of Amsterdam
+  group: current
+  photo: images/team/nikola.jpg
+  email: n.sekulovski@uva.nl
+  website: https://nikolasekulovski.com
+  scholar: https://scholar.google.com/citations?user=cn5deUoAAAAJ&hl=en
+  github: https://github.com/sekulovskin
+  bio: "I am a postdoctoral researcher in the lab, specializing in Bayesian methods for analyzing graphical models applied to cross-sectional psychological data. My research interests are Bayesian hypothesis testing and network psychometrics."
+
+- name: Vipasha Goyal
+  role: PhD candidate
+  affiliation: Psychological Methods, University of Amsterdam
+  group: current
+  photo: images/team/vipasha.jpg
+  email: v.goyal@uva.nl
+  bio: ""
+
+- name: Emily Schutte
+  role: PhD candidate
+  affiliation: Psychological Methods, University of Amsterdam
+  group: current
+  photo: images/team/emily.jpg
+  email: e.j.schutte@uva.nl
+  bio: ""
+
+- name: Florian Metwaly
+  role: PhD candidate
+  affiliation: Psychological Methods, University of Amsterdam
+  group: current
+  photo: images/team/florian.jpg
+  email: f.j.metwaly@uva.nl
+  github: https://github.com/flo1met
+  orcid: https://orcid.org/0009-0001-8357-7870
+  bio: ""
+
+# ------------------------------------------- Affiliated researchers & past members
+
+- name: Johnny van Doorn
+  role: Assistant Professor
+  affiliation: Psychological Methods, University of Amsterdam
+  group: affiliated
+  photo: images/team/johnny.jpg
+  email: J.B.vanDoorn@uva.nl
+  website: https://johnnydoorn.github.io
+  scholar: https://scholar.google.com/citations?hl=en&user=7TL5ZKsAAAAJ
+  github: https://github.com/JohnnyDoorn
+  bio: ""
+
+- name: Jonas Haslbeck
+  role: Assistant Professor
+  affiliation: Methodology, Statistics & Data Science, Utrecht University
+  group: affiliated
+  photo: images/team/jonas.jpg
+  email: jonas.haslbeck@googlemail.com
+  website: https://jonashaslbeck.com
+  scholar: https://scholar.google.nl/citations?user=jmFh_isAAAAJ
+  github: https://github.com/jmbh
+  bio: "I develop methodology for the social and behavioral sciences, with a focus on research infrastructure and statistical methodology. Much of my methodological and applied work is based on a complex systems approach to science. In the Bayesian Graphical Modeling lab I develop models for intensive longitudinal data, extensions of network models, and network mixture models."
+
+- name: Don van den Bergh
+  role: Postdoctoral Researcher
+  affiliation: Psychological Methods, University of Amsterdam
+  group: affiliated
+  photo: images/team/don.jpg
+  email: d.vandenbergh@uva.nl
+  scholar: https://scholar.google.nl/citations?user=WbbKtuQAAAAJ&hl=en
+  github: https://github.com/vandenman
+  bio: "My research centers on Bayesian graphical models (mostly the Gaussian graphical model and variants of the Ising model) and general Bayesian inference (e.g., Bayesian regression and ANOVA). I am very interested in Markov chain Monte Carlo methods, especially those that work well with discrete parameters. I also contribute to JASP, an open-source statistical software program."
+
+- name: Karoline Huth
+  role: Postdoctoral Researcher
+  affiliation: Maastricht University & University of Amsterdam
+  group: affiliated
+  photo: images/team/karoline.jpg
+  email: k.s.huth@uva.nl
+  website: https://karolinehuth.github.io/
+  scholar: https://scholar.google.com/citations?user=_0707qYAAAAJ&hl=en
+  github: https://github.com/KarolineHuth
+  bio: "I am interested in modeling research questions and analyzing data with tools from systems and complexity science. In particular, I develop and evaluate statistical methods and apply them to better understand topics related to mental and public health."
+
+- name: Lourens Waldorp
+  role: Associate Professor
+  affiliation: Psychological Methods, University of Amsterdam
+  group: affiliated
+  photo: images/team/lourens.jpg
+  email: L.J.Waldorp@uva.nl
+  website: https://www.waldorp.nl/
+  scholar: https://scholar.google.nl/citations?user=tnmLj_IAAAAJ&hl=en
+  bio: "I studied psychology and mathematics at the University of Amsterdam and did my PhD in developmental psychology there. My expertise is in probability, statistics, networks, causality, and dynamics, with a focus on modelling. I collaborate with different organisations to model processes over time in different kinds of psychopathology."
+
+- name: Sara Keetelaar
+  role: PhD candidate
+  affiliation: Psychological Methods, University of Amsterdam
+  group: affiliated
+  photo: images/team/sara.jpg
+  github: https://github.com/sarakeetelaar
+  bio: ""
+
+- name: Thomas Bastelica
+  role: Clinical psychologist & PhD candidate
+  affiliation: Neuroscience Research Center of Lyon (CRNL), PSYR2
+  group: affiliated
+  photo: images/team/thomas.jpg
+  email: thomas.bastelica@ch-le-vinatier.fr
+  scholar: https://scholar.google.com/citations?user=QBZ9iJYAAAAJ&hl=en
+  bio: "After starting my career in a purely clinical setting, I joined the French network of Expert Centers in Psychiatry to integrate my clinical practice into fundamental and applied research. In my PhD I investigate how biological, psychological, and clinical factors influence cognition in psychiatric disorders, using psychometric network models."

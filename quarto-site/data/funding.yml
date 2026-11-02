@@ -1,0 +1,38 @@
+# Grants shown at the bottom of the homepage, newest first.
+# `amount` is kept for our records but not displayed (see templates/funding.ejs).
+
+- funder: "NWO Vidi grant"
+  title: "Robust inference for dynamic network models"
+  period: "2025–2030"
+  investigators: "M. Marsman"
+  amount: "850,000 EUR"
+
+- funder: "NWO Scientific Meetings and Consultations"
+  title: "Bayesian methods for the social sciences II"
+  period: "2024"
+  investigators: "M. Marsman, E.-J. Wagenmakers"
+  amount: "6,000 EUR"
+
+- funder: "UvA Social and Behavioural Data Science Centre, Workshop Grant"
+  title: "Bayesian methods for the social sciences II"
+  period: "2024"
+  investigators: "M. Marsman, E.-J. Wagenmakers"
+  amount: "2,500 EUR"
+
+- funder: "European Research Council, Starting Grant (no. 101040876)"
+  title: "A new Bayesian foundation for psychometric network modeling"
+  period: "2022–2027"
+  investigators: "M. Marsman"
+  amount: "1,500,000 EUR"
+
+- funder: "University of Amsterdam, ABC Project Grant"
+  title: "More than the sum of parts: Exploiting the synergy between psychological and brain networks"
+  period: "2022–2023"
+  investigators: "M. Marsman, A. G. Schrantee, T. F. Blanken"
+  amount: "250,000 EUR"
+
+- funder: "University of Amsterdam, UMH Project Grant"
+  title: "Developing a network theory of addiction and depression in an urban population"
+  period: "2020–2024"
+  investigators: "R. J. van Holst, M. Marsman, J. Luigjes, A. Goudriaan"
+  amount: "440,000 EUR"

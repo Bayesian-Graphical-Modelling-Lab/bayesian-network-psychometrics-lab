@@ -1,0 +1,8 @@
+<ul class="newsfeed">
+<% for (const item of items) { %>
+<li <%= metadataAttrs(item) %>>
+  <span class="news-date"><%- item.when %></span>
+  <div class="news-body"><span class="news-title"><%- item.title %></span><%- item.text %></div>
+</li>
+<% } %>
+</ul>

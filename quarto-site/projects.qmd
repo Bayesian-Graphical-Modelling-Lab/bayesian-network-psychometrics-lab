@@ -1,0 +1,37 @@
+---
+title: "Projects & working with us"
+toc: true
+---
+
+## Student projects
+
+We offer thesis projects (BSc and MSc) and research internships. The lab is a group of researchers who develop new graphical models and new methods for analysing them, which makes it a good place to sharpen your statistical and methodological skills. A student project usually contributes to one of our ongoing projects: programming a new method, running simulations or analyses, or checking that a new method works as intended.
+
+**How to apply.** Pick one of the areas below and email one of the people listed with it. Tell us briefly who you are, which programme you are in, when you would like to start, and what draws you to the topic. If you are not sure which area fits, or have a general question, email [Maarten Marsman](mailto:m.marsman@uva.nl).
+
+::: {.placeholder}
+Practical details: which programmes we supervise for (e.g., UvA Psychology, Research Master), typical project length, required background (R, statistics), and deadlines.
+:::
+
+### Research areas
+
+These are broad areas, not fixed projects. We work out the details together.
+
+| Area | Contact |
+|------|---------|
+| Develop graphical models of psychological data or analyse their properties (e.g., their dynamics) | [Jonas Haslbeck](mailto:jonas.haslbeck@googlemail.com), [Maarten Marsman](mailto:m.marsman@uva.nl), [Lourens Waldorp](mailto:L.J.Waldorp@uva.nl) |
+| Implement or evaluate Markov chain Monte Carlo and other computational methods for graphical models | [Giuseppe Arena](mailto:g.arena@uva.nl), [Maarten Marsman](mailto:m.marsman@uva.nl), [Don van den Bergh](mailto:d.vandenbergh@uva.nl) |
+| Bayesian methods for cross-sectional graphical models: prior specification, and deriving, implementing, or evaluating Bayesian hypothesis tests | [Nikola Sekulovski](mailto:n.sekulovski@uva.nl), [Maarten Marsman](mailto:m.marsman@uva.nl) |
+| Bayesian methods for longitudinal graphical models: prior specification, and deriving, implementing, or evaluating Bayesian hypothesis tests | [Jonas Haslbeck](mailto:jonas.haslbeck@googlemail.com), [Maarten Marsman](mailto:m.marsman@uva.nl) |
+| Demonstrate the Bayesian approach: demos, vignettes, tutorials, and guidelines | [Nikola Sekulovski](mailto:n.sekulovski@uva.nl), [Johnny van Doorn](mailto:J.B.vanDoorn@uva.nl) |
+| Re-analyse existing data with Bayesian graphical models | [Jonas Haslbeck](mailto:jonas.haslbeck@googlemail.com), [Nikola Sekulovski](mailto:n.sekulovski@uva.nl) |
+
+: {tbl-colwidths="[65,35]"}
+
+## Working with us
+
+::: {.placeholder}
+A short, general description of what the lab works on and how people can get involved beyond student projects: PhD and postdoc positions (see [News](news.qmd) for vacancies), research visits, and collaborations. General questions go to Maarten Marsman.
+:::
+
+**Contact:** [Maarten Marsman](mailto:m.marsman@uva.nl), Psychological Methods, University of Amsterdam.

@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - images/
+
+website:
+  title: "BGM Lab"
+  description: "The Bayesian Graphical Modeling Lab develops Bayesian methods and open-source software for the analysis of psychological networks."
+  site-url: https://bayesiangraphicalmodeling.com
+  favicon: images/bgm-mark-light.svg
+  page-navigation: false
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    logo:
+      light:
+        path: images/bgm-mark-light.svg
+        alt: "BGM Lab logo"
+      dark:
+        path: images/bgm-mark-dark.svg
+        alt: "BGM Lab logo"
+    title: "Bayesian Graphical Modeling Lab"
+    left:
+      - text: Team
+        href: team.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Software
+        href: software.qmd
+      - text: Workshops
+        href: workshops.qmd
+      - text: Projects
+        href: projects.qmd
+      # Blog & videos: uncomment once there is content.
+      # - text: Blog
+      #   href: blog/index.qmd
+    right:
+      - text: '<img src="images/software/bgms.svg" class="navbar-icon" alt="bgms">'
+        href: https://bayesian-graphical-modelling-lab.github.io/bgms/
+        aria-label: "bgms documentation"
+    tools:
+      - icon: github
+        href: https://github.com/Bayesian-Graphical-Modelling-Lab
+        aria-label: "BGM Lab on GitHub"
+  page-footer:
+    left: "© 2026 Bayesian Graphical Modeling Lab · Psychological Methods, University of Amsterdam"
+    center:
+      - text: "News"
+        href: news.qmd
+      - text: "Built with Quarto"
+        href: https://quarto.org
+    right:
+      - icon: github
+        href: https://github.com/Bayesian-Graphical-Modelling-Lab
+        aria-label: "BGM Lab on GitHub"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    smooth-scroll: true
+
+shortcodes:
+  - filters/publications.lua

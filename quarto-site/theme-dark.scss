@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Matches the dark theme of the bgms documentation site.
+$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$body-bg: #151515;
+$body-color: #f8f8f8;
+$primary: #75A8D9;
+$link-color: #75A8D9;
+$secondary: #707073;
+$navbar-bg: #202022;
+$navbar-fg: #aaaaab;
+$navbar-hl: #80afdc;
+$footer-bg: #151515;
+$code-bg: transparent;
+$code-color: rgb(192, 128, 216);
+
+/*-- scss:rules --*/
+
+.hero-banner .btn-action-primary {
+  background-color: #f8f8f8;
+  border: 1px solid #f8f8f8;
+  color: #242426;
+}
+
+.hero-banner .btn-action-primary:hover {
+  background-color: #d1dbe5;
+  border: 1px solid #f8f8f8;
+  color: #242426;
+}

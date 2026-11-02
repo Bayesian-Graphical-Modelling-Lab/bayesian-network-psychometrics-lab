@@ -1,0 +1,45 @@
+<%
+// Keep the HTML below unindented: pandoc reads this output as Markdown, and
+// lines indented four spaces or more would turn into code blocks.
+const slug = (name) => 'person-' + String(name).toLowerCase().normalize('NFD').replace(/[^a-z]+/g, '-');
+const host = (url) => String(url).replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '');
+%>
+<div class="team-grid">
+<% for (const item of items) { %>
+<button type="button" class="team-card" data-bs-toggle="modal" data-bs-target="#<%= slug(item.name) %>" <%= metadataAttrs(item) %>>
+<img class="team-photo" src="<%= item.photo %>" alt="" loading="lazy">
+<span class="team-name"><%- item.name %></span>
+<span class="team-role"><%- item.role %></span>
+<span class="team-more">Contact &amp; intro</span>
+</button>
+<% } %>
+</div>
+<% for (const item of items) { %>
+<div class="modal fade person-modal" id="<%= slug(item.name) %>" tabindex="-1" aria-labelledby="<%= slug(item.name) %>-label" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<h2 class="modal-title fs-4" id="<%= slug(item.name) %>-label"><%- item.name %></h2>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+<div class="person">
+<img class="team-photo" src="<%= item.photo %>" alt="<%= item.name %>" loading="lazy">
+<div>
+<p class="person-role"><%- item.role %></p>
+<p class="person-affiliation"><%- item.affiliation %></p>
+<ul class="person-contact">
+<% if (item.email) { %><li><i class="bi bi-envelope"></i><a href="mailto:<%= item.email %>"><%= item.email %></a></li><% } %>
+<% if (item.website) { %><li><i class="bi bi-globe"></i><a href="<%= item.website %>"><%= host(item.website) %></a></li><% } %>
+<% if (item.scholar) { %><li><i class="bi bi-mortarboard"></i><a href="<%= item.scholar %>">Google Scholar</a></li><% } %>
+<% if (item.github) { %><li><i class="bi bi-github"></i><a href="<%= item.github %>">GitHub</a></li><% } %>
+<% if (item.orcid) { %><li><i class="bi bi-person-vcard"></i><a href="<%= item.orcid %>">ORCID</a></li><% } %>
+</ul>
+<% if (item.bio) { %><div class="person-bio"><%- item.bio %></div><% } %>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<% } %>

@@ -1,0 +1,88 @@
+---
+title: "Workshops"
+toc: true
+---
+
+The BGM Lab teaches workshops on Bayesian analysis of graphical models: at the Psychosystems Network Analysis summer and winter schools (PSYNETS) at the University of Amsterdam, at conferences, and at other summer schools. A workshop usually has three parts: a lecture on the ideas behind Bayesian network analysis, a hands-on tutorial in R and JASP, and an assignment with solutions.
+
+::: {.placeholder}
+What kinds of workshops do we offer (length, level, format), and who should people contact to invite us?
+:::
+
+## Learn the software
+
+- The [bgms documentation](https://bayesian-graphical-modelling-lab.github.io/bgms/) has a [getting-started guide](https://bayesian-graphical-modelling-lab.github.io/bgms/guide/getting-started.html) and [worked analyses](https://bayesian-graphical-modelling-lab.github.io/bgms/examples/index.html) that take you from fitting a model to reporting the results.
+- [easybgm](https://cran.r-project.org/package=easybgm) wraps the analysis in a few function calls; [JASP](https://jasp-stats.org) does it point-and-click. See [Software](software.qmd) for all our packages.
+
+## Tutorial papers
+
+{{< publications keyword=tutorial >}}
+
+## Past workshops
+
+Slides, R scripts, data, and exercises are in our [workshop repository](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops) on GitHub. You are welcome to use them in your own teaching.
+
+### PSYNETS Summer School 2025
+
+Psychological Network Analysis summer school, hosted by the [Psychosystems lab](http://psychosystems.org/) at the University of Amsterdam.
+
+::: {.link-row}
+[<i class="bi bi-easel" aria-hidden="true"></i> Lecture slides](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/PSYNETS_Summer_2025/1_Lecture/Part%20I%20-%20Theory.pptx)
+[<i class="bi bi-easel" aria-hidden="true"></i> Tutorial slides](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/PSYNETS_Summer_2025/2_Tutorial/Part%20II%20-%20Tutorial.pptx)
+[<i class="bi bi-code-slash" aria-hidden="true"></i> R script](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/PSYNETS_Summer_2025/2_Tutorial/R_Tutorial.R)
+[<i class="bi bi-file-earmark-bar-graph" aria-hidden="true"></i> JASP file](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/PSYNETS_Summer_2025/2_Tutorial/JASP_DASS.jasp)
+[<i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Assignment](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/PSYNETS_Summer_2025/3_Assignment/Assignment.pdf)
+[<i class="bi bi-file-earmark-check" aria-hidden="true"></i> Solutions](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/PSYNETS_Summer_2025/3_Assignment/Assignment_solutions.pdf)
+[<i class="bi bi-folder2-open" aria-hidden="true"></i> All materials](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/tree/main/PSYNETS_Summer_2025)
+:::
+
+### PSYNETS Winter School 2025
+
+Psychological Network Analysis winter school, hosted by the [Psychosystems lab](http://psychosystems.org/) at the University of Amsterdam.
+
+::: {.link-row}
+[<i class="bi bi-easel" aria-hidden="true"></i> Lecture slides](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/PSYNETS_Winter_2025/1_Lecture/Part%20I%20-%20Theory.pptx)
+[<i class="bi bi-easel" aria-hidden="true"></i> Tutorial slides](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/PSYNETS_Winter_2025/2_Tutorial/Part%20II%20-%20Tutorial.pptx)
+[<i class="bi bi-code-slash" aria-hidden="true"></i> R script](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/PSYNETS_Winter_2025/2_Tutorial/R_Tutorial.R)
+[<i class="bi bi-file-earmark-bar-graph" aria-hidden="true"></i> JASP file](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/PSYNETS_Winter_2025/2_Tutorial/JASP_DASS.jasp)
+[<i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Assignment](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/PSYNETS_Winter_2025/3_Assignment/Assignment.pdf)
+[<i class="bi bi-file-earmark-check" aria-hidden="true"></i> Solutions](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/PSYNETS_Winter_2025/3_Assignment/Assignment_solutions.pdf)
+[<i class="bi bi-folder2-open" aria-hidden="true"></i> All materials](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/tree/main/PSYNETS_Winter_2025)
+:::
+
+### Bayesian Methods for the Social Sciences II (2024)
+
+Tutorial session at the [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org/) workshop.
+
+::: {.link-row}
+[<i class="bi bi-easel" aria-hidden="true"></i> Lecture: context](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/BMSS_2024/1_Lecture/Part%20I%20-%20Context.pptx)
+[<i class="bi bi-easel" aria-hidden="true"></i> Lecture: theory](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/BMSS_2024/1_Lecture/Part%20II%20-%20Theory.pptx)
+[<i class="bi bi-easel" aria-hidden="true"></i> Tutorial slides](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/BMSS_2024/2_Tutorial/Part%20III%20-%20Tutorial.pptx)
+[<i class="bi bi-code-slash" aria-hidden="true"></i> R script](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/BMSS_2024/2_Tutorial/R_Tutorial.R)
+[<i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Assignment](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/BMSS_2024/3_Assignment/Assignment_easybgm_Bayesian.pdf)
+[<i class="bi bi-file-earmark-check" aria-hidden="true"></i> Solutions](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/BMSS_2024/3_Assignment/solutions/Assignment_easybgm_Bayesian_solution.pdf)
+[<i class="bi bi-folder2-open" aria-hidden="true"></i> All materials](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/tree/main/BMSS_2024)
+:::
+
+### WiP 2024
+
+::: {.placeholder}
+Full name and a one-line description of this workshop.
+:::
+
+::: {.link-row}
+[<i class="bi bi-easel" aria-hidden="true"></i> Lecture: context](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/WiP_2024/1_Lecture/Part%20I%20-%20Context.pptx)
+[<i class="bi bi-easel" aria-hidden="true"></i> Lecture: theory](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/WiP_2024/1_Lecture/Part%20II%20-%20Theory.pptx)
+[<i class="bi bi-easel" aria-hidden="true"></i> Tutorial slides](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/raw/main/WiP_2024/2_Tutorial/Part%20III%20-%20Tutorial.pptx)
+[<i class="bi bi-code-slash" aria-hidden="true"></i> R script](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/WiP_2024/2_Tutorial/R_Tutorial.R)
+[<i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Assignment](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/WiP_2024/3_Assignment/Assignment_easybgm_Bayesian.pdf)
+[<i class="bi bi-file-earmark-check" aria-hidden="true"></i> Solutions](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/blob/main/WiP_2024/3_Assignment/solutions/Assignment_easybgm_Bayesian_solution.pdf)
+[<i class="bi bi-folder2-open" aria-hidden="true"></i> All materials](https://github.com/Bayesian-Graphical-Modelling-Lab/BGM_Workshops/tree/main/WiP_2024)
+:::
+
+### Earlier workshops
+
+- Psychosystems Network Analysis Winter School 2024
+- Symposium on Bayesian analysis of networks, MathPsych 2023, Amsterdam
+- Psychosystems Network Analysis Summer School 2023
+- Psychosystems Network Analysis Winter School 2023

@@ -1,0 +1,30 @@
+---
+title: "Team"
+listing:
+  - id: current
+    contents: data/team.yml
+    template: templates/team.ejs
+    sort: false
+    include:
+      group: current
+  - id: affiliated
+    contents: data/team.yml
+    template: templates/team.ejs
+    sort: false
+    include:
+      group: affiliated
+---
+
+Click on a person for their contact details and a short introduction.
+
+## Researchers
+
+::: {#current}
+:::
+
+## Affiliated researchers & past members
+
+::: {#affiliated}
+:::
+
+Interested in working with us? See [Projects](projects.qmd) or contact [Maarten Marsman](mailto:m.marsman@uva.nl).

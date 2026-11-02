@@ -1,0 +1,89 @@
+---
+title: "Software"
+---
+
+All of our software is open source. If you are new to Bayesian network analysis, start with the [bgms documentation](https://bayesian-graphical-modelling-lab.github.io/bgms/), which has a getting-started guide and worked analyses, or with the point-and-click analysis in [JASP](https://jasp-stats.org).
+
+::: {.software-list}
+
+::: {.software-item}
+::: {.software-logo}
+![](images/software/bgms.svg){fig-alt="bgms hex sticker"}
+:::
+::: {}
+### bgms
+
+Bayesian estimation and model comparison for graphical models of binary, ordinal, continuous, and mixed variables. bgms quantifies the evidence for including or excluding each edge, tests for group differences in network parameters, and finds communities of related edges with Bayesian edge clustering. A C++ backend with a parallel No-U-Turn sampler keeps it fast.
+
+::: {.link-row}
+[<i class="bi bi-book" aria-hidden="true"></i> Documentation & tutorials](https://bayesian-graphical-modelling-lab.github.io/bgms/)
+[<i class="bi bi-box-seam" aria-hidden="true"></i> CRAN](https://cran.r-project.org/package=bgms)
+[<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/Bayesian-Graphical-Modelling-Lab/bgms)
+:::
+:::
+:::
+
+::: {.software-item}
+::: {.software-logo}
+![](images/software/easybgm.svg){fig-alt="easybgm hex sticker"}
+:::
+::: {}
+### easybgm
+
+A user-friendly front end for Bayesian analysis of graphical models. easybgm fits the model with one function call, extracts the results, and makes the standard plots: edge evidence, network structure, posterior estimates, and centrality. See the [easybgm paper](https://doi.org/10.56296/aip00010) for a walkthrough.
+
+::: {.link-row}
+[<i class="bi bi-box-seam" aria-hidden="true"></i> CRAN](https://cran.r-project.org/package=easybgm)
+[<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/Bayesian-Graphical-Modelling-Lab/easybgm)
+:::
+:::
+:::
+
+::: {.software-item}
+::: {.software-logo}
+![](images/software/bvarnet.png){fig-alt="bvarnet logo"}
+:::
+::: {}
+### bvarnet
+
+Bayesian estimation of multilevel vector autoregressive (VAR) models with Stan, for the dynamic networks of intensive longitudinal data. Supports Gaussian, binary, and ordinal (adjacent category) outcomes, with random effects and customisable priors.
+
+::: {.link-row}
+[<i class="bi bi-book" aria-hidden="true"></i> Documentation](https://flo1met.github.io/bvarnet/)
+[<i class="bi bi-box-seam" aria-hidden="true"></i> CRAN](https://cran.r-project.org/package=bvarnet)
+[<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/flo1met/bvarnet)
+:::
+:::
+:::
+
+::: {.software-item}
+::: {.software-logo}
+<i class="bi bi-chat-square-text" aria-hidden="true"></i>
+:::
+::: {}
+### bgmElicit
+
+Elicits prior edge inclusion probabilities for Bayesian graphical models from large language models. You give it the variables and, optionally, some context about the study, and it queries an LLM about the conditional associations between each pair. It can also elicit the parameters of the Beta-Bernoulli and Stochastic Block priors on the network structure. The method is described in [Sekulovski, Waaijers, & Arena (in press)](https://doi.org/10.1111/bmsp.70045).
+
+::: {.link-row}
+[<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/sekulovskin/bgmElicit)
+:::
+:::
+:::
+
+::: {.software-item}
+::: {.software-logo}
+<i class="bi bi-window-stack" aria-hidden="true"></i>
+:::
+::: {}
+### JASP
+
+Free, open-source statistics software with a graphical interface. Load your data, point and click to select an analysis, and get the frequentist and Bayesian versions of most common analyses, including Bayesian network analysis. [Huth et al. (2023)](https://doi.org/10.1177/25152459231193334) is a tutorial on Bayesian network analysis in R and JASP.
+
+::: {.link-row}
+[<i class="bi bi-download" aria-hidden="true"></i> jasp-stats.org](https://jasp-stats.org)
+:::
+:::
+:::
+
+:::

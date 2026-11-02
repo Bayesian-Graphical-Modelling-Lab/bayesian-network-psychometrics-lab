@@ -1,0 +1,15 @@
+<% let year = null; %>
+<% for (const item of items) { %>
+<% const y = String(item.when).trim().slice(-4); %>
+<% if (y !== year) { %>
+<% if (year !== null) { %></ul><% } %>
+<% year = y; %>
+<h2 class="news-year"><%= y %></h2>
+<ul class="newsfeed">
+<% } %>
+<li <%= metadataAttrs(item) %>>
+  <span class="news-date"><%- item.when %></span>
+  <div class="news-body"><span class="news-title"><%- item.title %></span><%- item.text %></div>
+</li>
+<% } %>
+<% if (year !== null) { %></ul><% } %>
